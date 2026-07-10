@@ -21,6 +21,10 @@ header {
 
 main {
     margin: 50px;
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .headerButton {
@@ -74,6 +78,18 @@ main {
     padding-left: 3em;
     padding-right: 3em;
     border-radius: 15px;
+    min-width: 30%;
+    max-width: 50%;
+    text-align: center;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 .blue {
