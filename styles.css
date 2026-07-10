@@ -2,11 +2,11 @@
 
 * {
     font-family: Manrope, sans-serif;
+    color: #4C4650;
 }
 
 body {
     background: #FFF9F5; 
-    color: #4C4650;
     margin: 0;
 }
 
@@ -14,33 +14,59 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #FFFFFF;
-    border: 1px solid #E9E3E0;
-    padding: 20px;
+    background: #a2d1ec;
+    padding: 0 50px;
+    border-radius: 0 0 50px 50px;
 }
 
 main {
     margin: 50px;
 }
 
-button {
-    background: #F8C8DC;
-    color: #7A4B63;
-    border: 2px solid #DAA06D;
-    border-radius: 999px;
-    padding: .7em 1.6em;
-    font-weight: 700;
+.headerButton {
+    width: 140px;
+    height: 60px;
+    background-color: #FFF;
+    border-radius: 100px;
+    border: none;
+    position: relative;
+    z-index: 1;
+    font-size: 1.2em;
+    transition: transform 0.2s ease;
+}
+
+.headerButton::before {
+    content: "";
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #FFF;
+    top: -15px;
+    left: 5px;
+    position: absolute;
+    z-index: -1;
+}
+
+.headerButton::after {
+    content: "";
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: #FFF;
+    top: -30px;
+    left: 40px;
+    position: absolute;
+    z-index: -1;
+}
+
+.headerButton:hover {
     cursor: pointer;
-    transition: .2s ease;
+    transform: rotate(5deg);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-button:hover {
-    transform: translateY(-2px);
-    background: #FFD7E8;
-}
-
-button:active {
-    transform: translateY(0);
+.headerButton:active {
+    transform: translateY(4px) scale(0.98);
 }
 
 .card {
