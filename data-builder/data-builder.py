@@ -35,7 +35,5 @@ for table in tables:
             "image_url": image_url
         })
 
-print(collections)
-
-json_str = json.dumps(collections)
-print(json_str)
+with open('item-collections.json', 'w') as final:
+    json.dump(collections, final, indent=4)
