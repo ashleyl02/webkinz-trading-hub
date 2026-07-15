@@ -11,7 +11,27 @@ headers = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 
-page = requests.get(url, headers=headers, timeout=30)
+page = requests.get(url, headers=headers)
 soup = BeautifulSoup(page.text, "html.parser")
 
 tables = soup.find_all("table")
+
+collections = []
+
+for table in tables:
+    for cell in table.find_all("td"):
+        img = cell.find("img")
+        links = cell.find_all("a")
+
+        if not img or not links:
+            continue
+
+        title = links[-1].text.strip()
+        image_url = "http:" + img["src"]
+
+        collections.append({
+            "title": title,
+            "image_url": image_url
+        })
+
+print(collections)
