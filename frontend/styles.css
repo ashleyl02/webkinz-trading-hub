@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Manrope:200,300,regular,500,600,700,800);
+
+* {
+    font-family: Manrope, sans-serif;
+    color: #4C4650;
+}
+
+body {
+    background: #FFF9F5; 
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #a2d1ec;
+    padding: 0 50px;
+    border-radius: 0 0 50px 50px;
+}
+
+main {
+    margin: 50px;
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.headerButton {
+    width: 140px;
+    height: 60px;
+    background-color: #FFF;
+    border-radius: 100px;
+    border: none;
+    position: relative;
+    z-index: 1;
+    font-size: 1.2em;
+    transition: transform 0.2s ease;
+}
+
+.headerButton::before {
+    content: "";
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #FFF;
+    top: -15px;
+    left: 5px;
+    position: absolute;
+    z-index: -1;
+}
+
+.headerButton::after {
+    content: "";
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: #FFF;
+    top: -30px;
+    left: 40px;
+    position: absolute;
+    z-index: -1;
+}
+
+.headerButton:hover {
+    cursor: pointer;
+    transform: rotate(5deg);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.headerButton:active {
+    transform: translateY(4px) scale(0.98);
+}
+
+.card {
+    padding: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-radius: 15px;
+    min-width: 30%;
+    max-width: 50%;
+    text-align: center;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.blue {
+    background-color: #AFC8CF;
+    border: 8px dashed #8BB4C6;
+    box-shadow: 0 0 0 10px #AFC8CF, 2px 2px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+.pink {
+    background-color: #E8BBBE;
+    border: 8px dashed #DFA4A6;
+    box-shadow: 0 0 0 10px #E8BBBE, 2px 2px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+.yellow {
+    background-color: #FFFDE4;
+    border: 8px dashed #FAF0BB;
+    box-shadow: 0 0 0 10px #FFFDE4, 2px 2px 4px 2px rgba(0, 0, 0, 0.5);
+}
