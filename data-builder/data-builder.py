@@ -1,4 +1,5 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 
 url = "https://webkinzguide.com/wiki/Item_Collections"
@@ -35,3 +36,6 @@ for table in tables:
         })
 
 print(collections)
+
+json_str = json.dumps(collections)
+print(json_str)
