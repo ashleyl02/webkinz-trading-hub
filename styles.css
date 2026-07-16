@@ -27,11 +27,6 @@ main {
     flex-wrap: wrap;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
 .headerButton {
     width: 140px;
     height: 60px;
