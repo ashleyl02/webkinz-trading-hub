@@ -21,10 +21,6 @@ header {
 
 main {
     margin: 50px;
-    display: flex;
-    gap: 50px;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
 }
 
 .headerButton {
@@ -71,6 +67,13 @@ main {
 
 .headerButton:active {
     transform: translateY(4px) scale(0.98);
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .card {
