@@ -17,7 +17,10 @@ soup = BeautifulSoup(page.text, "html.parser")
 
 tables = soup.find_all("table")
 
+collections_names = ["type", "theme", "color", "misc"]
 collections = []
+
+count = 0
 
 for table in tables:
     for cell in table.find_all("td"):
@@ -34,6 +37,7 @@ for table in tables:
             "title": title,
             "image_url": image_url
         })
-
-with open('item-collections.json', 'w') as final:
-    json.dump(collections, final, indent=4)
+    with open(collections_names[count] + '-collections.json', 'w') as final:
+        json.dump(collections, final, indent=4)
+    collections = []
+    count += 1
