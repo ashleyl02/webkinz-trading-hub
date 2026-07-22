@@ -84,6 +84,7 @@ main {
     min-width: 30%;
     max-width: 50%;
     text-align: center;
+    margin: auto;
 }
 
 .card a {
