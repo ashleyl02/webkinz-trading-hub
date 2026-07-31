@@ -16,3 +16,32 @@ function openCollection(evt, collectiontype) {
     document.getElementById(collectiontype).style.display = "block";
     evt.currentTarget.className += " active";
 }
+
+function loadCollection(jsonFile, gridId) {
+    fetch(jsonFile)
+        .then(response => response.json())
+        .then(items => {
+            const grid = document.getElementById(gridId);
+            items.forEach(item => {
+                const card = document.createElement("div");
+                card.className = "item-card";
+
+                const img = document.createElement("img");
+                img.src = item.image_url;
+                img.alt = item.title;
+
+                const caption = document.createElement("p");
+                caption.textContent = item.title;
+                
+                card.appendChild(img);
+                card.appendChild(caption);
+                grid.appendChild(card);
+            });
+        })
+        .catch(error => console.error(`Error loading collection: ${jsonFile}`, error));
+}
+
+loadCollection('../data-builder/type-collections.json', 'type');
+loadCollection('../data-builder/theme-collections.json', 'theme');
+loadCollection('../data-builder/color-collections.json', 'color');
+loadCollection('../data-builder/misc-collections.json', 'misc');
