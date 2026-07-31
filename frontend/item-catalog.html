@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <title>Webkinz Trading Hub - Items</title> 
         <link rel="stylesheet" href="styles.css">
-        <script src="script.js"></script>
+        <script src="script.js" defer></script>
     </head> 
     <body> 
         <header>
@@ -22,10 +22,10 @@
             <nav class="card pink"">
                 <h2>Browse Items</h2>
                 <div class="tabs">
-                    <button id="type-button" class="tab-links" onclick="openCollection(event, 'type')">Type</button>
-                    <button id="theme-button" class="tab-links" onclick="openCollection(event, 'theme')">Theme</button>
-                    <button id="color-button" class="tab-links" onclick="openCollection(event, 'color')">Color</button>
-                    <button id="misc-button" class="tab-links" onclick="openCollection(event, 'misc')">Misc</button>
+                    <button class="tab-links" onclick="openCollection(event, 'type')" id="default-open">Type</button>
+                    <button class="tab-links" onclick="openCollection(event, 'theme')">Theme</button>
+                    <button class="tab-links" onclick="openCollection(event, 'color')">Color</button>
+                    <button class="tab-links" onclick="openCollection(event, 'misc')">Misc</button>
                 </div>
                 <h3><a>View All</a></h3>
             </nav>

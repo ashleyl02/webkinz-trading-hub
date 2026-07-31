@@ -1,3 +1,5 @@
+document.getElementById("default-open").click();
+
 function openCollection(evt, collectiontype) {
     var i, tabcontent, tablinks;
 
