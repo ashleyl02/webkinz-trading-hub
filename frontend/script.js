@@ -23,7 +23,7 @@ function loadCollection(jsonFile, collectiontype) {
         .then(items => {
             const collection = document.querySelector(`#${collectiontype} .items`);
             items.forEach(item => {
-                const card = document.createElement("div");
+                const card = document.createElement("a");
                 card.className = "item-card";
 
                 const img = document.createElement("img");
