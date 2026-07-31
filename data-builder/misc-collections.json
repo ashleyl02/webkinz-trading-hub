@@ -1,34 +1,50 @@
 [
     {
+        "id": "candy-trees-and-tie-ins",
         "title": "Candy Trees & Tie-ins",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b3/Rainbowribboncandytree.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Rainbowribboncandytree.png",
+        "page_url": "https://webkinzguide.com/wiki/Candy_Trees_%26_Tie-ins_Collection"
     },
     {
+        "id": "dispensers-and-foods",
         "title": "Dispensers & Foods",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/ad/Chocolatefonduefountain.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Chocolatefonduefountain.png",
+        "page_url": "https://webkinzguide.com/wiki/Dispensers_%26_Foods_Collection"
     },
     {
+        "id": "grand-prizes",
         "title": "Grand Prizes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1c/Orchardappletree.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Orchardappletree.png",
+        "page_url": "https://webkinzguide.com/wiki/Grand_Prize_Collection"
     },
     {
+        "id": "growing-seeds-and-foods",
         "title": "Growing Seeds & Foods",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/57/Orangetreegrowinggardensseeds.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Orangetreegrowinggardensseeds.png",
+        "page_url": "https://webkinzguide.com/wiki/Growing_Seeds_%26_Foods_Collection"
     },
     {
+        "id": "kinz-cottages-and-tie-ins",
         "title": "Kinz Cottages & Tie-ins",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f5/Booknookcottage.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Booknookcottage.png",
+        "page_url": "https://webkinzguide.com/wiki/Kinz_Cottages_%26_Tie-ins_Collection"
     },
     {
+        "id": "prize-foods",
         "title": "Prize Foods",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/16/Blueberryprizepie.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Blueberryprizepie.png",
+        "page_url": "https://webkinzguide.com/wiki/Prize_Food_Collection"
     },
     {
+        "id": "recolored-items",
         "title": "Recolored Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e5/Moonlightgarden.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Moonlightgarden.png",
+        "page_url": "https://webkinzguide.com/wiki/Recolored_Items_Collection"
     },
     {
+        "id": "rotated-views",
         "title": "Rotated Views",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/d4/Toadstoolhollowlamp.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Toadstoolhollowlamp.png",
+        "page_url": "https://webkinzguide.com/wiki/Rotatable_Collection"
     }
 ]

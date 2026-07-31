@@ -1,78 +1,116 @@
 [
     {
+        "id": "animal-items",
         "title": "Animal Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/31/Fancyfoxfridge.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Fancyfoxfridge.png",
+        "page_url": "https://webkinzguide.com/wiki/Animal_Item_Collection"
     },
     {
+        "id": "arcade",
         "title": "Arcade",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/13/Kinzpinzbowlingarcadeunit.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Kinzpinzbowlingarcadeunit.png",
+        "page_url": "https://webkinzguide.com/wiki/Arcade_Collection"
     },
     {
+        "id": "bubbles",
         "title": "Bubbles",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/78/Bubblewrapchair.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Bubblewrapchair.png",
+        "page_url": "https://webkinzguide.com/wiki/Bubble_Collection"
     },
     {
+        "id": "candy-items",
         "title": "Candy Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fa/Cottoncandysofa.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Cottoncandysofa.png",
+        "page_url": "https://webkinzguide.com/wiki/Candy_Item_Collection"
     },
     {
+        "id": "dessert-items",
         "title": "Dessert Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/39/Cupcakechair.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Cupcakechair.png",
+        "page_url": "https://webkinzguide.com/wiki/Dessert_Item_Collection"
     },
     {
+        "id": "doors",
         "title": "Doors",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1c/Thanksgivingdecorateddoor.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Thanksgivingdecorateddoor.png",
+        "page_url": "https://webkinzguide.com/wiki/Door_Collection"
     },
     {
+        "id": "fan-designed-items",
         "title": "Fan Designed Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f7/Modholidaysleepingnook.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Modholidaysleepingnook.png",
+        "page_url": "https://webkinzguide.com/wiki/Fan_Designed_Item_Collection"
     },
     {
+        "id": "food-trucks",
         "title": "Food Trucks",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8d/Foodtruckfridge.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Foodtruckfridge.png",
+        "page_url": "https://webkinzguide.com/wiki/Food_Truck_Collection"
     },
     {
+        "id": "fortune-tellers",
         "title": "Fortune Tellers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e1/Crankyfortuneteller.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Crankyfortuneteller.png",
+        "page_url": "https://webkinzguide.com/wiki/Fortune_Telling_Collection"
     },
     {
+        "id": "fruit-items",
         "title": "Fruit Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/20/Prizedpineapplechair.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Prizedpineapplechair.png",
+        "page_url": "https://webkinzguide.com/wiki/Fruit_Item_Collection"
     },
     {
+        "id": "gingerbread-items",
         "title": "Gingerbread Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/22/Gingerbreadoven.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Gingerbreadoven.png",
+        "page_url": "https://webkinzguide.com/wiki/Gingerbread_Collection"
     },
     {
+        "id": "hosts",
         "title": "Hosts",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/12/Msbirdypinkplushy.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Msbirdypinkplushy.png",
+        "page_url": "https://webkinzguide.com/wiki/Host_Collection"
     },
     {
+        "id": "kinzcash",
         "title": "KinzCash",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/ab/Bigpileofkinzcashbed.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Bigpileofkinzcashbed.png",
+        "page_url": "https://webkinzguide.com/wiki/KinzCash_Collection"
     },
     {
+        "id": "miniature-items",
         "title": "Miniature Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/99/Miniwindturbine.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Miniwindturbine.png",
+        "page_url": "https://webkinzguide.com/wiki/Miniature_Item_Collection"
     },
     {
+        "id": "mushrooms",
         "title": "Mushrooms",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/ce/Enchantedmushroomlamp.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Enchantedmushroomlamp.png",
+        "page_url": "https://webkinzguide.com/wiki/Mushroom_Collection"
     },
     {
+        "id": "sports",
         "title": "Sports",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b3/Nothingbutnetsidetable.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Nothingbutnetsidetable.png",
+        "page_url": "https://webkinzguide.com/wiki/Sport_Collection"
     },
     {
+        "id": "tea-sets",
         "title": "Tea Sets",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f2/Toadstoolteaset.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Toadstoolteaset.png",
+        "page_url": "https://webkinzguide.com/wiki/Tea_Set_Collection"
     },
     {
+        "id": "vegetable-items",
         "title": "Vegetable Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/52/Eggplantcountertop.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Eggplantcountertop.png",
+        "page_url": "https://webkinzguide.com/wiki/Vegetable_Item_Collection"
     },
     {
+        "id": "wacky-zingoz-and-zangoz",
         "title": "Wacky Zingoz & Zangoz",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/35/Giantzingozplushy.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Giantzingozplushy.png",
+        "page_url": "https://webkinzguide.com/wiki/Wacky_Zingoz_%26_Zangoz_Collection"
     }
 ]

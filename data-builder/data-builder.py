@@ -31,11 +31,18 @@ for table in tables:
             continue
 
         title = links[-1].text.strip()
-        image_url = "http:" + img["src"]
+        image_url = "https:" + img["src"]
+        page_url = "https://webkinzguide.com" + links[-1]["href"]
+
+        collection_id = (
+            title.lower().replace("&", "and").replace(" ", "-")
+        )
 
         collections.append({
+            "id": collection_id,
             "title": title,
-            "image_url": image_url
+            "image_url": image_url,
+            "page_url": page_url
         })
     with open(collections_names[count] + '-collections.json', 'w') as final:
         json.dump(collections, final, indent=4)

@@ -1,378 +1,566 @@
 [
     {
+        "id": "action-figures",
         "title": "Action Figures",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/81/Wackyactionfigure.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Wackyactionfigure.png",
+        "page_url": "https://webkinzguide.com/wiki/Action_Figure_Collection"
     },
     {
+        "id": "ball-pits",
         "title": "Ball Pits",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/22/Playfulpupballpit.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Playfulpupballpit.png",
+        "page_url": "https://webkinzguide.com/wiki/Ball_Pit_Collection"
     },
     {
+        "id": "balloons",
         "title": "Balloons",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8b/Kiwiballoons.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Kiwiballoons.png",
+        "page_url": "https://webkinzguide.com/wiki/Balloon_Collection"
     },
     {
+        "id": "banners-and-tapestries",
         "title": "Banners & Tapestries",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/db/Medievalliontapestry.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Medievalliontapestry.png",
+        "page_url": "https://webkinzguide.com/wiki/Banner_%26_Tapestry_Collection"
     },
     {
+        "id": "bathtubs-and-showers",
         "title": "Bathtubs & Showers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/9c/Relaxinglongtub.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Relaxinglongtub.png",
+        "page_url": "https://webkinzguide.com/wiki/Bathtub_%26_Shower_Collection"
     },
     {
+        "id": "beds",
         "title": "Beds",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/4a/Chicsatinbed.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Chicsatinbed.png",
+        "page_url": "https://webkinzguide.com/wiki/Bed_Collection"
     },
     {
+        "id": "board-games",
         "title": "Board Games",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/cc/Checkers.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Checkers.png",
+        "page_url": "https://webkinzguide.com/wiki/Board_Game_Collection"
     },
     {
+        "id": "bobbleheads",
         "title": "Bobbleheads",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/33/Mermaidbobblehead.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Mermaidbobblehead.png",
+        "page_url": "https://webkinzguide.com/wiki/Bobblehead_Collection"
     },
     {
+        "id": "books-and-papers",
         "title": "Books & Papers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/9e/Noveltystorybook.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Noveltystorybook.png",
+        "page_url": "https://webkinzguide.com/wiki/Book_%26_Paper_Collection"
     },
     {
+        "id": "bookshelves",
         "title": "Bookshelves",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/7b/Hauntedcastlebookshelf.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Hauntedcastlebookshelf.png",
+        "page_url": "https://webkinzguide.com/wiki/Bookshelf_Collection"
     },
     {
+        "id": "border-buildings",
         "title": "Border Buildings",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1e/Halloweencostumeshop.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Halloweencostumeshop.png",
+        "page_url": "https://webkinzguide.com/wiki/Border_Building_Collection"
     },
     {
+        "id": "bridges",
         "title": "Bridges",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fe/Bloomingspringbridge.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Bloomingspringbridge.png",
+        "page_url": "https://webkinzguide.com/wiki/Bridge_Collection"
     },
     {
+        "id": "building-kits",
         "title": "Building Kits",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/cf/Logcabin.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Logcabin.png",
+        "page_url": "https://webkinzguide.com/wiki/Building_Kit_Collection"
     },
     {
+        "id": "cameras",
         "title": "Cameras",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/bc/Digitalcamera.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Digitalcamera.png",
+        "page_url": "https://webkinzguide.com/wiki/Camera_Collection"
     },
     {
+        "id": "candles",
         "title": "Candles",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b3/Gourdtablecandle.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Gourdtablecandle.png",
+        "page_url": "https://webkinzguide.com/wiki/Candle_Collection"
     },
     {
+        "id": "cannons-and-launchers",
         "title": "Cannons & Launchers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b6/Boundingbigtopcannon.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Boundingbigtopcannon.png",
+        "page_url": "https://webkinzguide.com/wiki/Cannon_%26_Launcher_Collection"
     },
     {
+        "id": "cash-registers",
         "title": "Cash Registers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fb/Checkoutcounter.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Checkoutcounter.png",
+        "page_url": "https://webkinzguide.com/wiki/Cash_Register_Collection"
     },
     {
+        "id": "cellars-and-trapdoors",
         "title": "Cellars & Trapdoors",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8e/Berrypreservecellar.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Berrypreservecellar.png",
+        "page_url": "https://webkinzguide.com/wiki/Cellar_%26_Trapdoor_Collection"
     },
     {
+        "id": "christmas-trees",
         "title": "Christmas Trees",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/75/Silverchristmastree.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Silverchristmastree.png",
+        "page_url": "https://webkinzguide.com/wiki/Christmas_Tree_Collection"
     },
     {
+        "id": "clocks",
         "title": "Clocks",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/5a/Darkwizardclock.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Darkwizardclock.png",
+        "page_url": "https://webkinzguide.com/wiki/Clock_Collection"
     },
     {
+        "id": "columns",
         "title": "Columns",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/dc/Specialcelebrationpillar.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Specialcelebrationpillar.png",
+        "page_url": "https://webkinzguide.com/wiki/Column_Collection"
     },
     {
+        "id": "computers",
         "title": "Computers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/31/2016laptopcomputer.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/2016laptopcomputer.png",
+        "page_url": "https://webkinzguide.com/wiki/Computer_Collection"
     },
     {
+        "id": "cottages",
         "title": "Cottages",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/29/Charmingcottage.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Charmingcottage.png",
+        "page_url": "https://webkinzguide.com/wiki/Cottage_Collection"
     },
     {
+        "id": "curtains-and-windows",
         "title": "Curtains & Windows",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fc/Cheekycherrycurtains.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Cheekycherrycurtains.png",
+        "page_url": "https://webkinzguide.com/wiki/Curtain_%26_Window_Collection"
     },
     {
+        "id": "decorative-food-and-place-settings",
         "title": "Decorative Food & Place Settings",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/cc/Nachoplatter.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Nachoplatter.png",
+        "page_url": "https://webkinzguide.com/wiki/Decorative_Food_%26_Place_Setting_Collection"
     },
     {
+        "id": "display-boards",
         "title": "Display Boards",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/d4/Bulletinboard.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Bulletinboard.png",
+        "page_url": "https://webkinzguide.com/wiki/Display_Board_Collection"
     },
     {
+        "id": "display-cases",
         "title": "Display Cases",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/84/Trophycase.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Trophycase.png",
+        "page_url": "https://webkinzguide.com/wiki/Display_Case_Collection"
     },
     {
+        "id": "fences",
         "title": "Fences",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/44/Valentinefencepiece.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Valentinefencepiece.png",
+        "page_url": "https://webkinzguide.com/wiki/Fence_Collection"
     },
     {
+        "id": "fireplaces",
         "title": "Fireplaces",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/c7/Redantiquefireplace.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Redantiquefireplace.png",
+        "page_url": "https://webkinzguide.com/wiki/Fireplace_Collection"
     },
     {
+        "id": "flags",
         "title": "Flags",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/5d/Kinzvilleacademyflagpole.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Kinzvilleacademyflagpole.png",
+        "page_url": "https://webkinzguide.com/wiki/Flag_Collection"
     },
     {
+        "id": "flooring",
         "title": "Flooring",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1a/Woodlandfairyflooring.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Woodlandfairyflooring.png",
+        "page_url": "https://webkinzguide.com/wiki/Flooring_Collection"
     },
     {
+        "id": "food-carts-and-stands",
         "title": "Food Carts & Stands",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/c1/Cottoncandymaker.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Cottoncandymaker.png",
+        "page_url": "https://webkinzguide.com/wiki/Food_Cart_%26_Stand_Collection"
     },
     {
+        "id": "fountains",
         "title": "Fountains",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/47/Enchantedgardenfountain.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Enchantedgardenfountain.png",
+        "page_url": "https://webkinzguide.com/wiki/Fountain_Collection"
     },
     {
+        "id": "gazebos",
         "title": "Gazebos",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/c9/Wildflowergazebo.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Wildflowergazebo.png",
+        "page_url": "https://webkinzguide.com/wiki/Gazebo_Collection"
     },
     {
+        "id": "gnomes",
         "title": "Gnomes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/5a/Wackygardengnomelantern.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Wackygardengnomelantern.png",
+        "page_url": "https://webkinzguide.com/wiki/Gnome_Collection"
     },
     {
+        "id": "jukeboxes-and-stereos",
         "title": "Jukeboxes & Stereos",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8b/Strawberryjamminjukebox.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Strawberryjamminjukebox.png",
+        "page_url": "https://webkinzguide.com/wiki/Jukebox_%26_Stereo_Collection"
     },
     {
+        "id": "kinzcash-coins",
         "title": "KinzCash Coins",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/18/100kinzcashcoin.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/100kinzcashcoin.png",
+        "page_url": "https://webkinzguide.com/wiki/KinzCash_Coin_Collection"
     },
     {
+        "id": "lamps",
         "title": "Lamps",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/6/6e/Youandmelamp.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Youandmelamp.png",
+        "page_url": "https://webkinzguide.com/wiki/Lamp_Collection"
     },
     {
+        "id": "land-formations-and-terrain",
         "title": "Land Formations & Terrain",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b6/Rockytrailcave.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Rockytrailcave.png",
+        "page_url": "https://webkinzguide.com/wiki/Land_Formation_%26_Terrain_Collection"
     },
     {
+        "id": "logs-and-stumps",
         "title": "Logs & Stumps",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/96/Peacefulforestloglounger.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Peacefulforestloglounger.png",
+        "page_url": "https://webkinzguide.com/wiki/Log_%26_Stump_Collection"
     },
     {
+        "id": "mailboxes",
         "title": "Mailboxes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/50/Kinzpostmailbox.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Kinzpostmailbox.png",
+        "page_url": "https://webkinzguide.com/wiki/Mailbox_Collection"
     },
     {
+        "id": "microphones",
         "title": "Microphones",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/03/Sweetsuperstarmic.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Sweetsuperstarmic.png",
+        "page_url": "https://webkinzguide.com/wiki/Microphone_Collection"
     },
     {
+        "id": "mirrors",
         "title": "Mirrors",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/cc/Tallmirror.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Tallmirror.png",
+        "page_url": "https://webkinzguide.com/wiki/Mirror_Collection"
     },
     {
+        "id": "musical-instruments",
         "title": "Musical Instruments",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1c/Hauntedpiano.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Hauntedpiano.png",
+        "page_url": "https://webkinzguide.com/wiki/Musical_Instrument_Collection"
     },
     {
+        "id": "music-boxes",
         "title": "Music Boxes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8d/Alyssamusicbox.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Alyssamusicbox.png",
+        "page_url": "https://webkinzguide.com/wiki/Music_Box_Collection"
     },
     {
+        "id": "nutcrackers",
         "title": "Nutcrackers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/4c/Specialholidaynutcracker.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Specialholidaynutcracker.png",
+        "page_url": "https://webkinzguide.com/wiki/Nutcracker_Collection"
     },
     {
+        "id": "paintings-and-photographs",
         "title": "Paintings & Photographs",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8e/Summersensationpainting.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Summersensationpainting.png",
+        "page_url": "https://webkinzguide.com/wiki/Painting_%26_Photograph_Collection"
     },
     {
+        "id": "path-tiles",
         "title": "Path Tiles",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e9/Emeraldmosaictile.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Emeraldmosaictile.png",
+        "page_url": "https://webkinzguide.com/wiki/Path_Tile_Collection"
     },
     {
+        "id": "phones",
         "title": "Phones",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/c8/Retrorainbowphone.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Retrorainbowphone.png",
+        "page_url": "https://webkinzguide.com/wiki/Phone_Collection"
     },
     {
+        "id": "plants",
         "title": "Plants",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/70/Radiantrosetree.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Radiantrosetree.png",
+        "page_url": "https://webkinzguide.com/wiki/Plant_Collection"
     },
     {
+        "id": "plaques",
         "title": "Plaques",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e8/Kinzvilleacademyplaque.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Kinzvilleacademyplaque.png",
+        "page_url": "https://webkinzguide.com/wiki/Plaque_Collection"
     },
     {
+        "id": "playground-riders",
         "title": "Playground Riders",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/7a/Playgrounddragonrider.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Playgrounddragonrider.png",
+        "page_url": "https://webkinzguide.com/wiki/Playground_Rider_Collection"
     },
     {
+        "id": "plush-toys",
         "title": "Plush Toys",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e5/Babypenguinplushy.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Babypenguinplushy.png",
+        "page_url": "https://webkinzguide.com/wiki/Plush_Toy_Collection"
     },
     {
+        "id": "podiums-and-stages",
         "title": "Podiums & Stages",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/55/Kinzvillespellingbeestage.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Kinzvillespellingbeestage.png",
+        "page_url": "https://webkinzguide.com/wiki/Podium_%26_Stage_Collection"
     },
     {
+        "id": "ponds-and-streams",
         "title": "Ponds & Streams",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/0a/Peacefulstream.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Peacefulstream.png",
+        "page_url": "https://webkinzguide.com/wiki/Pond_%26_Stream_Collection"
     },
     {
+        "id": "posters",
         "title": "Posters",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/9b/Carnivalposter.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Carnivalposter.png",
+        "page_url": "https://webkinzguide.com/wiki/Poster_Collection"
     },
     {
+        "id": "rides",
         "title": "Rides",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/4d/Fallferriswheel.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Fallferriswheel.png",
+        "page_url": "https://webkinzguide.com/wiki/Ride_Collection"
     },
     {
+        "id": "rockers",
         "title": "Rockers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fe/Gingerbreadpuppyrocker.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Gingerbreadpuppyrocker.png",
+        "page_url": "https://webkinzguide.com/wiki/Rocker_Collection"
     },
     {
+        "id": "room-dividers",
         "title": "Room Dividers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b7/Snowflakestainedglassroomdivider.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Snowflakestainedglassroomdivider.png",
+        "page_url": "https://webkinzguide.com/wiki/Room_Divider_Collection"
     },
     {
+        "id": "rugs",
         "title": "Rugs",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/16/Regalrug.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Regalrug.png",
+        "page_url": "https://webkinzguide.com/wiki/Rug_Collection"
     },
     {
+        "id": "sandboxes",
         "title": "Sandboxes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f0/Sanddunesandbox.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Sanddunesandbox.png",
+        "page_url": "https://webkinzguide.com/wiki/Sandbox_Collection"
     },
     {
+        "id": "scarecrows",
         "title": "Scarecrows",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/41/Fallfunscarecrow.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Fallfunscarecrow.png",
+        "page_url": "https://webkinzguide.com/wiki/Scarecrow_Collection"
     },
     {
+        "id": "seating",
         "title": "Seating",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/3c/Grandestatediningchair.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Grandestatediningchair.png",
+        "page_url": "https://webkinzguide.com/wiki/Seating_Collection"
     },
     {
+        "id": "sewing-machines",
         "title": "Sewing Machines",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/fa/Classicsewingmachine.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Classicsewingmachine.png",
+        "page_url": "https://webkinzguide.com/wiki/Sewing_Machine_Collection"
     },
     {
+        "id": "signs",
         "title": "Signs",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/3/3d/Welcomesign.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Welcomesign.png",
+        "page_url": "https://webkinzguide.com/wiki/Sign_Collection"
     },
     {
+        "id": "sinks",
         "title": "Sinks",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/89/Jammakerssink.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Jammakerssink.png",
+        "page_url": "https://webkinzguide.com/wiki/Sink_Collection"
     },
     {
+        "id": "slides",
         "title": "Slides",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/ff/Milliesslide.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Milliesslide.png",
+        "page_url": "https://webkinzguide.com/wiki/Slide_Collection"
     },
     {
+        "id": "snowglobes",
         "title": "Snowglobes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/2d/Snowcatsnowglobe.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Snowcatsnowglobe.png",
+        "page_url": "https://webkinzguide.com/wiki/Snowglobe_Collection"
     },
     {
+        "id": "snowmen",
         "title": "Snowmen",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/74/Singingsnowmen.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Singingsnowmen.png",
+        "page_url": "https://webkinzguide.com/wiki/Snowmen_Collection"
     },
     {
+        "id": "sprinklers",
         "title": "Sprinklers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/bf/Sensationalwaterspinner.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Sensationalwaterspinner.png",
+        "page_url": "https://webkinzguide.com/wiki/Sprinkler_Collection"
     },
     {
+        "id": "staircases",
         "title": "Staircases",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/9f/Prettypinestaircase.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Prettypinestaircase.png",
+        "page_url": "https://webkinzguide.com/wiki/Staircase_Collection"
     },
     {
+        "id": "stockings",
         "title": "Stockings",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/56/Festivestockingsmall.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Festivestockingsmall.png",
+        "page_url": "https://webkinzguide.com/wiki/Stocking_Collection"
     },
     {
+        "id": "storage",
         "title": "Storage",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/a9/Butterflymeadowwardrobe.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Butterflymeadowwardrobe.png",
+        "page_url": "https://webkinzguide.com/wiki/Storage_Collection"
     },
     {
+        "id": "stoves",
         "title": "Stoves",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/9c/Hotstuffstove.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Hotstuffstove.png",
+        "page_url": "https://webkinzguide.com/wiki/Stove_Collection"
     },
     {
+        "id": "swimming-pools",
         "title": "Swimming Pools",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/7/7f/Beachballpartypool.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Beachballpartypool.png",
+        "page_url": "https://webkinzguide.com/wiki/Swimming_Pool_Collection"
     },
     {
+        "id": "swings",
         "title": "Swings",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/42/Lovelytreeswing.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Lovelytreeswing.png",
+        "page_url": "https://webkinzguide.com/wiki/Swing_Collection"
     },
     {
+        "id": "tables",
         "title": "Tables",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/dc/Countryhomediningtable.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Countryhomediningtable.png",
+        "page_url": "https://webkinzguide.com/wiki/Table_Collection"
     },
     {
+        "id": "telescopes",
         "title": "Telescopes",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/09/Sagittariusstargazingtelescope.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Sagittariusstargazingtelescope.png",
+        "page_url": "https://webkinzguide.com/wiki/Telescope_Collection"
     },
     {
+        "id": "televisions",
         "title": "Televisions",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/29/Kinzvisionhdtv.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Kinzvisionhdtv.png",
+        "page_url": "https://webkinzguide.com/wiki/Television_Collection"
     },
     {
+        "id": "toilets",
         "title": "Toilets",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/a7/Weatheredouthouse.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Weatheredouthouse.png",
+        "page_url": "https://webkinzguide.com/wiki/Toilet_Collection"
     },
     {
+        "id": "trampolines",
         "title": "Trampolines",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/26/Landingmattrampoline.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Landingmattrampoline.png",
+        "page_url": "https://webkinzguide.com/wiki/Trampoline_Collection"
     },
     {
+        "id": "trash-cans",
         "title": "Trash Cans",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/a1/Garbagebin.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Garbagebin.png",
+        "page_url": "https://webkinzguide.com/wiki/Trash_Can_Collection"
     },
     {
+        "id": "treadmills",
         "title": "Treadmills",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/86/Speedclasstreadmill.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Speedclasstreadmill.png",
+        "page_url": "https://webkinzguide.com/wiki/Treadmill_Collection"
     },
     {
+        "id": "trophies",
         "title": "Trophies",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/4e/Goldamateurcompetitiontrophy.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Goldamateurcompetitiontrophy.png",
+        "page_url": "https://webkinzguide.com/wiki/Trophy_Collection"
     },
     {
+        "id": "vases",
         "title": "Vases",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/6/65/Antiquevase.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Antiquevase.png",
+        "page_url": "https://webkinzguide.com/wiki/Vase_Collection"
     },
     {
+        "id": "vehicles",
         "title": "Vehicles",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/1/1b/Justpeachycar.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Justpeachycar.png",
+        "page_url": "https://webkinzguide.com/wiki/Vehicle_Collection"
     },
     {
+        "id": "vending-machines",
         "title": "Vending Machines",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/c/c5/Rainbowrootbeermachine.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Rainbowrootbeermachine.png",
+        "page_url": "https://webkinzguide.com/wiki/Vending_Machine_Collection"
     },
     {
+        "id": "wall-art-and-stickers",
         "title": "Wall Art & Stickers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/8f/Christmaswallstars.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Christmaswallstars.png",
+        "page_url": "https://webkinzguide.com/wiki/Wall_Art_%26_Sticker_Collection"
     },
     {
+        "id": "wall-panels",
         "title": "Wall Panels",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/0a/Walruswallpanel.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Walruswallpanel.png",
+        "page_url": "https://webkinzguide.com/wiki/Wall_Panel_Collection"
     },
     {
+        "id": "wallpapers",
         "title": "Wallpapers",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/a/a5/Purplemoorwallpaper.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Purplemoorwallpaper.png",
+        "page_url": "https://webkinzguide.com/wiki/Wallpaper_Collection"
     },
     {
+        "id": "waterfalls",
         "title": "Waterfalls",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/e/e4/Mosaicwaterfall.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Mosaicwaterfall.png",
+        "page_url": "https://webkinzguide.com/wiki/Waterfall_Collection"
     },
     {
+        "id": "wells",
         "title": "Wells",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/2/25/Antiquewishingwell.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Antiquewishingwell.png",
+        "page_url": "https://webkinzguide.com/wiki/Well_Collection"
     },
     {
+        "id": "windmills-and-wind-spinners",
         "title": "Windmills & Wind Spinners",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/dc/Modernwindmill.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Modernwindmill.png",
+        "page_url": "https://webkinzguide.com/wiki/Windmill_%26_Wind_Spinner_Collection"
     },
     {
+        "id": "wreaths",
         "title": "Wreaths",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/d/d8/Heartwarmingholidaywreath.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Heartwarmingholidaywreath.png",
+        "page_url": "https://webkinzguide.com/wiki/Wreath_Collection"
     }
 ]

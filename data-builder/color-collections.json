@@ -1,50 +1,74 @@
 [
     {
+        "id": "black-items",
         "title": "Black Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/4/40/Bloodcurdlingbatsticker.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Bloodcurdlingbatsticker.png",
+        "page_url": "https://webkinzguide.com/wiki/Black_Item_Collection"
     },
     {
+        "id": "blue-items",
         "title": "Blue Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/b0/Truebluebirdbath.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Truebluebirdbath.png",
+        "page_url": "https://webkinzguide.com/wiki/Blue_Item_Collection"
     },
     {
+        "id": "brown-items",
         "title": "Brown Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f1/Masterfulwardrobe.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Masterfulwardrobe.png",
+        "page_url": "https://webkinzguide.com/wiki/Brown_Item_Collection"
     },
     {
+        "id": "gray-items",
         "title": "Gray Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/f/f3/Sturdystonelantern.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Sturdystonelantern.png",
+        "page_url": "https://webkinzguide.com/wiki/Gray_Item_Collection"
     },
     {
+        "id": "green-items",
         "title": "Green Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/89/Playfulpuptopiary.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Playfulpuptopiary.png",
+        "page_url": "https://webkinzguide.com/wiki/Green_Item_Collection"
     },
     {
+        "id": "orange-items",
         "title": "Orange Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/5/50/Smallinflatablejackolantern.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Smallinflatablejackolantern.png",
+        "page_url": "https://webkinzguide.com/wiki/Orange_Item_Collection"
     },
     {
+        "id": "pink-items",
         "title": "Pink Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/93/Hotpinkcoolfridge.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Hotpinkcoolfridge.png",
+        "page_url": "https://webkinzguide.com/wiki/Pink_Item_Collection"
     },
     {
+        "id": "purple-items",
         "title": "Purple Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/8/88/Concealappeallounger.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Concealappeallounger.png",
+        "page_url": "https://webkinzguide.com/wiki/Purple_Item_Collection"
     },
     {
+        "id": "rainbow-items",
         "title": "Rainbow Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/b/bc/Rejuvenatingrainbowpool.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Rejuvenatingrainbowpool.png",
+        "page_url": "https://webkinzguide.com/wiki/Rainbow_Item_Collection"
     },
     {
+        "id": "red-items",
         "title": "Red Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/9/96/Garnetgemster.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Garnetgemster.png",
+        "page_url": "https://webkinzguide.com/wiki/Red_Item_Collection"
     },
     {
+        "id": "white-items",
         "title": "White Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/0e/Victoriangardenfencing.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Victoriangardenfencing.png",
+        "page_url": "https://webkinzguide.com/wiki/White_Item_Collection"
     },
     {
+        "id": "yellow-items",
         "title": "Yellow Items",
-        "image_url": "http://static.wikitide.net/webkinzguidewiki/0/05/Lemonchair.png"
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Lemonchair.png",
+        "page_url": "https://webkinzguide.com/wiki/Yellow_Item_Collection"
     }
 ]
