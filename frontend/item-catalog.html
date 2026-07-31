@@ -19,26 +19,26 @@
             </div>
         </header>
         <main>
-            <nav class="card pink">
+            <nav class="card pink" style="margin-bottom: 60px;">
                 <h2>Browse Items</h2>
                 <div class="tabs">
-                    <button class="tab-links" onclick="openCollection(event, 'type')" id="default-open">Type</button>
-                    <button class="tab-links" onclick="openCollection(event, 'theme')">Theme</button>
-                    <button class="tab-links" onclick="openCollection(event, 'color')">Color</button>
-                    <button class="tab-links" onclick="openCollection(event, 'misc')">Misc</button>
+                    <button id="type-button" class="tab-links" onclick="openCollection(event, 'type')">Type</button>
+                    <button id="theme-button" class="tab-links" onclick="openCollection(event, 'theme')">Theme</button>
+                    <button id="color-button" class="tab-links" onclick="openCollection(event, 'color')">Color</button>
+                    <button id="misc-button" class="tab-links" onclick="openCollection(event, 'misc')">Misc</button>
                 </div>
                 <h3><a>View All</a></h3>
             </nav>
-            <div id="type" class="tab-content">
+            <div id="type" class="tab-content card yellow">
                 <h3>By Type</h3>
             </div>
-            <div id="theme" class="tab-content">
+            <div id="theme" class="tab-content card yellow">
                 <h3>By Theme</h3>
             </div>
-            <div id="color" class="tab-content">
+            <div id="color" class="tab-content card yellow">
                 <h3>By Color</h3>
             </div>
-            <div id="misc" class="tab-content">
+            <div id="misc" class="tab-content card yellow">
                 <h3>By Misc</h3>
             </div>
         </main>
