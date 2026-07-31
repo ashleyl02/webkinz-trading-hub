@@ -17,11 +17,11 @@ function openCollection(evt, collectiontype) {
     evt.currentTarget.className += " active";
 }
 
-function loadCollection(jsonFile, gridId) {
+function loadCollection(jsonFile, collectiontype) {
     fetch(jsonFile)
         .then(response => response.json())
         .then(items => {
-            const grid = document.getElementById(gridId);
+            const collection = document.getElementById(collectiontype);
             items.forEach(item => {
                 const card = document.createElement("div");
                 card.className = "item-card";
@@ -35,7 +35,7 @@ function loadCollection(jsonFile, gridId) {
                 
                 card.appendChild(img);
                 card.appendChild(caption);
-                grid.appendChild(card);
+                collection.appendChild(card);
             });
         })
         .catch(error => console.error(`Error loading collection: ${jsonFile}`, error));
