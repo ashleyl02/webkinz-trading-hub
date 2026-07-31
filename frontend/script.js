@@ -21,7 +21,7 @@ function loadCollection(jsonFile, collectiontype) {
     fetch(jsonFile)
         .then(response => response.json())
         .then(items => {
-            const collection = document.getElementById(collectiontype);
+            const collection = document.querySelector(`#${collectiontype} .items`);
             items.forEach(item => {
                 const card = document.createElement("div");
                 card.className = "item-card";
@@ -38,7 +38,7 @@ function loadCollection(jsonFile, collectiontype) {
                 collection.appendChild(card);
             });
         })
-        .catch(error => console.error(`Error loading collection: ${jsonFile}`, error));
+    .catch(error => console.error(`Error loading collection: ${jsonFile}`, error));
 }
 
 loadCollection('../data-builder/type-collections.json', 'type');
