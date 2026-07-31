@@ -1,5 +1,3 @@
-$("#type-button").addEventListener("click", displayCollection(event, collectiontype))
-
 function openCollection(evt, collectiontype) {
     var i, tabcontent, tablinks;
 
@@ -9,4 +7,10 @@ function openCollection(evt, collectiontype) {
     }
 
     tablinks = document.getElementsByClassName("tab-links");
+    for (i = 0; i< tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(collectiontype).style.display = "block";
+    evt.currentTarget.className += " active";
 }
