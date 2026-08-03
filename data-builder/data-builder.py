@@ -1,6 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+from pathlib import Path
 
 url = "https://webkinzguide.com/wiki/Item_Collections"
 headers = {
@@ -13,6 +14,8 @@ headers = {
 }
 
 page = requests.get(url, headers=headers)
+output = Path("../data/collections")
+output.mkdir(parents=True, exist_ok=True)
 soup = BeautifulSoup(page.text, "html.parser")
 
 tables = soup.find_all("table")
@@ -44,7 +47,9 @@ for table in tables:
             "image_url": image_url,
             "page_url": page_url
         })
-    with open(collections_names[count] + '-collections.json', 'w') as final:
+    output_file = output / f"{collections_names[count]}-collections.json"
+
+    with open(output_file, "w") as final:
         json.dump(collections, final, indent=4)
     collections = []
     count += 1

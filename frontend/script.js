@@ -41,7 +41,7 @@ function loadCollection(jsonFile, collectiontype) {
     .catch(error => console.error(`Error loading collection: ${jsonFile}`, error));
 }
 
-loadCollection('../data-builder/type-collections.json', 'type');
-loadCollection('../data-builder/theme-collections.json', 'theme');
-loadCollection('../data-builder/color-collections.json', 'color');
-loadCollection('../data-builder/misc-collections.json', 'misc');
+loadCollection('../data/collections/type-collections.json', 'type');
+loadCollection('../data/collections/theme-collections.json', 'theme');
+loadCollection('../data/collections/color-collections.json', 'color');
+loadCollection('../data/collections/misc-collections.json', 'misc');
