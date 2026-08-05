@@ -24,7 +24,8 @@ for collection in collections:
     url = collection["page_url"]
     page = requests.get(url, headers=headers)
     soup = BeautifulSoup(page.text, "html.parser")
-    table = soup.find("table")
+    tables = soup.find_all("table")
+    table = tables[1]
 
     if table is None:
         print(f"Skipping {url}")
