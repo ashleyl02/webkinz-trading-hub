@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Black Cat Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Blackcatbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cool Slumber Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Coolslumberbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cozy Yacht Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Cozyyachtbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Black Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Diyblackbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ebony Dreams Low Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Ebonydreamslowbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Glam Gold Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Glamgoldbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Glampire Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Glampirebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gothic Halloween Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Gothichalloweenbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Jolly Roger Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Jollyrogerbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lady Bug Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Ladybugbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Plush Autumn Owl Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Plushautumnowlbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Polka Dot Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Polkadotbunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Pure Elegance Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Pureelegancebed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Regal Suite Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Regalsuitebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silver Trailer Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Silvertrailerbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spooky Gothic Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Spookygothicbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spooky School Dorm Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Spookyschooldormbed.png",
+        "is_tradeable": true
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "title": "10 Years of Entertainment TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/10yearsofentertainmenttv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Alchemy TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Alchemytv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Avante Condo TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Avantecondotv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Awesome Arctic Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Awesomearctictelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ballerina Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Ballerinatelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Baseball Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Baseballtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Beach House TV and Stand",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Beachhousetvandstand.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Big Race Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Bigracetelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cabana Widescreen TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Cabanawidescreentv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Caring and Sharing Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Caringandsharingtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Card Collector HDTV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Cardcollectorhdtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cat Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Cattelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cave TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Cavetv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Chalet TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Chalettv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Checkmate TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Checkmatetv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cheerleader Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Cheerleadertelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Circus Spectacular Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Circusspectaculartelevision.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Classroom TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Classroomtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Color Bars N' Stripes TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Colorbarsnstripestv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Deep Jungle Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Deepjungletelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Deep Sea TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Deepseatv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Drive In Movie Screen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Driveinmoviescreen.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Egyptian Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Egyptiantelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Emerald TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Emeraldtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Football Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Footballtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Forest Green TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Forestgreentv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Funky Girl Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Funkygirltelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gingerbread TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Gingerbreadtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Hoops DTV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Hoopsdtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Howl and Prowl TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Howlandprowltv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Hydra Definition Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Hydradefinitiontelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Jelly Bean Big Screen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Jellybeanbigscreen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Jivin' TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Jivintv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Kid's Play TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Kidsplaytv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kid's TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Kidstv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzvision HDTV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Kinzvisionhdtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzvision Plasma TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Kinzvisionplasmatv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lap Top Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Laptoptelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lazy Zum Big Screen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Lazyzumbigscreen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Longneck TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Longnecktv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "LED Entertainment Unit",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Ledentertainmentunit.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lots of Dots TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Lotsofdotstv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Mausoleum Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Mausoleumtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Modern Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Moderntelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mod Kinzvision HDTV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Modkinzvisionhdtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Monkey and Monkey Banana TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Monkeyandmonkeybananatv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peace Sign TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Peacesigntv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Plasma Plush TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Plasmaplushtv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Polka Dot TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Polkadottv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Princess Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Princesstelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rabbit Eared Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Rabbitearedtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ribbity Reed Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Ribbityreedtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rock Stage TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Rockstagetv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Scoreboard Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Scoreboardtelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sea TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Seatv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shootout Soccer TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Shootoutsoccertv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sky-Vision",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Skyvision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Solar Powered TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Solarpoweredtv.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Space Viewing Screen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Spaceviewingscreen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spots N' Dots TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Spotsndotstv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Studio Loft Flat Screen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Studioloftflatscreen.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Swanky Pink TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Swankypinktv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Swanky Purple TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Swankypurpletv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Screen TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Sweetscreentv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Timeless Treasure TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Timelesstreasuretv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Top of the Charts TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Topofthechartstv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trading Card 2.0 TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Tradingcard20tv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trading Card Condo TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Tradingcardcondotv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tranquil Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Tranquiltelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Treetop TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Treetoptv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trendy Purple TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Trendypurpletv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Triassic Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Triassictelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tube Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Tubetelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ultra-modern TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Ultramoderntv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Under the Sea TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Undertheseatv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Underwater Television",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Underwatertelevision.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Visions in Pink TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Visionsinpinktv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wacky Eucalyptus TV",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Wackyeucalyptustv.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz World Widescreen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Webkinzworldwidescreen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ye Olde Moving Picture Box",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Yeoldemovingpicturebox.png",
+        "is_tradeable": true
+    }
+]

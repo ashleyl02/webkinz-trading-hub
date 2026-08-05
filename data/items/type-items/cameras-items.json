@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Camera.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Camera Buggy",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Camerabuggy.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Classic Movie Studio Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Classicmoviestudiocamera.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Designer Catwalk",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Designercatwalk.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Digital Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Digitalcamera.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "KinzFolk Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Kinzfolkcamera.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Newz Vlogger Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Newzvloggercamera.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Nibbles' Camcorder",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Nibblescamcorder.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Photo Shoot Backdrop",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Photoshootbackdrop.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Portable Newz Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Portablenewzcamera.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Quizzy's TV Set Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Quizzystvsetcamera.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Security Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Securitycamera.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz Newz Camera",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Webkinznewzcamera.png",
+        "is_tradeable": true
+    }
+]

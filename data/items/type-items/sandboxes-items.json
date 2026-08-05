@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Ant Hill Thrill Pit",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Anthillthrillpit.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Crab Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Cutecrabsandbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Frog Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Cutefrogsandbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Frosty Snowbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Frostysnowbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Just for Fun Quick Sand",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Justforfunquicksand.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Kinzville Academy Sand Box",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Kinzvilleacademysandbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Millie's Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Milliessandbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Playful Dust Pit",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Playfuldustpit.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Prehistoric Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Prehistoricsandbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sand Dune Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Sanddunesandbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Star Dust Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Stardustsandbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tyrannical Rex Sandbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Tyrannicalrexsandbox.png",
+        "is_tradeable": true
+    }
+]

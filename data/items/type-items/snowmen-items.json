@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Caroling Snowmen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Carolingsnowmen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ceramic Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Ceramicsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Dancing Pumpkin Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Dancingpumpkinsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ice Cream Scoop Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Icecreamscoopsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Jolly Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Jollysnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzville Jolly Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Kinzvillejollysnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Light-Up Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Lightupsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Marshmallow Snowman Dancer",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Marshmallowsnowmandancer.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peppermint Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Peppermintsnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "SantaKinz Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Santakinzsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Showman Snowman[1]",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Showmansnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Singing Snowmen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Singingsnowmen.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sitting Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Sittingsnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Slouching Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Slouchingsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Smiling Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Smilingsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sneak Attack Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Sneakattacksnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sneaky Snowball Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Sneakysnowballsnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sneaky Snowball Thrower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Sneakysnowballthrower.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowball Throwing Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Snowballthrowingsnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowman Clock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Snowmanclock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Snowy the Snow Bernard",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Snowythesnowbernard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Snow Zangoz",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Snowzangoz.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Melt Snowmen",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Springmeltsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stylish Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Stylishsnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tropical Holiday Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Tropicalholidayssnowman.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wobbly Snowman Chair",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Wobblysnowmanchair.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Zangoz Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Zangozsnowman.png",
+        "is_tradeable": true
+    }
+]

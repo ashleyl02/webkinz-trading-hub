@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Decorative Microphone",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Decorativemicrophone.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fifteen Minutes Mic",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Fifteenminutesmic.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Main Stage Mic",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Mainstagemic.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Pop Star Microphone",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Popstarmicrophone.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shamrockin' Microphone",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Shamrockinmicrophone.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silver Microphone Trophy",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Silvermicrophonetrophy.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Superstar Mic",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Sweetsuperstarmic.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tabletop Microphone",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Tabletopmicrophone.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Think Pink Mic Stand",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Thinkpinkmicstand.png",
+        "is_tradeable": false
+    }
+]

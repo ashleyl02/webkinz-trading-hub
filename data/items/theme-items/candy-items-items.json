@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Berry Chewing Gum Tree",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Berrychewinggumtree.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegum Balloon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Bubblegumballoon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubblegum Bathtub",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Bubblegumbathtub.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubblegum Bouncer",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Bubblegumbouncer.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegum Roll Candy Tree",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Bubblegumrollcandytree.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegum Volcano",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Bubblegumvolcano.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegumasaurus Flooring",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Bubblegumasaurusflooring.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegumasaurus Wallpaper",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Bubblegumasauruswallpaper.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Chewtastic Coffee Table",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Chewtasticcoffeetable.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gum Fall Slide",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Gumfallslide.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pink Bubblegum Car",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Pinkbubblegumcar.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Super Sticky Sofa",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Superstickysofa.png",
+        "is_tradeable": true
+    }
+]

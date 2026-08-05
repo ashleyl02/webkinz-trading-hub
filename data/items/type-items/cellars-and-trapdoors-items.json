@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Berry Preserve Cellar",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Berrypreservecellar.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Build a Snow Fort Bunker",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Buildasnowfortbunker.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Creepy Cellar",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Creepycellar.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Eerie Woods Storage",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Eeriewoodsstorage.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Forest Floor Trapdoor",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Forestfloortrapdoor.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Haunted Trap Door",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Hauntedtrapdoor.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Monster Trapdoor",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Monstertrapdoor.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Secluded Garden Cellar",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Secludedgardencellar.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Secret Trapdoor Rug",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Secrettrapdoorrug.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Starlight Trapdoor",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Starlighttrapdoor.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Super-Secure Trapdoor Toy Box",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Supersecuretrapdoortoybox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tinkerpunk Cellar",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Tinkerpunkcellar.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Trapdoor",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Trapdoor.png",
+        "is_tradeable": true
+    }
+]

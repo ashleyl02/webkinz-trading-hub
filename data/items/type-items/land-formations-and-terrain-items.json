@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Great Canyon Arch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Greatcanyonarch.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Hibernation Hut",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Hibernationhut.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Minnow Cove",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Minnowcove.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Rocky Arch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Rockyarch.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Slippery Snow Arch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Slipperysnowarch.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowy Arch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Snowyarch.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Underwater Ruins Arch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Underwaterruinsarch.png",
+        "is_tradeable": true
+    }
+]

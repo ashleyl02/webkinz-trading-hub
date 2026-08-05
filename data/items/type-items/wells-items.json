@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Antique Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Antiquewishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Barnyard Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Barnyardwell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bird House Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Birdhousewishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Blue Spring Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Bluespringwishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "CandyKinz Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Candykinzwishingwell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Eerie Aura Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Eerieaurawell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Enchanted Cottage Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Enchantedcottagewell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Fairy Den Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Fairydenwell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Frozen Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Frozenwishingwell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Holiday Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Holidaywell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lovely Patio Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Lovelypatiowishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lucky Clover Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Luckycloverwishingwell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pink Spring Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Pinkspringwishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "True Luv Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Trueluvwishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Weathered Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Weatheredwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Weathervane Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Weathervanewishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Webkinzwishingwell.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wishing Well Spell",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Wishingwellspell.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Wishing Well Spa",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Wishingwellspa.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wishing Well Planter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Wishingwellplanter.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Wishing Well",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Wishingwell.png",
+        "is_tradeable": true
+    }
+]

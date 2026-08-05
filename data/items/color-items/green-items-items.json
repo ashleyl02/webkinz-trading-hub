@@ -1,0 +1,757 @@
+[
+    {
+        "title": "Adventure Scouts Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Adventurescoutsbunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Adventure Scouts Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Adventurescoutssleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Alyssa House 4 Poster Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Alyssahouse4posterbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Apple Orchard Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Appleorchardbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Awesome Avocado Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Awesomeavocadohammock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Baby Carriage Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Babycarriagebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bamboo Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Bamboobed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Barnyard Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Barnyardbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Be Merry Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Bemerrybed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Beachball Party Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Beachballpartyhammock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Beat The Heat Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Beattheheathammock.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bloomin' Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Bloominbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Blueberry Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Blueberrycanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bright Bedroom Bunk",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Brightbedroombunk.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Campkinz Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Campkinzbunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Campkinz Platform Tent",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Campkinzplatformtent.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Campkinz Pup Tent",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Campkinzpuptent.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Campkinz Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Campkinzsleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Campkinz Tent",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Campkinztent.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Card Collector Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Cardcollectorbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Charm Forest Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Charmforestbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Charmed Chamber Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Charmedchamberbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Charming Ruins Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Charmingruinsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cheerful Burrow Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Cheerfulburrowbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Chocolate Mint Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Chocolatemintbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Christmas Cabin Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Christmascabinbunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Clover Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Cloverbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Clover Patch Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Cloverpatchbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Country Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Countrybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cozy Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Cozycanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cozy Cocoon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Cozycocoon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cozy Condo Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Cozycondobed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Clover Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Cutecloverbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Kiwi Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Cutekiwicanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Daisy Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Daisycanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Desert Dreams Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Desertdreamsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Dino Egg Day Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Dinoeggdaybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Dinosaur Dreams Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Dinosaurdreamsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Green Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Diygreenbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Enchanted Cottage Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Enchantedcottagebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Enchanting Green Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Enchantinggreenbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Eucalyptus Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Eucalyptusbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Evergreen Plaid Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Evergreenplaidbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fairy Den Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Fairydenbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fairykinz Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Fairykinzbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Field Of Dreams Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Fieldofdreamsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fire Fawn Floral Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Firefawnfloralbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "First Resort Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Firstresortbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Flower Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Flowercanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fly 90s Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Fly90sbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Flying Dreams Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Flyingdreamsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Football Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Footballbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Foxglove Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Foxglovebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fresh Spring Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Freshspringbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Fun In The Sun Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Funinthesunbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Gardenia Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Gardeniabed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Giant Lily Pad Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Giantlilypadbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Giant Ottoman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Giantottoman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Gift Wrapped Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Giftwrappedbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gingerbread Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Gingerbreadbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gold Leaf Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Goldleafbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Goo-Goo Berry Patch Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Googooberrypatchbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Goo-Goo Berry Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Googooberrysleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Good Fortune Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Goodfortunebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Butterfly Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Greenbutterflybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Plaid Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Greenplaidbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Green Stocking Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Greenstockingsleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Stripes Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Greenstripesbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Velvet Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Greenvelvetbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Velvet Daybed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Greenvelvetdaybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Velvet Grand Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Greenvelvetgrandbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Hammock Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Hammockbunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Harmonious Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Harmonioushammock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Heart Of The Jungle Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Heartofthejunglebed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Helping Paws Club Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Helpingpawsclubbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday Castle Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Holidaycastlebed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Holiday Hearts Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Holidayheartsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday House Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Holidayhousebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Juicy Peach Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Juicypeachbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Juicy Watermelon Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Juicywatermelonbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Juniper Tree Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Junipertreehammock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Keen Green Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Keengreenbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Leafy Cabbage Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Leafycabbagebed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lemon Drop Daybed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Lemondropdaybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lily Of The Valley Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Lilyofthevalleybed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lily Pad Water Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Lilypadwaterbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lovely Log Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Lovelylogbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lucky Rainbow Daybed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Luckyrainbowdaybed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Magical Meadow Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Magicalmeadowbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mahogany Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Mahoganybunkbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mahogany Low Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Mahoganylowbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Majestic Beach Daybed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Majesticbeachdaybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mangrove Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Mangrovebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Modern Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Modernbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Morbid Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Morbidbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Overgrown Vine Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Overgrownvinehammock.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peaceful Forest Treehouse Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Peacefulforesttreehousebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peaceful Picnic Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Peacefulpicnicbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peaceful Pine Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Peacefulpinehammock.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peas In A Pod Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Peasinapodbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Perky Penguin Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Perkypenguinbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Plaid Stable Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Plaidstablebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Plantain Snooze Lane",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Plantainsnoozelane.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Playful Bog Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Playfulbogbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Plush Crocodile Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Plushcrocodilebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Polarberry Patch Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Polarberrypatchbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Pretty Palm Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Prettypalmbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Puppy Love Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Puppylovebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Quirky Carnival Wagon Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Quirkycarnivalwagonbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rainforest Retreat",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Rainforestretreat.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rainforest Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Rainforestsleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Regency Four Poster Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Regencyfourposterbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Road Trip Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Roadtripsleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Roamer's Campsite",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Roamerscampsite.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Rock Ledge Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Rockledgebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sewing Superstar Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Sewingsuperstarbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shrubbery Sleeper Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Shrubberysleeperbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shrubbery Sleeper Bed Replica",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Shrubberysleeperbedreplica.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sleeping Dragon Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Sleepingdragonbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sleepy Bog Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Sleepybogbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sleepy Sloth Crib",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Sleepyslothcrib.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Snug Bug Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Snugbugbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Soft Autumn Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Softautumnbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Soft Green Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Softgreenbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Clover Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Springcloverbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Spring Eggshell Hammock",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Springeggshellhammock.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Spring Oasis Treehouse Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Springoasistreehousebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Planting Flower Patch Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Springplantingflowerpatchbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Starlight Sleeping Bag",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Starlightsleepingbag.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Starlight Treehouse Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Starlighttreehousebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stegosaurus Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Stegosaurusbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Strawberry Vine Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Strawberryvinecanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Summer Berry Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Summerberrybed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Summer Blooms Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Summerbloomsbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Surf Shack Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Surfshackbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Blossom Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Sweetblossombed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Green Wagon Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Sweetgreenwagonbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Spring Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Sweetspringbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Taj Mahal Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Tajmahalbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Teen Wolf Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Teenwolfbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tiki Siesta Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Tikisiestabed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Toxic Bog Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Toxicbogbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tree Hollow Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Treehollowbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Treetop Cradle",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Treetopcradle.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tropical Oasis Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Tropicaloasisbed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Turtle Canopy Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Turtlecanopybed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Valentine Treehouse Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Valentinetreehousebed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Victorian Mansion Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Victorianmansionbed.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Webkinz Shire Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Webkinzshirebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wintergreen Candy Cane Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wintergreencandycanebed.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wolf Den Bunk Bed",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Wolfdenbunkbed.png",
+        "is_tradeable": true
+    }
+]

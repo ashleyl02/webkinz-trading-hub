@@ -1,0 +1,227 @@
+[
+    {
+        "title": "Amazing Autumn Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Amazingautumnbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Blooming Spring Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Bloomingspringbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Build-A-Sand-Castle Moat Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Buildasandcastlemoatbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Canyon Crosswalk",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Canyoncrosswalk.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cherry Blossom Pond",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Cherryblossompond.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cherry Ridge Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Cherryridgebridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Chilly Crystal Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Chillycrystalbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Chocolate Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Chocolatebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cloud Kingdom Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Cloudkingdombridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Countryside Creek Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Countrysidecreekbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Creepy Swamp Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Creepyswampbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Fall Season Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Fallseasonbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Forget Me Not Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Forgetmenotbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Happy Troll Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Happytrollbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Internal Reflections Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Internalreflectionsbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lovely Lavender Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Lovelylavenderbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Meadow Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Meadowbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Moonberry Pond",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Moonberrypond.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Noble Elven Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Nobleelvenbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Ornamental Pond",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Ornamentalpond.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peaceful Forest Pond",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Peacefulforestpond.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peaceful Garden Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Peacefulgardenbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peaceful Park Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Peacefulparkbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peppermint Lane Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Peppermintlanebridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Phantom Toll Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Phantomtollbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Red Granite Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Redgranitebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rocky Rope Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Rockyropebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rustic Winter Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Rusticwinterbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sailboat Pond",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Sailboatpond.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Shallow Stream Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Shallowstreambridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Snow Covered Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Snowcoveredbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Snowy Canyon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Snowycanyon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowy Rope Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Snowyropebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Orange Egg Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Springorangeeggbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Purple Egg Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Springpurpleeggbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Stone Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Springstonebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Yellow Egg Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Springyelloweggbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "St. Pat's Wishing Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Stpatswishingbridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stunning Stone Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Stunningstonebridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweetheart Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Sweetheartbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tranquility Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Tranquilitybridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Underpass Hideaway",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Underpasshideaway.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz Evolution Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Webkinzevolutionbridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Wintery Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Winterybridge.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Wiz Kinz Bridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Wizkinzbridge.png",
+        "is_tradeable": false
+    }
+]

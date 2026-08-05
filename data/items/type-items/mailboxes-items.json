@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Countryside Christmas Mailbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Countrysidechristmasmailbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Decorative Mailbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Decorativemailbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "KinzPost Mailbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Kinzpostmailbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Peppermint Post Box",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Peppermintpostbox.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Trick or Treat Street Mailbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Trickortreatstreetmailbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Valentine Decorative Mailbox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Valentinedecorativemailbox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Valentine Mailbox Fridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Valentinemailboxfridge.png",
+        "is_tradeable": true
+    }
+]

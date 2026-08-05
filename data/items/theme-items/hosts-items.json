@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Alex Kinz Pants",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Alexkinzpants.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Alex Kinz Plushy",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Alexkinzplushy.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Alex Kinz Shirt",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Alexkinzshirt.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Alex Kinz Shoes",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Alexkinzshoes.png",
+        "is_tradeable": false
+    }
+]

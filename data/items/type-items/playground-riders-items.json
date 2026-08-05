@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Bamboo Dragon Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Bamboodragonrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Chocolate Playground Bunny Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Chocolateplaygroundbunnyrider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Chocolate Playground Cow Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Chocolateplaygroundcowrider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Dolphin Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Cutedolphinrider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Frog Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Cutefrogrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Koala Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Cutekoalarider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Octopus Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Cuteoctopusrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Seahorse Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Cuteseahorserider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Playground Dragon Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Playgrounddragonrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Playground Unicorn Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Playgroundunicornrider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Puffin Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Puffinrider.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Reindeer Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Reindeerrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "SantaKinz Sleigh Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Santakinzsleighrider.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Water Park Rider",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Waterparkrider.png",
+        "is_tradeable": true
+    }
+]

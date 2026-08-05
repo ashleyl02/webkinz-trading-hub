@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Birch Bark Trash Can",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Birchbarktrashcan.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Curbside Cuisine Fridge",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Curbsidecuisinefridge.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fast Food Recycling Station",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Fastfoodrecyclingstation.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Garbage Bin",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Garbagebin.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Recycling Bin",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Recyclingbin.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sneaky Garbage Can",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Sneakygarbagecan.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Train Station Rubbish Bin",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Trainstationrubbishbin.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Underground Playground Garbage Can",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Undergroundplaygroundgarbagecan.png",
+        "is_tradeable": false
+    }
+]

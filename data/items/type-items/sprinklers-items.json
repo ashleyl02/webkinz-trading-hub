@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Beach Ball Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Beachballsprinkler.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cream Soda Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Creamsodasprinkler.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Magic Water Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Magicwatersprinkler.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sensational Water Spinner",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Sensationalwaterspinner.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Sprinkler.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Summer Fun Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Summerfunsprinkler.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tea Pot Sprinkler System",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Teapotsprinklersystem.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Wacky Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Wackysprinkler.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Water Tower Sprinkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Watertowersprinkler.png",
+        "is_tradeable": true
+    }
+]

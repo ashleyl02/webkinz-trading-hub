@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Antique Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Antiquetoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Back Country Outhouse",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Backcountryouthouse.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "CampKinz Outhouse",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Campkinzouthouse.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cozy Condo Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Cozycondotoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Daffodil Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Daffodiltoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fairy Den Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Fairydentoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Fiesta Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Fiestatoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Fresh Floral Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Freshfloraltoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Funky Girl Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Funkygirltoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Golden Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Goldentoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Haunted Outhouse",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Hauntedouthouse.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Haunted Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Hauntedtoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "High-Tech Science Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Hightechsciencetoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday Silver Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Holidaysilvertoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Homespun Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Homespuntoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Kinzville Academy Bathroom Stall",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Kinzvilleacademybathroomstall.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lovely Iridescent Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Lovelyiridescenttoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Neo Gothic Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Neogothictoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Painted Glass Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Paintedglasstoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Petal Print Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Petalprinttoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Platinum Selling Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Platinumsellingtoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Porcelain Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Porcelaintoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Red Velvet Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Redvelvettoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sea Blue Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Seabluetoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Simple Floral Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Simplefloraltoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spooky Portable Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Spookyportabletoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Topaz Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Topaztoilet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Upbeat Chic Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Upbeatchictoilet.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Weathered Outhouse",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Weatheredouthouse.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wild Savannah Toilet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Wildsavannahtoilet.png",
+        "is_tradeable": false
+    }
+]

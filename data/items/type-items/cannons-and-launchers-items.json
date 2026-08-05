@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Amazing World Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Amazingworldcannon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bounding Big Top Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Boundingbigtopcannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Build-a-Haunted-Castle Pumpkin Launcher",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Buildahauntedcastlepumpkinlauncher.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Build-a-Snow-Fort Snowball Launcher",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Buildasnowfortsnowballlauncher.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Confetti Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Confetticannon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Confetti Launcher",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Confettilauncher.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Corsair Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Corsaircannon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Flying Pet Circus Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Flyingpetcircuscannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Frantic Frisbee Flinger",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Franticfrisbeeflinger.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Golden Leprechaun Hat Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Goldenleprechaunhatcannon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday Present Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Holidaypresentcannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Ice Cream Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Icecreamcannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "KVA Confetti Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Kvaconfetticannon.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Leprechaun Hat Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Leprechaunhatcannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Meatball Launcher",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Meatballlauncher.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Patriotic Fireworks Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Patrioticfireworkscannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Puppy Patrol Cannon Trampoline",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Puppypatrolcannontrampoline.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shooting Water Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Shootingwatercannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sneaky Snowball Thrower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Sneakysnowballthrower.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowball Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Snowballcannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowball Throwing Snowman",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Snowballthrowingsnowman.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Stellar Star Blaster",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Stellarstarblaster.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tennis Ball Launcher",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Tennisballlauncher.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Water Balloon Cannon",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Waterballooncannon.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Water Balloon Catapult",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Waterballooncatapult.png",
+        "is_tradeable": false
+    }
+]

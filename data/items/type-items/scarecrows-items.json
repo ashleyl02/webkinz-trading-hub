@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Barnyard Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Barnyardscarecrow.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Berry Farm Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Berryfarmscarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fall Fun Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Fallfunscarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Haunting Breeze Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Hauntingbreezescarecrow.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Hay Bale Scarecrow Chair",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Haybalescarecrowchair.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pilgrim Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Pilgrimscarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Posin' Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Posinscarecrow.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pumpkin Tossing Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Pumpkintossingscarecrow.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "SantaKinz Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Barnyardscarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Scarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Scarecrow Cookie Dispenser",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Scarecrowcookiedispenser.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Scarecrow Perch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Scarecrowperch.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Silly Scarecrow Dispenser",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Sillyscarecrowdispenser.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silly Scarecrow Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Sillyscarecrowlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silly Scarecrow Toybox",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Sillyscarecrowtoybox.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silly Scarecrow Wacky Fence",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Sillyscarecrowwackyfence.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Spooky Breeze Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Spookybreezescarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sunflower Scarecrow Dispenser",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Sunflowerscarecrowdispenser.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Thanksgiving Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Thanksgivingscarecrow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wicked Windy Scarecrow",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Wickedwindyscarecrow.png",
+        "is_tradeable": true
+    }
+]

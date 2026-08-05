@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Bulletin Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Bulletinboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "CampKinz Activity Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Campkinzactivityboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Crazy Day Cork Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Crazydaycorkboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzville Mayor Pin Set",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Kinzvillemayorpinset.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kitchen Bulletin Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Kitchenbulletinboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mystery Solving Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Mysterysolvingboard.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sign-Up Sheet",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Signupsheet.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Classroom Bulletin Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Springclassroombulletinboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweetheart Cork Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Sweetheartcorkboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Town Square Bulletin Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Townsquarebulletinboard.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trendy Newz Blogger Bulletin Board",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Trendynewzbloggerbulletinboard.png",
+        "is_tradeable": true
+    }
+]

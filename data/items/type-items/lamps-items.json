@@ -1,0 +1,1407 @@
+[
+    {
+        "title": "10 Shining Years Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/10shiningyearslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Abracadabra Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Abracadabracandelabra.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Accordion Shade Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Accordionshadelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Alluring Antique Lamppost",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Alluringantiquelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ancient Pyramid Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Ancientpyramidlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Antique Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Antiquelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Aqua Blue Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Aquabluelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Aquamarine Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Aquamarinefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Artists Bunk Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Artistsbunklamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Autumn Party Lights",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Autumnpartylights.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Atomic Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Atomiclamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Autumn Garden Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Autumngardenlantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Awesome Avocado Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Awesomeavocadolamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Backyard Tiki Sparkler",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Backyardtikisparkler.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Ballet Swan Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Balletswanfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Beach House Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Beachhousefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Beaming Blue Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Beamingbluelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Beautiful Bows Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Beautifulbowslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Be Merry Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Bemerrylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Berry Blast Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Berryblastlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Big City Street Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Bigcitystreetlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bloomin' Standing Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Bloominstandinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Blue Avenue Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Blueavenuefloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Blushing Hearts Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Blushingheartslamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Boogie Down Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Boogiedownlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bouncing Bunny Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Bouncingbunnylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bountiful Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Bountifullamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Branch Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Branchlight.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bright Ideas Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Brightideaslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bright Light Sea Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Brightlightsealamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bright Uprights Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Brightuprightslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Burning Light Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Burninglightlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Butterfly Meadow Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Butterflymeadowlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Calm Hearts Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Calmheartslamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Candy Corn Wacky Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Candycornwackylantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Card Collector Standing Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Cardcollectorstandinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Carefully Carved Lamppost",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Carefullycarvedlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cavatappi Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Cavatappilamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Chilling Lanterns Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Chillinglanternslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Charmed Chamber Wacky Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Charmedchamberwackylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Charming Oasis Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Charmingoasisfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Circular Stripes Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Circularstripeslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Circus Spectacular Spotlight",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Circusspectacularspotlight.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Classic Villa Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Classicvillalamppost.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Coastal Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Coastalfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Comfy Corner Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Comfycornerlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Contessa Candle Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Contessacandlelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cool Cave Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Coolcavelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cool Tones Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Cooltoneslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Country Farm Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Countryfarmlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Countryside Christmas Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Countrysidechristmaslamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cow Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Cowpetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cozy Condo Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Cozycondofloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cozy Cranberry Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Cozycranberrylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cozy Winter Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Cozywinterlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Craning Orb Modern Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Craningorbmodernlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cream-Colored Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Creamcoloredfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Creepy Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Creepycandelabra.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Crocodile Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Crocodilelantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Crocodile Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Crocodilepetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Clover Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Cutecloverlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Cute Octopus Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Cuteoctopuslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cute Valentine Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Cutevalentinelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Dark Pine Grove Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Darkpinegrovelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Denim & Lace Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Denim%26lacelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Divine Dream Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Divinedreamlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Black Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Diyblacklamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Blue Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Diybluelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Green Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Diygreenlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Diylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Orange Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Diyorangelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Pastel Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Diypastellamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Pink Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Diypinklamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Purple Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Diypurplelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Red Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Diyredlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Retro Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Diyretrolamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "DIY Tropical Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Diytropicallamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Done Bone Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Dogbonelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Doggy Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Doggypetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Eclectic Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Eclecticfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Electric Elven Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Electricelvenlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Elephant Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Elephantpetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Elf Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Elflamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Enchanted Lighthouse Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Enchantedlighthouselamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Energy Efficient Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Energyefficientlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fairy Den Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Fairydenlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Farm Freshly Hatched Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Farmfreshlyhatchedlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ferris Wheel Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Ferriswheellamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Festive Sidewalk Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Festivesidewalklamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fiesta Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Fiestafloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "FinFan Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Finfanlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Firey Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Fierylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Flashy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Flashylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweetheart Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Sweetheartfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fly 90s Wacky Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Fly90swackylantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Flying High Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Flyinghighlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Foggy Night Pirate Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Foggynightpiratelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Frosted Ice Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Frostedicefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Frosty Blue Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Frostybluelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Funky Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Funkylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fun Summer Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Funsummerlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Game Time Canopy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Gametimecanopylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Garlic Bulb Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Garlicbulbfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Gargoyle Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Gargoylelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Giant Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Giantlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "GingerKinz Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Gingerkinzlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Giraffepet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Giraffepetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Glam Boutique Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Glamboutiquefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Glam Boutique Floor Lamp Replica",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Glamboutiquefloorlampreplica.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Glampire Standing Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Glampirestandingcandelabra.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Glowing Depths Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Glowingdepthsfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Glowing Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Glowinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Gold Star Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Goldstarlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Golden Ginkgo Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Goldenginkgolamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Golden Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Goldenlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Golden Lamp Post Lounger",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Goldenlamppostlounger.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Good Vibes Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Goodvibeslamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Grand Estate Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Grandestatelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Grand Persian Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Grandpersianlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Green Mushroom Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Greenmushroomlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Green Rootbeer Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Greenrootbeerlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Gumpdrop Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Gumdroplamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Hadrosaurus Standing Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Hadrosaurusstandinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Halloween Ball Cage Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Halloweenballcagelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Halloween Ball Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Halloweenballcandelabra.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Hamster Habitat Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Hamsterhabitatlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Harvest Cornstalk Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Harvestcornstalklamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Haunted Funhouse Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Hauntedfunhouselamppost.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Haunted Tropics Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Hauntedtropicslantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Haunted Tropics Torch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Hauntedtropicstorch.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Helmet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Helmetlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday Barn Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Holidaybarnlantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Holiday Silver Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Holidaysilverfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Home Before Dark Lamppost",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Homebeforedarklamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Horse Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Horsepetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Industrial Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Industrialfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Iron Wood Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Ironwoodlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Jellyfish Table Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Jellyfishtablelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Jolly Jubilee Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Jollyjubileelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Jungle Sun Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Junglesunlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Keep Cozy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Keepcozylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Kid's Standing Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Kidsstandingfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "King's Royal Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Kingsroyallamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzville Antique Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Kinzvilleantiquelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kinzville Street Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Kinzvillestreetlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Kitty Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Kittypetlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lamprey Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Lampreylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lavender Farm Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Lavenderfarmlantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lavender Flair Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Lavenderflairlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lazy Daisy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Lazydaisylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Leprechaun Boot Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Leprechaunbootlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Let's Boogie Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Letsboogielamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Light Living Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Lightlivinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lion Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Lionpetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lots of Dots Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Lotsofdotsfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Lovely Toadstool Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Lovelytoadstoollamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Luminous Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Luminouslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Lubinorb Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Luminorbfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Magic Genie Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Magicgenielamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Magical Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Magicallantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Main Street Lamppost",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Mainstreetlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Marine Adventures Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Marineadventuresfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Midnight Ice Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Midnighticelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Modern Boutique Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Modernboutiquefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Modern Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Modernlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mauna Loa Lamp Column",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Maunaloalampcolumn.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Monkey Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Monkeypetlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Mystic Eye Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Mysticeyelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Neo Gothic Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Neogothicfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Neolithic Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Neolithiclamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Newz Vlogger Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Newzvloggerlight.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Nocturnal Night Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Nocturnalnightlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "North Pole Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Northpolelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "North Pole Lamppost",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Northpolelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Northern Lights Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Northernlightslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ohh La La Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Ohhlalalamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Olympus Column Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Olympuscolumnlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "On Side Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Onsidefloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Orange Mushroom Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Orangemushroomlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Painted Glass Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Paintedglasslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Paper Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Paperlantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Party Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Partylight.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Party Puppy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Partypuppylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Peach Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Peachfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Patchwork Holiday Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Patchworkholidaylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pink Flamingo Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Pinkflamingolamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Polar Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Polarlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Polished Pumpkin Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Polishedpumpkinlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Popsicle Stick Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Popsiclestickfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Pretty Pallet Party Lights",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Prettypalletpartylights.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Pure Elegance Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Pureelegancelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Purple Mushroom Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Purplemushroomlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Purple Spiral Shade Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Purplespiralshadelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Quilted Christmas Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Quiltedchristmasfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Quizzy's Floor Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Quizzysfloorlight.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Quizzy's TV Set Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Quizzystvsetlight.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Radiant Autumn Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Radiantautumnlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Rainbow Neon Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Rainbowneonlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Rainbow Wacky Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Rainbowwackylantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Reading Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Readinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Red Ming Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Redminglantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Red Velvet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Redvelvetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Regal Flame Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Regalflamelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Regency Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Regencycandelabra.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Reindeer Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Reindeerlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Reindeer Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Reindeerpetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Relaxing Red Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Relaxingredlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Restful Retreat Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Restfulretreatlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Retro Rainbow Standing Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Retrorainbowstandinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rink Side Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Rinksidelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Rooster Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Roosterpetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Royal Red Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Royalredlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "SantaKinz Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Santakinzlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sapphire Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Sapphirelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sassy Seafaring Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Sassyseafaringlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Seashell Cottage Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Seashellcottagelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Secluded Garden Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Secludedgardenlamppost.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Serenity Blue Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Serenitybluelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sheep Pet Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Sheeppetlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Shimmering Star Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Shimmeringstarlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Shining Shop Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Shiningshoplamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Silly Scarecrow Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Sillyscarecrowlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Simplicity Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Simplicitylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Simply Elegant Patio Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Simplyelegantpatiolantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ski Village Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Skivillagelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sky View Ranch Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Skyviewranchlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sleek Sequin Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Sleeksequinlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Snowman Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Snowmanlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Soft Spice Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Softspicelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Solid Gold Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Solidgoldcandelabra.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Spilled Milk Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Spilledmilkfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Spooky Chandelier",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Spookychandelier.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Spring Patio Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Springpatiolantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Springtime Treetop Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Springtimetreetoplamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stadium Lighting Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Stadiumlightinglamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stage Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Stagelight.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Stage Light Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Stagelightlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Star Dust Dreams Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Stardustdreamslamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Stoplight Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Stoplightlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Storybook Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Storybooklamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Stylish Kitchen Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Stylishkitchenlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Summer Strawberry Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Summerstrawberrylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Sunken Shop Chandelier",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Sunkenshipchandelier.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Supernova Star Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Supernovastarlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Superstar Spot Light",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Superstarspotlight.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Dreams Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Sweetdreamslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Sweet Spring Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Sweetspringlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tall Scalloped Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Tallscallopedfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tartan Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Tartanfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Taupe Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Taupefloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Teddy Bear Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Teddybearlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tender Hearts Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Tenderheartslamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tiki Torch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Tikitorch.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Tiki Torch Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Tikitorchlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tinkerpunk Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Tinkerpunklamppost.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Trading Card 2.0 Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Tradingcard20lamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trading Card Condo Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Tradingcardcondolamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Traffic Light Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Trafficlightlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Treetop Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Treetoplamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trick or Treat Street Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Trickortreatstreetlamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Trio of Bears Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Trioofbearslantern.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tri-Tier Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Tritierfloorlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Tropical Holidays Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Tropicalholidayslamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Up and Away Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Upandawaylamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Up Beat Chic Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Upbeatchiclamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Webkinz Fanatic Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Webkinzfanaticfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz Newz Glam Boutique Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Webkinznewzglamboutiquelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Webkinz Shire Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Webkinzshirelamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "White Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Whitelamppost.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wild Savannah Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Wildsavannahlamp.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Will 'O the Wisp Floor Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Willothewispfloorlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Window on the World Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Windowontheworldlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Winter Wishes Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Winterwisheslamppost.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Winter Raccoon Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Winterraccoonlamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wisteria Patio Garden Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Wisteriapatiogardenlantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "White Hibiscus Wacky Lantern",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Whitehibiscuswackylantern.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Woodland Fairy Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Woodlandfairylamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Wrinkled Paper Lanterns",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Wrinkledpaperlanterns.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Year 20 Candelabra",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Year20candelabra.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "You and Me Lamp",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Youandmelamp.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Zumwhere Lamp Post",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Zumwherelamppost.png",
+        "is_tradeable": true
+    }
+]

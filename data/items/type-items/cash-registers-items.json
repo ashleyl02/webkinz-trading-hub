@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Bake Shop Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Bakeshopregister.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Berry Farm Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Berryfarmcashregister.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cafe Checkout Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Cafecheckoutcounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Cashregister.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Checkout Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Checkoutcounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Chocolate Shop Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Chocolateshopcounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Concession Stand Front Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Concessionstandfrontcounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Curio Shop Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Curioshopcashregister.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Daisy's Diner Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Daisysdinercounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Diner Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Dinercashregister.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Drive Through Window",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Drivethroughwindow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fast Food Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Fastfoodcounter.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Fast Food Drive Through Window",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Fastfooddrivethroughwindow.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Ice Cream Parlor Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Icecreamparlorregister.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Magical Toy Emporium Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Magicaltoyemporiumcashregister.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Scrambled Cash Register",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Scrambledcashregister.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Souvenir Shop",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Souvenirshop.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Store Checkout Counter",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Storecheckoutcounter.png",
+        "is_tradeable": true
+    }
+]

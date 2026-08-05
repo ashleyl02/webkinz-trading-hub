@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Backyard Bubble Maker",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Backyardbubblemaker.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Blue Bubble and Trouble Witch Dress",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Bluebubbleandtroublewitchdress.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Blue Bubble and Trouble Witch Hat",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Bluebubbleandtroublewitchhat.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Blue Bubble and Trouble Witch Shoes",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Bluebubbleandtroublewitchshoes.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bountiful Bubble Blower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Bountifulbubbleblower.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubble Fountain",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Bubblefountain.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubblegum Bathtub",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Bubblegumbathtub.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubble Vest",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Bubblevest.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubble Wand Hat",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Bubblewandhat.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubble Wrap Chair",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Bubblewrapchair.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Bubble Wrap Couch",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Bubblewrapcouch.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Bubble Wrap Fairy Dress",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Bubblewrapfairydress.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Caterpillar Bubble Blower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Caterpillarbubbleblower.png",
+        "is_tradeable": false
+    },
+    {
+        "title": "Dolphin Bubble Blower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Dolphinbubbleblower.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Octopus Bubble Blower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Octopusbubbleblower.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Pink Bubble Machine",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Pinkbubblemachine.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Springtime Bubble Machine",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Springtimebubblemachine.png",
+        "is_tradeable": true
+    },
+    {
+        "title": "Zingoz Bubble Blower",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Zingozbubbleblower.png",
+        "is_tradeable": true
+    }
+]
