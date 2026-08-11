@@ -6,6 +6,14 @@ const category = params.get("category");
 const jsonFile = `../data/items/${collection}-items/${category}-items.json`;
 
 document.getElementById("category-name").textContent = category;
+fetch(`../data/collections/${collection}-collections.json`)
+    .then(response => response.json())
+    .then(collections => {
+        const currentCollection = collections.find(item => item.id === category);
+        if (currentCollection) {
+            document.getElementById("category-name").textContent = currentCollection.title;
+        }
+    });
 
 fetch(jsonFile)
     .then(response => response.json())
