@@ -25,6 +25,7 @@ function loadCollection(jsonFile, collectiontype) {
             items.forEach(item => {
                 const card = document.createElement("a");
                 card.className = "item-card";
+                card.href = `items.html?collection=${collectiontype}&category=${item.id}`;
 
                 const img = document.createElement("img");
                 img.src = item.image_url;
