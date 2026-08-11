@@ -33,8 +33,20 @@ fetch(jsonFile)
                 const caption = document.createElement("p");
                 caption.textContent = item.title;
 
+                const buttonContainer = document.createElement("div");
+                buttonContainer.className = "button-container";
+
+                const wishlistButton = document.createElement("button");
+                wishlistButton.className = "wishlist-button";
+                buttonContainer.appendChild(wishlistButton);
+
+                const inventoryButton = document.createElement("button");
+                inventoryButton.className = "inventory-button";
+                buttonContainer.appendChild(inventoryButton);
+
                 card.appendChild(img);
                 card.appendChild(caption);
+                card.appendChild(buttonContainer);
 
                 container.appendChild(card);
             }
