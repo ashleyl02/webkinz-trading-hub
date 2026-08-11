@@ -21,20 +21,23 @@ fetch(jsonFile)
         const container = document.getElementById("items");
 
         items.forEach(item => {
-            const card = document.createElement("div");
-            card.className = "item-card";
+            is_tradeable = item.is_tradeable;
+            if (is_tradeable) {
+                const card = document.createElement("div");
+                card.className = "item-card";
 
-            const img = document.createElement("img");
-            img.src = item.image_url;
-            img.alt = item.title;
+                const img = document.createElement("img");
+                img.src = item.image_url;
+                img.alt = item.title;
 
-            const caption = document.createElement("p");
-            caption.textContent = item.title;
+                const caption = document.createElement("p");
+                caption.textContent = item.title;
 
-            card.appendChild(img);
-            card.appendChild(caption);
+                card.appendChild(img);
+                card.appendChild(caption);
 
-            container.appendChild(card);
+                container.appendChild(card);
+            }
         });
     })
     .catch(error => {
