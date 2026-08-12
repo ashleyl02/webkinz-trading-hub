@@ -165,3 +165,137 @@ main {
     box-shadow: 0 4px 0 #8BB4C6;
     transform:translateY(-2px);
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.wishlist-button {
+    position: relative;
+}
+
+.wishlist-button label {
+    background-color: #c2e0f2;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    display: block;
+    position: relative;
+}
+
+.wishlist-button label:hover {
+    background-color: #A2D1EC;
+}
+
+.wishlist-button label:before {
+    height: 25px;
+    aspect-ratio: 1;
+    clip-path: path("M12 21.593c-5.63-5.539-11-10.297-11-14.402 0-3.791 3.068-5.191 5.281-5.191 1.312 0 4.151.501 5.719 4.457 1.59-3.968 4.464-4.447 5.726-4.447 2.54 0 5.274 1.621 5.274 5.181 0 4.069-5.136 8.625-11 14.402m5.726-20.583c-2.203 0-4.446 1.042-5.726 3.238-1.285-2.206-3.522-3.248-5.719-3.248-3.183 0-6.281 2.187-6.281 6.191 0 4.661 5.571 9.429 12 15.809 6.43-6.38 12-11.148 12-15.809 0-4.011-3.095-6.181-6.274-6.181");
+    background: #d29599;
+    content: "";
+    position: absolute;
+    left: 8px;
+    top: 10px;
+}
+
+.wishlist-button label:after {
+    height: 25px; 
+    aspect-ratio: 1;
+    clip-path: path("M12 4.248c-3.148-5.402-12-3.825-12 2.944 0 4.661 5.571 9.427 12 15.808 6.43-6.381 12-11.147 12-15.808 0-6.792-8.875-8.306-12-2.944z");
+    background: #d29599;
+    content: "";
+    opacity: 0;
+    position: absolute;
+    left: 8px;
+    top: 10px;
+    transition: opacity 0.2s ease;
+}
+
+.wishlist-button label:active {
+    transform: scale(0.95);
+}
+
+.wishlist-button input[type="checkbox"] {
+    visibility: hidden;
+    display: none;
+    opacity: 0;
+}
+
+.wishlist-button input[type="checkbox"]:checked + label:after {
+    opacity: 1;
+}
+
+.inventory-button {
+    position: relative;
+}
+
+.inventory-button label {
+    background-color: #F0D1D3;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    display: block;
+    position: relative;
+}
+
+.inventory-button label:hover {
+    background-color: #E8BBBE;
+}
+
+.inventory-button label:before {
+    height: 24px;
+    aspect-ratio: 1;
+    clip-path: polygon( 40% 0%, 40% 40%, 0% 40%, 0% 60%, 40% 60%, 40% 100%, 60% 100%, 60% 60%, 100% 60%, 100% 40%, 60% 40%, 60% 0% );
+    background: #6D919A;
+    content: "";
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+}
+
+.inventory-button label:after {
+    height: 24px; 
+    aspect-ratio: 1;
+    clip-path: polygon(
+    78% 10%,
+    90% 20%,
+    38% 82%,
+    10% 52%,
+    21% 41%,
+    38% 58%
+  );
+    background: #6D919A;
+    content: "";
+    opacity: 0;
+    position: absolute;
+    left: 8px;
+    top: 10px;
+    transition: opacity 0.2s ease;
+}
+
+.inventory-button label:active {
+    transform: scale(0.95);
+}
+
+.inventory-button input[type="checkbox"] {
+    visibility: hidden;
+    display: none;
+    opacity: 0;
+}
+
+.inventory-button input[type="checkbox"]:checked + label:before {
+    opacity: 0;
+}
+
+.inventory-button input[type="checkbox"]:checked + label:after {
+    opacity: 1;
+}
