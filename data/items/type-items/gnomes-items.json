@@ -2,181 +2,217 @@
     {
         "title": "Blue Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Blueleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_leprechaun_garden_statue"
     },
     {
         "title": "Blue Poinsettia Gnome Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Bluepoinsettiagnomelamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_poinsettia_gnome_lamp"
     },
     {
         "title": "Blue Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Bluewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_wacky_christmas_gnome"
     },
     {
         "title": "Cyan Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Cyanwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cyan_wacky_christmas_gnome"
     },
     {
         "title": "Eerie Truffle Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Eerietruffledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "eerie_truffle_dispenser"
     },
     {
         "title": "Garden Gnome Fortune Teller",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Gardengnomefortuneteller.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_gnome_fortune_teller"
     },
     {
         "title": "Garden Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Gardenzangoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_zangoz"
     },
     {
         "title": "Garden Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Gardenzingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_zingoz"
     },
     {
         "title": "GnomeKinz Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Gnomekinzcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gnomekinz_cookie_dispenser"
     },
     {
         "title": "Green Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Greenleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_leprechaun_garden_statue"
     },
     {
         "title": "Green Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Greenwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_wacky_christmas_gnome"
     },
     {
         "title": "Holiday Wacky Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Holidaywackyfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_wacky_fence"
     },
     {
         "title": "Holiday Poinsettia Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Holidaypoinsettiawacky.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_poinsettia_wacky"
     },
     {
         "title": "Indigo Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Indigoleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "indigo_leprechaun_garden_statue"
     },
     {
         "title": "Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Leprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leprechaun_garden_statue"
     },
     {
         "title": "Lime Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Limewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lime_wacky_christmas_gnome"
     },
     {
         "title": "Navy Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Navywackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "navy_wacky_christmas_gnome"
     },
     {
         "title": "Orange Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Orangeleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_leprechaun_garden_statue"
     },
     {
         "title": "Orange Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Orangewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_wacky_christmas_gnome"
     },
     {
         "title": "Painted Poinsettia Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Paintedpoinsettiagnome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_poinsettia_gnome"
     },
     {
         "title": "Painted Sunflower Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Paintedsunflowergnome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_sunflower_gnome"
     },
     {
         "title": "Pink Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Pinkwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_wacky_christmas_gnome"
     },
     {
         "title": "Purple Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Purplewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_wacky_christmas_gnome"
     },
     {
         "title": "Red Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Redleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_leprechaun_garden_statue"
     },
     {
         "title": "Red Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Redwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_wacky_christmas_gnome"
     },
     {
         "title": "Rose Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Rosewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rose_wacky_christmas_gnome"
     },
     {
         "title": "Violet Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Violetleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_leprechaun_garden_statue"
     },
     {
         "title": "Violet Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Violetwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_wacky_christmas_gnome"
     },
     {
         "title": "Wacky Christmas Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Wackychristmasgnomelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_christmas_gnome_lantern"
     },
     {
         "title": "Wacky Easter Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Wackyeastergnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_easter_gnome"
     },
     {
         "title": "Wacky Fall Garden Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Wackyfallgardengnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_fall_garden_gnome"
     },
     {
         "title": "Wacky Garden Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Wackygardengnomelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_garden_gnome_lantern"
     },
     {
         "title": "Whistling Wackys",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Whistlingwackys.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "whistling_wackys"
     },
     {
         "title": "Winter Wacky Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Winterwackygnomelantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_wacky_gnome_lantern"
     },
     {
         "title": "Yellow Leprechaun Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Yellowleprechaungardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_leprechaun_garden_statue"
     },
     {
         "title": "Yellow Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Yellowwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_wacky_christmas_gnome"
     }
 ]

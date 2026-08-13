@@ -2,406 +2,487 @@
     {
         "title": "Alyssa House Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Alyssahousebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "alyssa_house_bookshelf"
     },
     {
         "title": "Apple Tree Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Appletreebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_tree_bookcase"
     },
     {
         "title": "Artist's Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Artistsbookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "artist's_bookshelf"
     },
     {
         "title": "Avante Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Avantebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "avante_bookshelf"
     },
     {
         "title": "Ballerina Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Ballerinabookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ballerina_bookcase"
     },
     {
         "title": "Baroness Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Baronessbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baroness_bookshelf"
     },
     {
         "title": "Book Cart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Bookcart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "book_cart"
     },
     {
         "title": "Books and Toys Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Booksandtoysshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "books_and_toys_shelf"
     },
     {
         "title": "Bountiful Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Bountifulbookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bountiful_bookcase"
     },
     {
         "title": "Bratty Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Brattybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bratty_bookshelf"
     },
     {
         "title": "CampKinz Library Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Campkinzlibrarybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_library_bookshelf"
     },
     {
         "title": "Cheery Winter Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Cheerywinterbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheery_winter_bookcase"
     },
     {
         "title": "Christmas Cabin Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Christmascabinbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_cabin_bookshelf"
     },
     {
         "title": "Christmas Tree Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Christmastreebookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_tree_bookshelf"
     },
     {
         "title": "Coastal Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Coastalbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "coastal_bookcase"
     },
     {
         "title": "Conservatory Library Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Conservatorylibrarybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "conservatory_library_bookshelf"
     },
     {
         "title": "Conservatory Library Bookshelf Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Conservatorylibrarybookshelfdivider.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "conservatory_library_bookshelf_divider"
     },
     {
         "title": "Cookbook Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Cookbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cookbook_shelf"
     },
     {
         "title": "Country Farm Fireplace Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Countryfarmfireplacebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "country_farm_fireplace_bookcase"
     },
     {
         "title": "Cozy Condo Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Cozycondobookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_condo_bookshelf"
     },
     {
         "title": "Dragon Nursery Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Dragonnurserybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_nursery_bookshelf"
     },
     {
         "title": "Fairy Tale Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Fairytalebookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_tale_bookshelf"
     },
     {
         "title": "Fireplace Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Fireplacebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fireplace_bookcase"
     },
     {
         "title": "Floating Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Floatingbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floating_bookshelf"
     },
     {
         "title": "Gargoyle Book Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Gargoylebookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gargoyle_book_shelf"
     },
     {
         "title": "Gentle Spring Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Gentlespringbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gentle_spring_bookcase"
     },
     {
         "title": "Glampire Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Glampirebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glampire_bookshelf"
     },
     {
         "title": "Gold Sparkle Fireplace Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Goldsparklefireplacebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gold_sparkle_fireplace_bookcase"
     },
     {
         "title": "Gothic Halloween Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Gothichalloweenbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_bookcase"
     },
     {
         "title": "Haunted Castle Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Hauntedcastlebookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_castle_bookshelf"
     },
     {
         "title": "High-Tech Covert Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Hightechcovertbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "high-tech_covert_bookcase"
     },
     {
         "title": "Holiday Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Holidaybookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_bookcase"
     },
     {
         "title": "Holiday Cheer Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Holidaycheerbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_cheer_bookshelf"
     },
     {
         "title": "Holiday Silver Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Holidaysilverbookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_silver_bookcase"
     },
     {
         "title": "Industrial Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Industrialbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "industrial_bookcase"
     },
     {
         "title": "Kid Wall Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Kidwallshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kid_wall_shelf"
     },
     {
         "title": "Large Library Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Largelibrarybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "large_library_bookshelf"
     },
     {
         "title": "Legendary Learning Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Legendarylearningbookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "legendary_learning_bookcase"
     },
     {
         "title": "Library Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Librarybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "library_bookshelf"
     },
     {
         "title": "Lighthouse Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Lighthousebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lighthouse_bookshelf"
     },
     {
         "title": "Lofi Study Shelves",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Lofistudyshelves.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lofi_study_shelves"
     },
     {
         "title": "Lots of Learning Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Lotsoflearningbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lots_of_learning_bookshelf"
     },
     {
         "title": "Lovely Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Lovelybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_bookshelf"
     },
     {
         "title": "Magic W Bookshelf Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Magicwbookshelfdesk.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_w_bookshelf_desk"
     },
     {
         "title": "Mermazing Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Mermazingbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermazing_bookshelf"
     },
     {
         "title": "Ms. Cowoline's Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Mscowolinesbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ms._cowoline's_bookcase"
     },
     {
         "title": "Nafaria House Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Nafariahousebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nafaria_house_bookshelf"
     },
     {
         "title": "Neo Gothic Vine Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Neogothicvinebookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neo_gothic_vine_bookshelf"
     },
     {
         "title": "Nursery Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Nurseryreadingnook.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nursery_reading_nook"
     },
     {
         "title": "Oak Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Oakbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "oak_bookshelf"
     },
     {
         "title": "Ohh La La Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Ohhlalareadingnook.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ohh_la_la_reading_nook"
     },
     {
         "title": "Overstuffed Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Overstuffedbookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "overstuffed_bookshelf"
     },
     {
         "title": "Persian Personal Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Persianpersonalbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "persian_personal_bookcase"
     },
     {
         "title": "Plum Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Plumbookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "plum_bookcase"
     },
     {
         "title": "Quiet Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Quietreadingnook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quiet_reading_nook"
     },
     {
         "title": "Quiet Time Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Quiettimereadingnook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quiet_time_reading_nook"
     },
     {
         "title": "Red Holiday Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Redholidaybookcase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_holiday_bookcase"
     },
     {
         "title": "Secret Bookshelf Hideout",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Secretbookshelfhideout.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "secret_bookshelf_hideout"
     },
     {
         "title": "Secret Storage Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Secretstoragebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secret_storage_bookshelf"
     },
     {
         "title": "Serenity Blue Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Serenitybluebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "serenity_blue_bookcase"
     },
     {
         "title": "Sly Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Slyreadingnook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sly_reading_nook"
     },
     {
         "title": "Small Library Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Smalllibrarybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "small_library_bookshelf"
     },
     {
         "title": "Spider Webbed Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Spiderwebbedbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spider_webbed_bookshelf"
     },
     {
         "title": "Spooky School Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Spookyschoolbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_school_bookshelf"
     },
     {
         "title": "Starlight Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Starlightbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starlight_bookshelf"
     },
     {
         "title": "Starry Wonders Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Starrywondersbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starry_wonders_bookshelf"
     },
     {
         "title": "Stately Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Statelybookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stately_bookshelf"
     },
     {
         "title": "Storybook Reading Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Storybookreadingnook.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "storybook_reading_nook"
     },
     {
         "title": "Superfan Toy Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Superfantoyshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "superfan_toy_shelf"
     },
     {
         "title": "Sweet 16 Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Sweet16bookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_16_bookshelf"
     },
     {
         "title": "Sweet 16 Shelves",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Sweet16shelves.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_16_shelves"
     },
     {
         "title": "Sweetheart Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Sweetheartbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_bookshelf"
     },
     {
         "title": "Sweetheart Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Sweetheartshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_shelf"
     },
     {
         "title": "Sweet Zum Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Sweetzumbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_zum_bookshelf"
     },
     {
         "title": "Teen Wolf Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Teenwolfbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teen_wolf_bookcase"
     },
     {
         "title": "Tender Hearts Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Tenderheartsbookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tender_hearts_bookcase"
     },
     {
         "title": "T-Rex Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Trexbookshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "t-rex_bookshelf"
     },
     {
         "title": "Upbeat Chic Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Upbeatchicbookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "upbeat_chic_bookshelf"
     },
     {
         "title": "Weathered Crate Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Weatheredcratebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "weathered_crate_bookshelf"
     },
     {
         "title": "Wise Wizard Bookshelves",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Wisewizardbookshelves.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wise_wizard_bookshelves"
     },
     {
         "title": "Wooden Crate Shelves",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Woodencrateshelves.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wooden_crate_shelves"
     }
 ]

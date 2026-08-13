@@ -2,221 +2,265 @@
     {
         "title": "2011 Festive Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/2011festivetapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2011_festive_tapestry"
     },
     {
         "title": "Academy Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Academybanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_banner"
     },
     {
         "title": "Alyssa House Thin Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Alyssahousethintapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "alyssa_house_thin_tapestry"
     },
     {
         "title": "Alyssa House Wide Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Alyssahousewidetapestry.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "alyssa_house_wide_tapestry"
     },
     {
         "title": "Auditions Today Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Auditionstodaybanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "auditions_today_banner"
     },
     {
         "title": "Bamboo Brush Painting Scroll",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Bamboobrushpaintingscroll.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bamboo_brush_painting_scroll"
     },
     {
         "title": "Baseball Stars Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Baseballstarsbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_stars_banner"
     },
     {
         "title": "Bonsai Brush Painting Scroll",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Bonsaibrushpaintingscroll.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bonsai_brush_painting_scroll"
     },
     {
         "title": "Checkers Club Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Checkersclubbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "checkers_club_banner"
     },
     {
         "title": "Cheerleader Team Drape",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Cheerleaderteamdrape.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerleader_team_drape"
     },
     {
         "title": "Cubist Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Cubisttapestry.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cubist_tapestry"
     },
     {
         "title": "Deluxe Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Deluxetapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "deluxe_tapestry"
     },
     {
         "title": "Entitled Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Entitledtapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "entitled_tapestry"
     },
     {
         "title": "Fabulous Phoenix Perch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Fabulousphoenixperch.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fabulous_phoenix_perch"
     },
     {
         "title": "Football Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Footballbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "football_banner"
     },
     {
         "title": "Griffin House Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Griffinhousetapestry.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "griffin_house_tapestry"
     },
     {
         "title": "Happy Birthday Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Happybirthdaybanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_birthday_banner"
     },
     {
         "title": "Happy Halloween Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Happyhalloweenbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_halloween_banner"
     },
     {
         "title": "Helping Paws Club Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Helpingpawsclubtapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_tapestry"
     },
     {
         "title": "Holiday Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Holidaytapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_tapestry"
     },
     {
         "title": "Ice Cream Social Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Icecreamsocialbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_cream_social_banner"
     },
     {
         "title": "Kinzville Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Kinzvillebanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_banner"
     },
     {
         "title": "Magic W Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Magicwtapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_w_tapestry"
     },
     {
         "title": "Medieval Bear Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Medievalbeartapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_bear_tapestry"
     },
     {
         "title": "Medieval Lion Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Medievalliontapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_lion_tapestry"
     },
     {
         "title": "Medieval Pig Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Medievalpigtapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_pig_tapestry"
     },
     {
         "title": "Medieval Unicorn Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Medievalunicorntapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_unicorn_tapestry"
     },
     {
         "title": "Mythical Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Mythicaltapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mythical_tapestry"
     },
     {
         "title": "Nafaria House Thin Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Nafariahousethintapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nafaria_house_thin_tapestry"
     },
     {
         "title": "Nafaria House Wide Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Nafariahousewidetapestry.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nafaria_house_wide_tapestry"
     },
     {
         "title": "Nafaria Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Nafariatapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nafaria_tapestry"
     },
     {
         "title": "Pizza Party Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Pizzapartybanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pizza_party_banner"
     },
     {
         "title": "Snowman Wall Hanging",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Snowmanwallhanging.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_wall_hanging"
     },
     {
         "title": "Spelling Bee Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Spellingbeebanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spelling_bee_banner"
     },
     {
         "title": "Spring Bunny Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Springbunnybanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_bunny_banner"
     },
     {
         "title": "Starlight Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Starlighttapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starlight_tapestry"
     },
     {
         "title": "The Fish King Rules Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Thefishkingrulesbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_fish_king_rules_banner"
     },
     {
         "title": "Webkinz Clubhouse Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Webkinzclubhousebanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_clubhouse_banner"
     },
     {
         "title": "Webkinz Votes 2020 Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Webkinzvotes2020banner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2020_banner"
     },
     {
         "title": "Webkinz Votes 2022 Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Webkinzvotes2022banner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2022_banner"
     },
     {
         "title": "Webkinz Votes 2024 Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Webkinzvotes2024banner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2024_banner"
     },
     {
         "title": "Ye Olde Roller Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Yeolderollertapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ye_olde_roller_tapestry"
     },
     {
         "title": "Zum Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Zumtapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zum_tapestry"
     },
     {
         "title": "Zumwhere Tapestry",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Zumwheretapestry.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zumwhere_tapestry"
     }
 ]

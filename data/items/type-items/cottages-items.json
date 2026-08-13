@@ -2,1761 +2,2113 @@
     {
         "title": "2020 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/2020milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2020_milk_chocolate_cottage"
     },
     {
         "title": "2020 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/2020whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2020_white_chocolate_cottage"
     },
     {
         "title": "2021 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/2021milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2021_milk_chocolate_cottage"
     },
     {
         "title": "2021 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/2021whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2021_white_chocolate_cottage"
     },
     {
         "title": "2022 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/2022milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2022_milk_chocolate_cottage"
     },
     {
         "title": "2022 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/2022whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2022_white_chocolate_cottage"
     },
     {
         "title": "2023 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/2023milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2023_milk_chocolate_cottage"
     },
     {
         "title": "2023 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/2023whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2023_white_chocolate_cottage"
     },
     {
         "title": "2024 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/2024milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2024_milk_chocolate_cottage"
     },
     {
         "title": "2023 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/2024whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2023_white_chocolate_cottage"
     },
     {
         "title": "Alps Rescue Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Alpsrescuestation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "alps_rescue_station"
     },
     {
         "title": "Aquarium Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Aquariumcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aquarium_cottage"
     },
     {
         "title": "Aurora Observation Dome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Auroraobservationdome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aurora_observation_dome"
     },
     {
         "title": "Autumn Acorn Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Autumnacorncottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_acorn_cottage"
     },
     {
         "title": "Autumn Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Autumngazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_gazebo"
     },
     {
         "title": "Autumn Gnome Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Autumngnomecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_gnome_cottage"
     },
     {
         "title": "Autumn Living Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Autumnlivinggazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_living_gazebo"
     },
     {
         "title": "Autumn Walnut Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Autumnwalnutcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_walnut_cottage"
     },
     {
         "title": "Awesome Avocado Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Awesomeavocadocottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "awesome_avocado_cottage"
     },
     {
         "title": "Backyard Living Summerhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Backyardlivingsummerhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backyard_living_summerhouse"
     },
     {
         "title": "Badger Hill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Badgerhill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "badger_hill"
     },
     {
         "title": "Basketball Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Basketballcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "basketball_cottage"
     },
     {
         "title": "Batwing Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Batwingcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "batwing_cottage"
     },
     {
         "title": "Beehive Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Beehivecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "beehive_cottage"
     },
     {
         "title": "Be Merry Ornament Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Bemerryornamentcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "be_merry_ornament_cottage"
     },
     {
         "title": "Big Top Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Bigtopcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_top_cottage"
     },
     {
         "title": "Birch Leaf Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Birchleafcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "birch_leaf_cottage"
     },
     {
         "title": "Blossoming Flower House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Blossomingflowerhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blossoming_flower_house"
     },
     {
         "title": "Blue Fairykinz Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Bluefairykinzcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_fairykinz_cottage"
     },
     {
         "title": "Blue Painted Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Bluepaintedeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_painted_egg_cottage"
     },
     {
         "title": "Blue Patterned Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Bluepatternedeggcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_patterned_egg_cottage"
     },
     {
         "title": "Blue Poinsettia Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Bluepoinsettiacottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_poinsettia_cottage"
     },
     {
         "title": "Blue Ribbon Farmhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Blueribbonfarmhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_ribbon_farmhouse"
     },
     {
         "title": "Blue Spring Carousel Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Bluespringcarouselcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_spring_carousel_cottage"
     },
     {
         "title": "Blue Spring Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Bluespringeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_spring_egg_cottage"
     },
     {
         "title": "Blushing Hollow Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Blushinghollowhideaway.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blushing_hollow_hideaway"
     },
     {
         "title": "Book Nook Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Booknookcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "book_nook_cottage"
     },
     {
         "title": "Boombox Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Boomboxcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "boombox_cottage"
     },
     {
         "title": "Breezy Banana Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Breezybananacottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "breezy_banana_cottage"
     },
     {
         "title": "Bumpy Gourd Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Bumpygourdcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bumpy_gourd_cottage"
     },
     {
         "title": "Buttercup Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Buttercuptower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "buttercup_tower"
     },
     {
         "title": "Cabbage Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Cabbagecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cabbage_cottage"
     },
     {
         "title": "Caboose Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Caboosecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "caboose_cottage"
     },
     {
         "title": "Cactus Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Cactuscottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cactus_cottage"
     },
     {
         "title": "Camper Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Campercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "camper_cottage"
     },
     {
         "title": "CampKinz Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Campkinzcabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_cabin"
     },
     {
         "title": "CampKinz Dining Hall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Campkinzdininghall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_dining_hall"
     },
     {
         "title": "Candle Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Candlecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candle_cottage"
     },
     {
         "title": "Candy Apple House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Candyapplehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_apple_house"
     },
     {
         "title": "Candy Cane Cupcake Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Candycanecupcakecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_cane_cupcake_cottage"
     },
     {
         "title": "Candy Corn Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Candycorncastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_corn_castle"
     },
     {
         "title": "Candy Corn Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Candycorncottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_corn_cottage"
     },
     {
         "title": "Carrot Camper Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Carrotcampercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carrot_camper_cottage"
     },
     {
         "title": "Carrot Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Carrotcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carrot_cottage"
     },
     {
         "title": "Castle Playhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Castleplayhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "castle_playhouse"
     },
     {
         "title": "Cauliflower Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Cauliflowercottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cauliflower_cottage"
     },
     {
         "title": "Charmed Chamber Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Charmedchambercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charmed_chamber_cottage"
     },
     {
         "title": "Charming Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Charmingcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charming_cottage"
     },
     {
         "title": "Cheese Wedge Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Cheesewedgecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheese_wedge_cottage"
     },
     {
         "title": "Cherry Blossom Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Cherryblossomtreehouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cherry_blossom_treehouse"
     },
     {
         "title": "Cherry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Cherrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cherry_cottage"
     },
     {
         "title": "Chestnut Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Chestnutcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chestnut_cottage"
     },
     {
         "title": "Cheerful Candyland Blue Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Cheerfulcandylandbluehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_candyland_blue_home"
     },
     {
         "title": "Cheerful Candyland Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Cheerfulcandylandcastle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_candyland_castle"
     },
     {
         "title": "Cheerful Candyland Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Cheerfulcandylandhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_candyland_home"
     },
     {
         "title": "Chic Modern Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Chicmodernhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chic_modern_home"
     },
     {
         "title": "Citrus Tree Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Citrustreecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "citrus_tree_cottage"
     },
     {
         "title": "Classic Cookie Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Classiccookiecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "classic_cookie_cottage"
     },
     {
         "title": "Cloud Kingdom Palace",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Cloudkingdompalace.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cloud_kingdom_palace"
     },
     {
         "title": "Clover Hill Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Cloverhillhideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clover_hill_hideaway"
     },
     {
         "title": "Colorful Row House Blue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Colorfulrowhouseblue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_row_house_blue"
     },
     {
         "title": "Colorful Row House Green",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Colorfulrowhousegreen.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_row_house_green"
     },
     {
         "title": "Colorful Row House Red",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Colorfulrowhousered.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_row_house_red"
     },
     {
         "title": "Colorful Row House Yellow",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Colorfulrowhouseyellow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_row_house_yellow"
     },
     {
         "title": "Corncob Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Corncobcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "corncob_cottage"
     },
     {
         "title": "Cornucopia Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Cornucopiacottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cornucopia_cottage"
     },
     {
         "title": "Country Cafe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Countrycafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "country_cafe"
     },
     {
         "title": "Countryside Christmas Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Countrysidechristmascottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "countryside_christmas_cottage"
     },
     {
         "title": "Country Stone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Countrystonecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "country_stone_cottage"
     },
     {
         "title": "Cozy Canopy Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Cozycanopytent.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_canopy_tent"
     },
     {
         "title": "Cozy Crochet Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Cozycrochetcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_crochet_cottage"
     },
     {
         "title": "Cracked Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Crackedeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cracked_egg_cottage"
     },
     {
         "title": "Creepy Crawly Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Creepycrawlycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_crawly_cottage"
     },
     {
         "title": "Creepy Swamp Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Creepyswampcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_swamp_cottage"
     },
     {
         "title": "Cupcake Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Cupcakecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cupcake_cottage"
     },
     {
         "title": "Cursed Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Cursedcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cursed_cottage"
     },
     {
         "title": "Cute Gift Box Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Cutegiftboxcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_gift_box_cottage"
     },
     {
         "title": "Cute Kiwi Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Cutekiwicottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cute_kiwi_cottage"
     },
     {
         "title": "Daffodil Spring Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Daffodilspringcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daffodil_spring_cottage"
     },
     {
         "title": "Dark Forest Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Darkforestcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_forest_cottage"
     },
     {
         "title": "Desert Palace Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Desertpalacecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "desert_palace_cottage"
     },
     {
         "title": "Diving Helmet Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Divinghelmetcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "diving_helmet_cottage"
     },
     {
         "title": "Dragon Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Dragoneggcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dragon_egg_cottage"
     },
     {
         "title": "Dragonfruit Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Dragonfruitcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dragonfruit_cottage"
     },
     {
         "title": "Dragon Hero Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Dragonherocottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_hero_cottage"
     },
     {
         "title": "Eerie Woods Mansion",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Eeriewoodsmansion.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "eerie_woods_mansion"
     },
     {
         "title": "Eggcellent Spring Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Eggcellentspringcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eggcellent_spring_cottage"
     },
     {
         "title": "Eggstra-Special Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Eggstraspecialcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eggstra-special_cottage"
     },
     {
         "title": "Enchanted Earth Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Enchantedearthtower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_earth_tower"
     },
     {
         "title": "Enchanted Pumpkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Enchantedpumpkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_pumpkin_cottage"
     },
     {
         "title": "Enchanting Winter Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Enchantingwintertower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanting_winter_tower"
     },
     {
         "title": "Estate Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Estatehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "estate_home"
     },
     {
         "title": "Fairy Den Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Fairydentent.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_tent"
     },
     {
         "title": "Fairykinz Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Fairykinzcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairykinz_cottage"
     },
     {
         "title": "Fairytale Brick Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Fairytalebrickcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairytale_brick_cottage"
     },
     {
         "title": "Fairytale Straw Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Fairytalestrawcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairytale_straw_cottage"
     },
     {
         "title": "Fairytale Wood Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Fairytalewoodcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairytale_wood_cottage"
     },
     {
         "title": "Fairy Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Fairytreehouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fairy_treehouse"
     },
     {
         "title": "Fall Fairy Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Fallfairytreehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fairy_treehouse"
     },
     {
         "title": "Fall Floral Conservatory",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Fallfloralconservatory.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_floral_conservatory"
     },
     {
         "title": "Fall Floral Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Fallfloralcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_floral_cottage"
     },
     {
         "title": "Fall Floral Greenhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Fallfloralgreenhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_floral_greenhouse"
     },
     {
         "title": "Fall Garden Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Fallgardencottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_garden_cottage"
     },
     {
         "title": "Fall Harvest Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Fallharvestcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_harvest_cottage"
     },
     {
         "title": "Fall Ivy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Fallivycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_ivy_cottage"
     },
     {
         "title": "Fall Leaf Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Fallleaftreehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_leaf_treehouse"
     },
     {
         "title": "Fall Log Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Fallloghideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_log_hideaway"
     },
     {
         "title": "Fallout Shelter Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Falloutsheltercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fallout_shelter_cottage"
     },
     {
         "title": "Fall Time Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Falltimecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_time_cottage"
     },
     {
         "title": "Festive Starry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Festivestarrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "festive_starry_cottage"
     },
     {
         "title": "Football Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Footballcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "football_cottage"
     },
     {
         "title": "Forget Me Not Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Forgetmenotcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "forget_me_not_cottage"
     },
     {
         "title": "Friendly Frog Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Friendlyfrogcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_frog_cottage"
     },
     {
         "title": "Frozen Hollow",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Frozenhollow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frozen_hollow"
     },
     {
         "title": "Gerbera Daisy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Gerberadaisycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gerbera_daisy_cottage"
     },
     {
         "title": "Ghostly Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Ghostlycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ghostly_cottage"
     },
     {
         "title": "Gingerbread Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Gingerbreadcabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_cabin"
     },
     {
         "title": "Gingerbread Camper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Gingerbreadcamper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_camper"
     },
     {
         "title": "Gingerbread Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Gingerbreadcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_cottage"
     },
     {
         "title": "Glamping Luxury Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Glampingluxurytent.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glamping_luxury_tent"
     },
     {
         "title": "Glitter Pumpkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Glitterpumpkincottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glitter_pumpkin_cottage"
     },
     {
         "title": "Gold Glitter Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Goldglittercottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_glitter_cottage"
     },
     {
         "title": "Golden Ginkgo Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Goldenginkgocottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "golden_ginkgo_cottage"
     },
     {
         "title": "Granny's Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Grannyscottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "granny's_cottage"
     },
     {
         "title": "Grass Roof Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Grassroofcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grass_roof_cottage"
     },
     {
         "title": "Green Apple Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Greenapplecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_cottage"
     },
     {
         "title": "Green Elf Hat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Greenelfhatcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_elf_hat_cottage"
     },
     {
         "title": "Green Elf Stocking Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Greenelfstockingcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_elf_stocking_cottage"
     },
     {
         "title": "Green Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Greenmushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_cottage"
     },
     {
         "title": "Green Snowy Ornament Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Greensnowyornamentcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_snowy_ornament_cottage"
     },
     {
         "title": "Green Swamp Tree Hideout",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Greenswamptreehideout.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_swamp_tree_hideout"
     },
     {
         "title": "Halloween House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Halloweenhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "halloween_house"
     },
     {
         "title": "Harlequin Pumpkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Harlequinpumpkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harlequin_pumpkin_cottage"
     },
     {
         "title": "Harvest Hedgehog Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Harvesthedgehogcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harvest_hedgehog_cottage"
     },
     {
         "title": "Harvest Owl Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Harvestowlcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harvest_owl_cottage"
     },
     {
         "title": "Haunted Doghouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Haunteddoghouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_doghouse"
     },
     {
         "title": "Haunted Patio Shed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Hauntedpatioshed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "haunted_patio_shed"
     },
     {
         "title": "Haunted Pool House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Hauntedpoolhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "haunted_pool_house"
     },
     {
         "title": "Haunted Tree Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Hauntedtreecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "haunted_tree_cottage"
     },
     {
         "title": "Haunted Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Hauntedtreehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_treehouse"
     },
     {
         "title": "Heart Gift Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Heartgiftcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "heart_gift_cottage"
     },
     {
         "title": "Holiday Candy Apple House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Holidaycandyapplehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_candy_apple_house"
     },
     {
         "title": "Holiday Flower House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Holidayflowerhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_flower_house"
     },
     {
         "title": "Holiday Garden Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Holidaygardencottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_garden_cottage"
     },
     {
         "title": "Holiday Presents House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Holidaypresentshouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_presents_house"
     },
     {
         "title": "Holiday Pudding Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Holidaypuddingcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_pudding_cottage"
     },
     {
         "title": "Holiday Teapot Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Holidayteapotcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_teapot_cottage"
     },
     {
         "title": "Holiday Wishes Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Holidaywishestent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_wishes_tent"
     },
     {
         "title": "Hyacinth Flower House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Hyacinthflowerhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hyacinth_flower_house"
     },
     {
         "title": "Ice Cream Sundae Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Icecreamsundaecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_cream_sundae_cottage"
     },
     {
         "title": "Ice Crystal Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Icecrystalcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_crystal_cottage"
     },
     {
         "title": "Icy Candle Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Icycandlecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "icy_candle_cottage"
     },
     {
         "title": "Icy North Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Icynorthtent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icy_north_tent"
     },
     {
         "title": "Icy Ornament Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Icyornamentcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icy_ornament_cottage"
     },
     {
         "title": "Jack O'Lantern Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Jackolanterncottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jack_o'lantern_cottage"
     },
     {
         "title": "Jumbleberry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Jumbleberrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jumbleberry_cottage"
     },
     {
         "title": "Jungle Flower Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Jungleflowercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jungle_flower_cottage"
     },
     {
         "title": "Koala Cuddles Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Koalacuddlescottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "koala_cuddles_cottage"
     },
     {
         "title": "Lakeside Boathouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Lakesideboathouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_boathouse"
     },
     {
         "title": "Lakeside Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Lakesidecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lakeside_cottage"
     },
     {
         "title": "Lakeside Houseboat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Lakesidehouseboatcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_houseboat_cottage"
     },
     {
         "title": "Lakeside Rocky Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Lakesiderockycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_rocky_cottage"
     },
     {
         "title": "Lakeside Rustic Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Lakesiderusticcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_rustic_cottage"
     },
     {
         "title": "Lakeside Stilts Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Lakesidestiltscottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_stilts_cottage"
     },
     {
         "title": "Lavender Farm Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Lavenderfarmbarn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_farm_barn"
     },
     {
         "title": "Lazy Daisy Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Lazydaisybarn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lazy_daisy_barn"
     },
     {
         "title": "Lemon Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Lemoncottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lemon_cottage"
     },
     {
         "title": "Leprechaun Boot Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Leprechaunbootcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "leprechaun_boot_cottage"
     },
     {
         "title": "Leprechaun's Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Leprechaunscottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "leprechaun's_cottage"
     },
     {
         "title": "Lilac Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Lilaccottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lilac_cottage"
     },
     {
         "title": "Log Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Logcabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "log_cabin"
     },
     {
         "title": "Log Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/2022logcabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "log_cabin"
     },
     {
         "title": "Log Cabin Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Logcabinhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "log_cabin_home"
     },
     {
         "title": "Love Bear Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Lovebearcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "love_bear_cottage"
     },
     {
         "title": "Love Letter Post Office",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Loveletterpostoffice.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "love_letter_post_office"
     },
     {
         "title": "Lovely Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Lovelycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_cottage"
     },
     {
         "title": "Lovely Lavender Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Lovelylavendercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_lavender_cottage"
     },
     {
         "title": "Lovely Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Lovelytent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_tent"
     },
     {
         "title": "Lucky Candy House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Luckycandyhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_candy_house"
     },
     {
         "title": "Lucky Clover Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Luckyclovercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_clover_cottage"
     },
     {
         "title": "Magical Munchkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Magicalmunchkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magical_munchkin_cottage"
     },
     {
         "title": "Magic Meadow Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Magicmeadowcastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magic_meadow_castle"
     },
     {
         "title": "Magic W Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Magicwcastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magic_w_castle"
     },
     {
         "title": "Mango Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Mangocottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mango_cottage"
     },
     {
         "title": "Marigold Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Marigoldcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "marigold_cottage"
     },
     {
         "title": "Merry Mistletoe Tree House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Merrymistletoetreehouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "merry_mistletoe_tree_house"
     },
     {
         "title": "Midnight Munchkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Midnightmunchkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "midnight_munchkin_cottage"
     },
     {
         "title": "Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "milk_chocolate_cottage"
     },
     {
         "title": "Mischievous Munchkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Mischievousmunchkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mischievous_munchkin_cottage"
     },
     {
         "title": "Moonberry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Moonberrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonberry_cottage"
     },
     {
         "title": "Moonlight Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Moonlightcastle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "moonlight_castle"
     },
     {
         "title": "Morning Glory Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Morningglorycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "morning_glory_cottage"
     },
     {
         "title": "Mug of Love Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Mugoflovecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mug_of_love_cottage"
     },
     {
         "title": "Mushroom Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Mushroomhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mushroom_home"
     },
     {
         "title": "Mystical Purple Hollow",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Mysticalpurplehollow.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mystical_purple_hollow"
     },
     {
         "title": "Noble Elven Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Nobleelvencastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "noble_elven_castle"
     },
     {
         "title": "Northern Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Northerncottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "northern_cottage"
     },
     {
         "title": "Nutcracker Snow Globe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Nutcrackersnowglobe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nutcracker_snow_globe"
     },
     {
         "title": "Orange Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Orangemushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_cottage"
     },
     {
         "title": "Orange Swamp Tree Hideout",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Orangeswamptreehideout.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_swamp_tree_hideout"
     },
     {
         "title": "Ornament Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Ornamentcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ornament_cottage"
     },
     {
         "title": "Painted Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Paintedeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_egg_cottage"
     },
     {
         "title": "Painted Peacock Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Paintedpeacockcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_peacock_cottage"
     },
     {
         "title": "Painted Poinsettia Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Paintedpoinsettiacottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_poinsettia_cottage"
     },
     {
         "title": "Palm Tree Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Palmtreecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "palm_tree_cottage"
     },
     {
         "title": "Patchwork Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Patchworkcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "patchwork_cottage"
     },
     {
         "title": "Patchwork Holiday Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Patchworkholidaycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "patchwork_holiday_cottage"
     },
     {
         "title": "Peppermint Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Peppermintcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peppermint_cottage"
     },
     {
         "title": "Pet Buddy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Petbuddycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pet_buddy_cottage"
     },
     {
         "title": "Pickleberry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Pickleberrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pickleberry_cottage"
     },
     {
         "title": "Pineapple Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Pineapplecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pineapple_cottage"
     },
     {
         "title": "Pine Cone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Pineconecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pine_cone_cottage"
     },
     {
         "title": "Pine Forest Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Pineforestcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pine_forest_cottage"
     },
     {
         "title": "Pink Modern House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Pinkmodernhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_modern_house"
     },
     {
         "title": "Pink Spring Carousel Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Pinkspringcarouselcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_spring_carousel_cottage"
     },
     {
         "title": "Pink Spring Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Pinkspringeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_spring_egg_cottage"
     },
     {
         "title": "Pink Tulip Petal Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Pinktulippetalcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_tulip_petal_cottage"
     },
     {
         "title": "Poinsettia Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Poinsettiacottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poinsettia_cottage"
     },
     {
         "title": "Pointy Hat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Pointyhatcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pointy_hat_cottage"
     },
     {
         "title": "Polka Dot Pumpkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Polkadotpumpkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polka_dot_pumpkin_cottage"
     },
     {
         "title": "Pop-up Christmas Tree Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Popupchristmastreetent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pop-up_christmas_tree_tent"
     },
     {
         "title": "Pretty Flower Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Prettyflowercastle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_flower_castle"
     },
     {
         "title": "Pretty Pastel Egg Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Prettypastelegghome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pastel_egg_home"
     },
     {
         "title": "Pretty Purse Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Prettypursecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_purse_cottage"
     },
     {
         "title": "Puppy Playhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Puppyplayhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "puppy_playhouse"
     },
     {
         "title": "Purple Blossom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Purpleblossomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_blossom_cottage"
     },
     {
         "title": "Purple Fairy Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Purplefairytreehouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_fairy_treehouse"
     },
     {
         "title": "Purple Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Purplemushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_cottage"
     },
     {
         "title": "Purple Spring Carousel Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Purplespringcarouselcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_spring_carousel_cottage"
     },
     {
         "title": "Purple Spring Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Purplespringeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_spring_egg_cottage"
     },
     {
         "title": "Purple Stone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Purplestonecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_stone_cottage"
     },
     {
         "title": "Purple Swamp Tree Hideout",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Purpleswamptreehideout.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_swamp_tree_hideout"
     },
     {
         "title": "Purple Tulip Petal Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Purpletulippetalcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_tulip_petal_cottage"
     },
     {
         "title": "Purse Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Pursecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purse_cottage"
     },
     {
         "title": "Pyramid Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Pyramidcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pyramid_cottage"
     },
     {
         "title": "Quilted Bird House Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Quiltedbirdhousecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quilted_bird_house_cottage"
     },
     {
         "title": "Quirky Cauldron Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Quirkycauldroncottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quirky_cauldron_cottage"
     },
     {
         "title": "Radish Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Radishcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "radish_cottage"
     },
     {
         "title": "Rainbow Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Rainbowcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_cottage"
     },
     {
         "title": "Rainbow Cupcake Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Rainbowcupcakecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_cupcake_cottage"
     },
     {
         "title": "Rainbow Toadstool Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Rainbowtoadstoolcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_toadstool_cottage"
     },
     {
         "title": "Ranch House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Ranchhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ranch_house"
     },
     {
         "title": "Red Apple Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Redapplecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_apple_cottage"
     },
     {
         "title": "Red Candle Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Redcandlecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_candle_cottage"
     },
     {
         "title": "Red Elf Hat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Redelfhatcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_elf_hat_cottage"
     },
     {
         "title": "Red Elf Stocking Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Redelfstockingcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_elf_stocking_cottage"
     },
     {
         "title": "Red Painted Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Redpaintedeggcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_painted_egg_cottage"
     },
     {
         "title": "Red Rose Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Redrosecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_rose_cottage"
     },
     {
         "title": "Red Sparkle Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Redsparklecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_sparkle_cottage"
     },
     {
         "title": "Reindeer Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Reindeercottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "reindeer_cottage"
     },
     {
         "title": "Rickety Haunted Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Ricketyhauntedcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rickety_haunted_cottage"
     },
     {
         "title": "Rosie Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Rosiecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rosie_cottage"
     },
     {
         "title": "Rosy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Rosycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rosy_cottage"
     },
     {
         "title": "Russet Ranch Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Russetranchcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "russet_ranch_cottage"
     },
     {
         "title": "Rustic Teapot Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Rusticteapotcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rustic_teapot_cottage"
     },
     {
         "title": "SantaKinz Hat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Santakinzhatcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_hat_cottage"
     },
     {
         "title": "SantaKinz Helper Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Santakinzhelpercottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_helper_cottage"
     },
     {
         "title": "Santakinz Helper Workshop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Santakinzhelperworkshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_helper_workshop"
     },
     {
         "title": "SantaKinz Village Workshop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Santakinzvillageworkshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_village_workshop"
     },
     {
         "title": "Scarecrow Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Scarecrowcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scarecrow_cottage"
     },
     {
         "title": "Seashell Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Seashellcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seashell_cottage"
     },
     {
         "title": "Seaside Lighthouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Seasidelighthouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "seaside_lighthouse"
     },
     {
         "title": "Seaside Mansion",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Seasidemansion.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "seaside_mansion"
     },
     {
         "title": "Secluded Garden Shed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Secludedgardenshed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "secluded_garden_shed"
     },
     {
         "title": "Serenity Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Serenitycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "serenity_cottage"
     },
     {
         "title": "Silly Scarecrow Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Sillyscarecrowcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "silly_scarecrow_cottage"
     },
     {
         "title": "Sky Berry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Skyberrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sky_berry_cottage"
     },
     {
         "title": "Sky Berry Greenhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Skyberrygreenhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sky_berry_greenhouse"
     },
     {
         "title": "Smitten Kitten Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Smittenkittencottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "smitten_kitten_cottage"
     },
     {
         "title": "Snail Shell Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Snailshellcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snail_shell_cottage"
     },
     {
         "title": "Snow Pile Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Snowpilecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snow_pile_cottage"
     },
     {
         "title": "Snowman Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Snowmancottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snowman_cottage"
     },
     {
         "title": "Snowy Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Snowycabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowy_cabin"
     },
     {
         "title": "Snowy Tree Log Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Snowytreeloghideaway.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snowy_tree_log_hideaway"
     },
     {
         "title": "Soccer Ball Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Soccerballcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soccer_ball_cottage"
     },
     {
         "title": "Southwestern Camper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Southwesterncamper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "southwestern_camper"
     },
     {
         "title": "Spearmint Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Spearmintcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spearmint_cottage"
     },
     {
         "title": "Spooky School Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Spookyschooltower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_school_tower"
     },
     {
         "title": "Spring Basket Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Springbasketcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_basket_cottage"
     },
     {
         "title": "Spring Candy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Springcandycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_candy_cottage"
     },
     {
         "title": "Spring Egg Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Springeggcastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_egg_castle"
     },
     {
         "title": "Spring Flower House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Springflowerhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_flower_house"
     },
     {
         "title": "Spring Garden Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Springgardencottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_garden_cottage"
     },
     {
         "title": "Spring Patio Sauna",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Springpatiosauna.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_patio_sauna"
     },
     {
         "title": "Springtime Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Springtimecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "springtime_cottage"
     },
     {
         "title": "Steamy Sauna Bubble",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Steamysaunabubble.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "steamy_sauna_bubble"
     },
     {
         "title": "Stone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Stonecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stone_cottage"
     },
     {
         "title": "Strawberry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Strawberrycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "strawberry_cottage"
     },
     {
         "title": "Streetcar Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Streetcarcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "streetcar_cottage"
     },
     {
         "title": "Striped Painted Egg Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Stripedpaintedeggcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "striped_painted_egg_cottage"
     },
     {
         "title": "Striped Pumpkin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Stripedpumpkincottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "striped_pumpkin_cottage"
     },
     {
         "title": "Sugarberry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Sugarberrycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugarberry_cottage"
     },
     {
         "title": "Summer Berry Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Summerberrycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_berry_cottage"
     },
     {
         "title": "Summer Camper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Summercamper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_camper"
     },
     {
         "title": "Summer Cedar Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Summercedarcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_cedar_cottage"
     },
     {
         "title": "Sunflower Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Sunflowercottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunflower_cottage"
     },
     {
         "title": "Sweet Biscuit House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Sweetbiscuithouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweet_biscuit_house"
     },
     {
         "title": "Sweet Breeze Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Sweetbreezecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_breeze_cottage"
     },
     {
         "title": "Sweetheart Camper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Sweetheartcamper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweetheart_camper"
     },
     {
         "title": "Sweetheart Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Sweetheartcastle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_castle"
     },
     {
         "title": "Teapot Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Teapotcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "teapot_cottage"
     },
     {
         "title": "Tiger Lily Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Tigerlilycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiger_lily_cottage"
     },
     {
         "title": "Tiki Hut Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Tikihutcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiki_hut_cottage"
     },
     {
         "title": "Toadstool Hollow Short Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Toadstoolhollowshortcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_short_cottage"
     },
     {
         "title": "Toadstool Hollow Tall Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Toadstoolhollowtallcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_tall_cottage"
     },
     {
         "title": "Toasty Warm Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Toastywarmcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toasty_warm_cottage"
     },
     {
         "title": "Tomato Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Tomatocottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tomato_cottage"
     },
     {
         "title": "Tranquility Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Tranquilitycottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tranquility_cottage"
     },
     {
         "title": "Tranquil Teal Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Tranquiltealcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tranquil_teal_cottage"
     },
     {
         "title": "Treehouse Hangout Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Treehousehangoutcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "treehouse_hangout_cottage"
     },
     {
         "title": "Tree Log Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Treeloghideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tree_log_hideaway"
     },
     {
         "title": "Tree Stump Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Treestumpcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tree_stump_cottage"
     },
     {
         "title": "Tree Top Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Treetopcabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tree_top_cabin"
     },
     {
         "title": "Trendsetter Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Trendsettercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "trendsetter_cottage"
     },
     {
         "title": "Tulip Flower House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Tulipflowerhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tulip_flower_house"
     },
     {
         "title": "Turtle Shell Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Turtleshellcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "turtle_shell_cottage"
     },
     {
         "title": "Underwater Ruins Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Underwaterruinscastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "underwater_ruins_castle"
     },
     {
         "title": "Valentine Cupcake Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Valentinecupcakecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_cupcake_cottage"
     },
     {
         "title": "Violet Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Violetcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "violet_cottage"
     },
     {
         "title": "Waffle Cone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Waffleconecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waffle_cone_cottage"
     },
     {
         "title": "Weathered Stone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Weatheredstonecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_stone_cottage"
     },
     {
         "title": "Weather Station Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Weatherstationwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "weather_station_windmill"
     },
     {
         "title": "Whimsical House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Whimsicalhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "whimsical_house"
     },
     {
         "title": "White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_chocolate_cottage"
     },
     {
         "title": "White Hibiscus Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Whitehibiscuscottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "white_hibiscus_cottage"
     },
     {
         "title": "Wildflower Witch Caravan",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Wildflowerwitchcaravan.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wildflower_witch_caravan"
     },
     {
         "title": "Winter Cabin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Wintercabin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_cabin"
     },
     {
         "title": "Winter Cabin Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Wintercabincottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_cabin_cottage"
     },
     {
         "title": "Winter Carnival Trailer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Wintercarnivaltrailer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_carnival_trailer"
     },
     {
         "title": "Winter Evergreen Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Winterevergreencottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_evergreen_cottage"
     },
     {
         "title": "Winter Hedgehog Hat Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Winterhedgehoghattent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_hedgehog_hat_tent"
     },
     {
         "title": "Winter Patio Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Winterpatiocottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_patio_cottage"
     },
     {
         "title": "Winter Tortoise Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Wintertortoisecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_tortoise_cottage"
     },
     {
         "title": "Winter Wishes Ice Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Winterwishesicecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wishes_ice_cottage"
     },
     {
         "title": "Wintery Ornament Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Winteryornamentcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wintery_ornament_cottage"
     },
     {
         "title": "Witch Hat Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Witchhatcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "witch_hat_cottage"
     },
     {
         "title": "Witchy Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Witchyhome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "witchy_home"
     },
     {
         "title": "Witchy Whimsy Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Witchywhimsycottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "witchy_whimsy_cottage"
     },
     {
         "title": "Wizard Castle Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Wizardcastlecottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wizard_castle_cottage"
     },
     {
         "title": "Year of the Dog House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Yearofthedoghouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "year_of_the_dog_house"
     },
     {
         "title": "Yellow Fairykinz Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Yellowfairykinzcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_fairykinz_cottage"
     },
     {
         "title": "Yellow Spring Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Yellowspringcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_spring_cottage"
     }
 ]

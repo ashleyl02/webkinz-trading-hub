@@ -2,1031 +2,1237 @@
     {
         "title": "Ant Mania Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Antmaniatrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ant_mania_trophy"
     },
     {
         "title": "Atlantiles Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Atlantilestrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "atlantiles_trophy"
     },
     {
         "title": "Bamboo Break Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Bamboobreaktrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bamboo_break_trophy"
     },
     {
         "title": "Bananza Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Bananzatrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bananza_trophy"
     },
     {
         "title": "Banner Blitz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Bannerblitztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "banner_blitz_trophy"
     },
     {
         "title": "Banners Abound Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Bannersaboundtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "banners_abound_trophy"
     },
     {
         "title": "Booger Gets an A Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Boogergetsanatrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "booger_gets_an_a_trophy"
     },
     {
         "title": "Bounce 'N Burst Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Bouncenbursttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bounce_'n_burst_trophy"
     },
     {
         "title": "Bowling Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Bowlingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bowling_trophy"
     },
     {
         "title": "Bronze Amateur Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Bronzeamateurcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_amateur_competition_trophy"
     },
     {
         "title": "Bronze Beauty Pageant Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Bronzebeautypageanttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_beauty_pageant_trophy"
     },
     {
         "title": "Bronze Cooking Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Bronzecookingcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_cooking_competition_trophy"
     },
     {
         "title": "Bronze Deluxe Beauty Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Bronzedeluxebeautytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_deluxe_beauty_trophy"
     },
     {
         "title": "Bronze Deluxe Cooking Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Bronzedeluxecookingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_deluxe_cooking_trophy"
     },
     {
         "title": "Bronze Deluxe Running Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Bronzedeluxerunningtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_deluxe_running_trophy"
     },
     {
         "title": "Bronze Polar Plunge Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Bronzepolarplungetrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bronze_polar_plunge_trophy"
     },
     {
         "title": "Bronze Running Race Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Bronzerunningracetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bronze_running_race_trophy"
     },
     {
         "title": "Candy Bash 2 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Candybash2trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_bash_2_trophy"
     },
     {
         "title": "Candy Bash Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Candybashtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_bash_trophy"
     },
     {
         "title": "Cash Cow 2 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Cashcow2trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cash_cow_2_trophy"
     },
     {
         "title": "Cash Cow Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Cashcowtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cash_cow_trophy"
     },
     {
         "title": "Checkers Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Checkerstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "checkers_trophy"
     },
     {
         "title": "Chocolate Wacky Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Chocolatewackytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_wacky_trophy"
     },
     {
         "title": "Clothing Design Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Clothingdesigntrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "clothing_design_trophy"
     },
     {
         "title": "Clubhouse Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Clubhousetrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "clubhouse_trophy"
     },
     {
         "title": "Color Storm Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Colorstormtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "color_storm_trophy"
     },
     {
         "title": "Crafty Critterz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Craftycritterztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crafty_critterz_trophy"
     },
     {
         "title": "Dashing Dolphin Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Dashingdolphintrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dashing_dolphin_trophy"
     },
     {
         "title": "Dead End Dangers Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Deadenddangerstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dead_end_dangers_trophy"
     },
     {
         "title": "Dex Dangerous Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Dexdangeroustrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dex_dangerous_trophy"
     },
     {
         "title": "Dicekinz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Dicekinztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dicekinz_trophy"
     },
     {
         "title": "Dogbeard's Bathtub Battles Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Dogbeardsbathtubbattlestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dogbeard's_bathtub_battles_trophy"
     },
     {
         "title": "Eager Beaver Adventure Park Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Eagerbeaveradventureparktrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eager_beaver_adventure_park_trophy"
     },
     {
         "title": "Fantastic First Flags Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Fantasticfirstflagstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fantastic_first_flags_trophy"
     },
     {
         "title": "First Webkinz Day Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Firstwebkinzdaytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "first_webkinz_day_trophy"
     },
     {
         "title": "Fishing Derby Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Fishingderbytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fishing_derby_trophy"
     },
     {
         "title": "Flag Finder Fury Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Flagfinderfurytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flag_finder_fury_trophy"
     },
     {
         "title": "Flag Fortune Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Flagfortunetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flag_fortune_trophy"
     },
     {
         "title": "Flag Order Forage Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Flagorderforagetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flag_order_forage_trophy"
     },
     {
         "title": "Floor Flag Follies Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Floorflagfolliestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floor_flag_follies_trophy"
     },
     {
         "title": "Flutterbugged Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Flutterbuggedtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flutterbugged_trophy"
     },
     {
         "title": "Friends of the Earth Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Friendsoftheearthtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friends_of_the_earth_trophy"
     },
     {
         "title": "Frosty Finish Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Frostyfinishtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frosty_finish_trophy"
     },
     {
         "title": "Galloping Garden Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Gallopinggardentrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "galloping_garden_trophy"
     },
     {
         "title": "Get Eleven Solitaire Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Getelevensolitairetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "get_eleven_solitaire_trophy"
     },
     {
         "title": "Go-Go Googles Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Gogogooglestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "go-go_googles_trophy"
     },
     {
         "title": "Gold Amateur Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Goldamateurcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_amateur_competition_trophy"
     },
     {
         "title": "Gold Beauty Pageant Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Goldbeautypageanttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_beauty_pageant_trophy"
     },
     {
         "title": "Gold Card Collector Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Goldcardcollectortrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_card_collector_trophy"
     },
     {
         "title": "Gold Cooking Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Goldcookingcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_cooking_competition_trophy"
     },
     {
         "title": "Gold Deluxe Beauty Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Golddeluxebeautytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_deluxe_beauty_competition_trophy"
     },
     {
         "title": "Gold Deluxe Cooking Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Golddeluxecookingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_deluxe_cooking_trophy"
     },
     {
         "title": "Gold Deluxe Running Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Golddeluxerunningtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_deluxe_running_trophy"
     },
     {
         "title": "Golden Tennis Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Goldentennistrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_tennis_trophy"
     },
     {
         "title": "Golden Trumpet Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Goldentrumpettrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_trumpet_trophy"
     },
     {
         "title": "Gold Polar Plunge Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Goldpolarplungetrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gold_polar_plunge_trophy"
     },
     {
         "title": "Gold Running Race Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Goldrunningracetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_running_race_trophy"
     },
     {
         "title": "Gold Zingoz Pop Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Goldzingozpoptrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_zingoz_pop_trophy"
     },
     {
         "title": "Goober's Atomic Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Goobersatomiclabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_atomic_lab_trophy"
     },
     {
         "title": "Goober's Classroom Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Goobersclassroomlabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_classroom_lab_trophy"
     },
     {
         "title": "Goober's Company Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Gooberscompanylabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_company_lab_trophy"
     },
     {
         "title": "Goober's Home Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Goobershomelabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_home_lab_trophy"
     },
     {
         "title": "Goober's Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Gooberslabtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goober's_lab_trophy"
     },
     {
         "title": "Goober's Secret Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Gooberssecretlabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_secret_lab_trophy"
     },
     {
         "title": "Goober's University Lab Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Goobersuniversitylabtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goober's_university_lab_trophy"
     },
     {
         "title": "Goody Gumdrops Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Goodygumdropstrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goody_gumdrops_trophy"
     },
     {
         "title": "Grand Grotto Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Grandgrottotrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grand_grotto_trophy"
     },
     {
         "title": "Halloween Hunt Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Halloweenhunttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_hunt_trophy"
     },
     {
         "title": "Hatch the Dragon Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Hatchthedragontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hatch_the_dragon_trophy"
     },
     {
         "title": "Hedge Maze Mania Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Hedgemazemaniatrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hedge_maze_mania_trophy"
     },
     {
         "title": "Holiday Hustle Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Holidayhustletrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_hustle_trophy"
     },
     {
         "title": "Home Before Dark Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Homebeforedarktrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "home_before_dark_trophy"
     },
     {
         "title": "Hoppy Little Rocketship Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Hoppylittlerocketshiptrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hoppy_little_rocketship_trophy"
     },
     {
         "title": "Hungry Hog Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Hungryhogtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hungry_hog_trophy"
     },
     {
         "title": "Inventing Trophy 1st Place",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Inventingtrophy1stplace.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "inventing_trophy_1st_place"
     },
     {
         "title": "Inventing Trophy 2nd Place",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Inventingtrophy2ndplace.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "inventing_trophy_2nd_place"
     },
     {
         "title": "Inventing Trophy 3rd Place",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Inventingtrophy3rdplace.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "inventing_trophy_3rd_place"
     },
     {
         "title": "Item Design Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Itemdesigntrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "item_design_trophy"
     },
     {
         "title": "Jazz Monsters Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Jazzmonsterstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jazz_monsters_trophy"
     },
     {
         "title": "Jewel Jaunt Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Jeweljaunttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jewel_jaunt_trophy"
     },
     {
         "title": "Jumbleberry Blast Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Jumbleberryblasttrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jumbleberry_blast_trophy"
     },
     {
         "title": "Jumbleberry Fields Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Jumbleberryfieldstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jumbleberry_fields_trophy"
     },
     {
         "title": "Kinzville Academy Air Hockey Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Kinzvilleacademyairhockeytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_air_hockey_trophy"
     },
     {
         "title": "Kinzville Academy Bowling Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Kinzvilleacademybowlingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_bowling_trophy"
     },
     {
         "title": "Kinzville Academy Checkers Club Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Kinzvilleacademycheckersclubtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_checkers_club_trophy"
     },
     {
         "title": "Kinzville Academy Pool Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Kinzvilleacademypooltrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_pool_trophy"
     },
     {
         "title": "Kinzville Academy Skiing Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Kinzvilleacademyskiingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_skiing_trophy"
     },
     {
         "title": "Kinzville Academy Snowboard Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Kinzvilleacademysnowboardtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_snowboard_trophy"
     },
     {
         "title": "Kinzville Academy Spelling Bee Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Kinzvilleacademyspellingbeetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_spelling_bee_trophy"
     },
     {
         "title": "Kinzville Baseball Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Kinzvillebaseballtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_baseball_trophy"
     },
     {
         "title": "Kinzville Science Fair Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Kinzvillesciencefairtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_science_fair_trophy"
     },
     {
         "title": "Large Gem Finder Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Largegemfindertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "large_gem_finder_trophy"
     },
     {
         "title": "League of Champions Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Leagueofchampionstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "league_of_champions_trophy"
     },
     {
         "title": "Leap of Faith Flags Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Leapoffaithflagstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leap_of_faith_flags_trophy"
     },
     {
         "title": "Lilypadz 2 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Lilypadz2trophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lilypadz_2_trophy"
     },
     {
         "title": "Lilypadz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Lilypadztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lilypadz_trophy"
     },
     {
         "title": "Link'D Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Linkdtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "link'd_trophy"
     },
     {
         "title": "Looping Laps Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Loopinglapstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "looping_laps_trophy"
     },
     {
         "title": "Lunch Letters Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Lunchletterstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lunch_letters_trophy"
     },
     {
         "title": "Master Blaster 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Masterblaster600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "master_blaster_600_trophy"
     },
     {
         "title": "Master Chef Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Mastercheftrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "master_chef_trophy"
     },
     {
         "title": "Medium Gem Finder Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Mediumgemfindertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medium_gem_finder_trophy"
     },
     {
         "title": "Member of the Day Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Memberofthedaytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "member_of_the_day_trophy"
     },
     {
         "title": "Mermonkey Artifact Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Mermonkeyartifacttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermonkey_artifact_trophy"
     },
     {
         "title": "Ms.Cowoline's Roll Call Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Mscowolinesrollcalltrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ms.cowoline's_roll_call_trophy"
     },
     {
         "title": "MVP Trophy Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Mvptrophyhat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mvp_trophy_hat"
     },
     {
         "title": "Operation Gumball Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Operationgumballtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "operation_gumball_trophy"
     },
     {
         "title": "Pennant Plunge Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Pennantplungetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pennant_plunge_trophy"
     },
     {
         "title": "Petal Pursuit Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Petalpursuittrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "petal_pursuit_trophy"
     },
     {
         "title": "Pet Design Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Petdesigntrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pet_design_trophy"
     },
     {
         "title": "Pet Party Parade Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Petpartyparadetrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pet_party_parade_trophy"
     },
     {
         "title": "Picnic Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Picnictrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "picnic_trophy"
     },
     {
         "title": "Pinkys Big Adventure Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Pinkysbigadventuretrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pinkys_big_adventure_trophy"
     },
     {
         "title": "Pizza Palace Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Pizzapalacetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pizza_palace_trophy"
     },
     {
         "title": "Polarberry Jam Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Polarberryjamtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "polarberry_jam_trophy"
     },
     {
         "title": "Polar Plunge Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Polarplungetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polar_plunge_trophy"
     },
     {
         "title": "Pumpkin Patch Protector Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Pumpkinpatchprotectortrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pumpkin_patch_protector_trophy"
     },
     {
         "title": "Quizzy's Trophy Piece",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Quizzystrophypiece.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quizzy's_trophy_piece"
     },
     {
         "title": "Ripe Roundup Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Riperounduptrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ripe_roundup_trophy"
     },
     {
         "title": "Rockerz Backstage Run Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Rockerzbackstageruntrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rockerz_backstage_run_trophy"
     },
     {
         "title": "Room Design Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Roomdesigntrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "room_design_trophy"
     },
     {
         "title": "Room Design Trophy 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Roomdesigntrophy2.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "room_design_trophy_2"
     },
     {
         "title": "Room Rummage Flags Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Roomrummageflagstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "room_rummage_flags_trophy"
     },
     {
         "title": "Scrambled Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Scrambledtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "scrambled_trophy"
     },
     {
         "title": "Second Webkinz Day Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Secondwebkinzdaytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "second_webkinz_day_trophy"
     },
     {
         "title": "Secret Chef Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Secretcheftrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secret_chef_trophy"
     },
     {
         "title": "Series 2 Collector Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Series2collectortrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "series_2_collector_trophy"
     },
     {
         "title": "Shrewd Searchers Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Shrewdsearcherstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shrewd_searchers_trophy"
     },
     {
         "title": "Silver Amateur Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Silveramateurcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_amateur_competition_trophy"
     },
     {
         "title": "Silver Beauty Pageant Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Silverbeautypageanttrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_beauty_pageant_trophy"
     },
     {
         "title": "Silver Cooking Competition Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Silvercookingcompetitiontrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_cooking_competition_trophy"
     },
     {
         "title": "Silver Deluxe Beauty Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Silverdeluxebeautytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_deluxe_beauty_trophy"
     },
     {
         "title": "Silver Deluxe Cooking Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Silverdeluxecookingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_deluxe_cooking_trophy"
     },
     {
         "title": "Silver Deluxe Running Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Silverdeluxerunningtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_deluxe_running_trophy"
     },
     {
         "title": "Silver Microphone Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Silvermicrophonetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_microphone_trophy"
     },
     {
         "title": "Silver Polar Plunge Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Silverpolarplungetrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "silver_polar_plunge_trophy"
     },
     {
         "title": "Silver Running Race Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Silverrunningracetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_running_race_trophy"
     },
     {
         "title": "Silver Zingoz Pop Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Silverzingozpoptrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_zingoz_pop_trophy"
     },
     {
         "title": "Small Gem Finder Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Smallgemfindertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "small_gem_finder_trophy"
     },
     {
         "title": "Smoothie Moves Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Smoothiemovestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "smoothie_moves_trophy"
     },
     {
         "title": "Social Media Superstar Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Socialmediasuperstartrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "social_media_superstar_trophy"
     },
     {
         "title": "Speedy Scurry Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Speedyscurrytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "speedy_scurry_trophy"
     },
     {
         "title": "Speedy Slalom Slopes Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Speedyslalomslopestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "speedy_slalom_slopes_trophy"
     },
     {
         "title": "Spree Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Spreetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spree_trophy"
     },
     {
         "title": "Stack 'em Up Solitaire Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Stackemupsolitairetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stack_'em_up_solitaire_trophy"
     },
     {
         "title": "Stardrops Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Stardropstrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stardrops_trophy"
     },
     {
         "title": "Starting Speedways Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Startingspeedwaystrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starting_speedways_trophy"
     },
     {
         "title": "Streaky Standards Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Streakystandardstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "streaky_standards_trophy"
     },
     {
         "title": "Supermodelz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Supermodelztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "supermodelz_trophy"
     },
     {
         "title": "Super Slugger 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Superslugger600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_slugger_600_trophy"
     },
     {
         "title": "Tile Towers Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Tiletowerstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tile_towers_trophy"
     },
     {
         "title": "Token Collector Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Tokencollectortrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "token_collector_trophy"
     },
     {
         "title": "Top Story Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Topstorytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "top_story_trophy"
     },
     {
         "title": "Tour de Flags Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Tourdeflagstrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tour_de_flags_trophy"
     },
     {
         "title": "Treasures of the Crystal Sea Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Treasuresofthecrystalseatrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "treasures_of_the_crystal_sea_trophy"
     },
     {
         "title": "Tricky Treasure Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Trickytreasuretrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tricky_treasure_trophy"
     },
     {
         "title": "Triple Strike Solitaire Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Triplestrikesolitairetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "triple_strike_solitaire_trophy"
     },
     {
         "title": "Tropical Troubles Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Tropicaltroublestrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_troubles_trophy"
     },
     {
         "title": "Tulip Trouble Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Tuliptroubletrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tulip_trouble_trophy"
     },
     {
         "title": "Tunneling Twigzy Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Tunnelingtwigzytrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tunneling_twigzy_trophy"
     },
     {
         "title": "Vexed Veggies Search Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Vexedveggiessearchtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vexed_veggies_search_trophy"
     },
     {
         "title": "WackyER Zingoz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Wackyerzingoztrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wackyer_zingoz_trophy"
     },
     {
         "title": "Wacky Club 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Wackyclub600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_club_600_trophy"
     },
     {
         "title": "Wacky's Bullseye Batter Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Wackysbullseyebattertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky's_bullseye_batter_trophy"
     },
     {
         "title": "Wacky Wizard 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Wackywizard600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_wizard_600_trophy"
     },
     {
         "title": "Wacky Zingoz 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Wackyzingoz600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_600_trophy"
     },
     {
         "title": "Waddell's Icecap Adventure Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Waddellsicecapadventuretrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waddell's_icecap_adventure_trophy"
     },
     {
         "title": "Webkinz Day Year 10 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Webkinzdayyear10trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_10_trophy"
     },
     {
         "title": "Webkinz Day Year 11 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Webkinzdayyear11trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_11_trophy"
     },
     {
         "title": "Webkinz Day Year 12 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Webkinzdayyear12trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_12_trophy"
     },
     {
         "title": "Webkinz Day Year 13 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Webkinzdayyear13trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_13_trophy"
     },
     {
         "title": "Webkinz Day Year 14 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Webkinzdayyear14trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_14_trophy"
     },
     {
         "title": "Webkinz Day Year 15 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Webkinzdayyear15trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_15_trophy"
     },
     {
         "title": "Webkinz Day Year 16 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Webkinzdayyear16trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_16_trophy"
     },
     {
         "title": "Webkinz Day Year 17 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Webkinzdayyear17trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_17_trophy"
     },
     {
         "title": "Webkinz Day Year 18 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Webkinzdayyear18trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_18_trophy"
     },
     {
         "title": "Webkinz Day Year 19 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Webkinzdayyear19trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_19_trophy"
     },
     {
         "title": "Webkinz Day Year 20 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Webkinzdayyear20trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_20_trophy"
     },
     {
         "title": "Webkinz Day Year 21 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Webkinzdayyear21trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_21_trophy"
     },
     {
         "title": "Webkinz Day Year 3 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Webkinzdayyear3trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_3_trophy"
     },
     {
         "title": "Webkinz Day Year 4 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Webkinzdayyear4trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_4_trophy"
     },
     {
         "title": "Webkinz Day Year 5 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Webkinzdayyear5trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_5_trophy"
     },
     {
         "title": "Webkinz Day Year 6 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Webkinzdayyear6trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_6_trophy"
     },
     {
         "title": "Webkinz Day Year 7 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Webkinzdayyear7trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_7_trophy"
     },
     {
         "title": "Webkinz Day Year 8 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Webkinzdayyear8trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_8_trophy"
     },
     {
         "title": "Webkinz Day Year 9 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Webkinzdayyear9trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_9_trophy"
     },
     {
         "title": "Webkinz Elite Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Webkinzelitetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_elite_trophy"
     },
     {
         "title": "Webkinz Mobile Crystal Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Webkinzmobilecrystaltrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_mobile_crystal_trophy"
     },
     {
         "title": "Webkinz Player Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Webkinzplayertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_player_trophy"
     },
     {
         "title": "Webkinz Rally Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Webkinzrallytrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_rally_trophy"
     },
     {
         "title": "Webkinz Wisdom Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Webkinzwisdomtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_wisdom_trophy"
     },
     {
         "title": "Wheel of WOW Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wheelofwowtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wheel_of_wow_trophy"
     },
     {
         "title": "Where's Wacky Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Whereswackytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "where's_wacky_trophy"
     },
     {
         "title": "Whimsy Skies Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Whimsyskiestrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "whimsy_skies_trophy"
     },
     {
         "title": "Wishing Well 2 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Wishingwell2trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wishing_well_2_trophy"
     },
     {
         "title": "Writing Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Writingtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "writing_trophy"
     },
     {
         "title": "Writing Trophy 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Writingtrophy2.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "writing_trophy_2"
     },
     {
         "title": "Writing Trophy 3",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Writingtrophy3.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "writing_trophy_3"
     },
     {
         "title": "Writing Trophy 4",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Writingtrophy4.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "writing_trophy_4"
     },
     {
         "title": "Zacky's Quest Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Zackysqueststatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zacky's_quest_statue"
     },
     {
         "title": "Zingoz Bounce Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Zingozbouncetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_bounce_trophy"
     },
     {
         "title": "Zingoz Dunk Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Zingozdunktrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_dunk_trophy"
     },
     {
         "title": "Zingoz Pie Throw Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Zingozpiethrowtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_pie_throw_trophy"
     },
     {
         "title": "Zingoz Switcherooz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Zingozswitcherooztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_switcherooz_trophy"
     },
     {
         "title": "Zingoz Zangoz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Zingozzangoztrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_zangoz_trophy"
     },
     {
         "title": "Zum Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Zumtrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zum_trophy"
     }
 ]

@@ -2,981 +2,1177 @@
     {
         "title": "Amusing Argyle Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Amusingargylecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "amusing_argyle_curtains"
     },
     {
         "title": "Apple Blossom Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Appleblossomcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_curtains"
     },
     {
         "title": "Aqua Blue Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Aquabluecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "aqua_blue_curtains"
     },
     {
         "title": "Autumn Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Autumncurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_curtains"
     },
     {
         "title": "Autumn Dreams Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Autumndreamscurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_dreams_curtains"
     },
     {
         "title": "Awesome Avocado Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Awesomeavocadocurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "awesome_avocado_curtains"
     },
     {
         "title": "Beach Resort Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Beachresortcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "beach_resort_curtains"
     },
     {
         "title": "Beige Curtain Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Beigecurtainpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "beige_curtain_panel"
     },
     {
         "title": "Black and White Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Blackandwhitecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "black_and_white_curtains"
     },
     {
         "title": "Blue and Green Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Blueandgreencurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_and_green_curtains"
     },
     {
         "title": "Blue and White Paneled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Blueandwhitepaneledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_and_white_paneled_curtains"
     },
     {
         "title": "Blue Harlequin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Blueharlequincurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_harlequin_curtains"
     },
     {
         "title": "Blue Paneled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Bluepaneledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_paneled_curtains"
     },
     {
         "title": "Blue Ruffled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Blueruffledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_ruffled_curtains"
     },
     {
         "title": "Blue Spring Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Bluespringcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_spring_curtains"
     },
     {
         "title": "Blushing Hearts Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Blushingheartscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blushing_hearts_curtains"
     },
     {
         "title": "Bouncing Bunny Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Bouncingbunnycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bouncing_bunny_curtains"
     },
     {
         "title": "Bowtie Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Bowtiecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bowtie_curtains"
     },
     {
         "title": "Bright Moon Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Brightmooncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bright_moon_curtains"
     },
     {
         "title": "Brilliant Fall Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Brilliantfallcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "brilliant_fall_curtains"
     },
     {
         "title": "Candy Corn Castle Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Candycorncastlecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_corn_castle_curtains"
     },
     {
         "title": "Cheeky Cherry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Cheekycherrycurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheeky_cherry_curtains"
     },
     {
         "title": "Cheery Chirp Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Cheerychirpcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheery_chirp_curtains"
     },
     {
         "title": "Cherry Blooms Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Cherrybloomscurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cherry_blooms_curtain"
     },
     {
         "title": "Chocolate Mint Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Chocolatemintcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_mint_curtains"
     },
     {
         "title": "Colorblock Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Colorblockcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "colorblock_curtains"
     },
     {
         "title": "Cool Sunny Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Coolsunnycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cool_sunny_curtains"
     },
     {
         "title": "Country Farm Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Countryfarmcurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "country_farm_curtains"
     },
     {
         "title": "Cozy Cable Knit Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Cozycableknitcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_cable_knit_curtains"
     },
     {
         "title": "Cozy Cranberry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Cozycranberrycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_cranberry_curtains"
     },
     {
         "title": "Cozy Pattern Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Cozypatterncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_pattern_curtains"
     },
     {
         "title": "Cozy Snowflake Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Cozysnowflakecurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_snowflake_curtain"
     },
     {
         "title": "Cozy Winter Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Cozywintercurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_winter_curtains"
     },
     {
         "title": "Creepy Crawly Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Creepycrawlycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_crawly_curtains"
     },
     {
         "title": "Crisp Autumn Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Crispautumncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "crisp_autumn_curtains"
     },
     {
         "title": "Cute Cozy Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Cutecozycurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_cozy_curtains"
     },
     {
         "title": "Cute Octopus Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Cuteoctopuscurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_octopus_curtains"
     },
     {
         "title": "Cute Valentine Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Cutevalentinecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cute_valentine_curtains"
     },
     {
         "title": "Daisy Blooms Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Daisybloomscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "daisy_blooms_curtains"
     },
     {
         "title": "Dark Teal Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Darktealcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_teal_curtains"
     },
     {
         "title": "Darling Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Darlingcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "darling_curtains"
     },
     {
         "title": "Dancing Dasher Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Dancingdashercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_dasher_curtains"
     },
     {
         "title": "Deep Relaxation Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Deeprelaxationcurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "deep_relaxation_curtain"
     },
     {
         "title": "Divine Dream Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Divinedreamcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "divine_dream_curtains"
     },
     {
         "title": "Easter Cheer Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Eastercheercurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "easter_cheer_curtains"
     },
     {
         "title": "Elegant Blush Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Elegantblushcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "elegant_blush_curtains"
     },
     {
         "title": "Elegant Damask Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Elegantdamaskcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "elegant_damask_curtains"
     },
     {
         "title": "Enchanting Green Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Enchantinggreencurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanting_green_curtains"
     },
     {
         "title": "Evergreen Plaid Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Evergreenplaidcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "evergreen_plaid_curtains"
     },
     {
         "title": "Fabulous Feathers Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Fabulousfeatherscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fabulous_feathers_curtains"
     },
     {
         "title": "Fair Weather Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Fairweathercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fair_weather_curtains"
     },
     {
         "title": "Fall Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Fallcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_curtains"
     },
     {
         "title": "Fall Flair Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Fallflaircurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_flair_curtains"
     },
     {
         "title": "Fall Leaf Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Fallleafcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_leaf_curtains"
     },
     {
         "title": "Festive Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Festivecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "festive_curtains"
     },
     {
         "title": "Festive Holiday Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Festiveholidaycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "festive_holiday_curtains"
     },
     {
         "title": "Floral Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Floralcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "floral_curtains"
     },
     {
         "title": "Flurry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Flurrycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flurry_curtains"
     },
     {
         "title": "Fresh Spring Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Freshspringcurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fresh_spring_curtain"
     },
     {
         "title": "Frilly Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Frillycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frilly_curtains"
     },
     {
         "title": "Frosty Blue Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Frostybluecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frosty_blue_curtains"
     },
     {
         "title": "Fun Peach Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Funpeachcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fun_peach_curtains"
     },
     {
         "title": "Fun Summer Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Funsummercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fun_summer_curtains"
     },
     {
         "title": "GingerKinz Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Gingerkinzcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerkinz_curtains"
     },
     {
         "title": "Glam Gold Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Glamgoldcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glam_gold_curtains"
     },
     {
         "title": "Golden Ginkgo Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Goldenginkgocurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_ginkgo_curtains"
     },
     {
         "title": "Good Fortune Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Goodfortunecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "good_fortune_curtains"
     },
     {
         "title": "Gothic Halloween Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Gothichalloweencurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_curtains"
     },
     {
         "title": "Great Hall Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Greathallcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "great_hall_curtains"
     },
     {
         "title": "Green and White Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Greenandwhitecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_and_white_curtains"
     },
     {
         "title": "Green Lattice Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Greenlatticecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_lattice_curtains"
     },
     {
         "title": "Green Velvet Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Greenvelvetcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_velvet_curtains"
     },
     {
         "title": "Grey Curtain Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Greycurtainpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grey_curtain_panel"
     },
     {
         "title": "Halloween Pumpkin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Halloweenpumpkincurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "halloween_pumpkin_curtains"
     },
     {
         "title": "Heart Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Heartcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "heart_curtains"
     },
     {
         "title": "Heart Filled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Heartfilledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "heart_filled_curtains"
     },
     {
         "title": "Hockey Socks Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Hockeysockscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hockey_socks_curtains"
     },
     {
         "title": "Holiday Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Holidaycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_curtains"
     },
     {
         "title": "Holiday Cabin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Holidaycabincurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_cabin_curtains"
     },
     {
         "title": "Holiday Flair Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Holidayflaircurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_flair_curtains"
     },
     {
         "title": "Holiday Plaid Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Holidayplaidcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_plaid_curtains"
     },
     {
         "title": "Holiday Silver Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Holidaysilvercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_silver_curtains"
     },
     {
         "title": "Holiday Twinkle Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Holidaytwinklecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_twinkle_curtains"
     },
     {
         "title": "Homespun Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Homespuncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "homespun_curtains"
     },
     {
         "title": "Jack O' Lantern Curtain Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Jackolanterncurtainpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jack_o'_lantern_curtain_panel"
     },
     {
         "title": "Jumbleberry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Jumbleberrycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jumbleberry_curtains"
     },
     {
         "title": "Keep Cozy Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Keepcozycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "keep_cozy_curtains"
     },
     {
         "title": "Kinz Lodge Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Kinzlodgecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinz_lodge_curtains"
     },
     {
         "title": "Lavender Flair Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Lavenderflaircurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_flair_curtains"
     },
     {
         "title": "Light Living Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Lightlivingcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "light_living_curtains"
     },
     {
         "title": "Lovely Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Lovelycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_curtains"
     },
     {
         "title": "Lovely Leaf Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Lovelyleafcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_leaf_curtains"
     },
     {
         "title": "Lovely Lilac Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Lovelylilaccurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_lilac_curtains"
     },
     {
         "title": "Lucky Clover Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Luckyclovercurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_clover_curtains"
     },
     {
         "title": "Magic W Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Magicwcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magic_w_curtains"
     },
     {
         "title": "Marine Adventures Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Marineadventurescurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "marine_adventures_curtains"
     },
     {
         "title": "Medieval Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Medievalcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_curtains"
     },
     {
         "title": "Melting Chocolate Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Meltingchocolatecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "melting_chocolate_curtains"
     },
     {
         "title": "Modern Farmhouse Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Modernfarmhousecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "modern_farmhouse_curtains"
     },
     {
         "title": "Modern Red Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Modernredcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_red_curtains"
     },
     {
         "title": "Moonbeam Sparkle Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Moonbeamsparklecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "moonbeam_sparkle_curtains"
     },
     {
         "title": "Moonberry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Moonberrycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonberry_curtains"
     },
     {
         "title": "Mystic Knots Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Mysticknotscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mystic_knots_curtains"
     },
     {
         "title": "Neapolitan Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Neapolitancurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neapolitan_curtains"
     },
     {
         "title": "Nice Nutcracker Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Nicenutcrackercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nice_nutcracker_curtains"
     },
     {
         "title": "Nocturnal Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Nocturnalcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nocturnal_curtains"
     },
     {
         "title": "Orange Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Orangecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "orange_curtains"
     },
     {
         "title": "Owl-right Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Owlrightcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "owl-right_curtains"
     },
     {
         "title": "Painted Leaf Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Paintedleafcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_leaf_curtains"
     },
     {
         "title": "Painted Peacock Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Paintedpeacockcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_peacock_curtains"
     },
     {
         "title": "Paisley Paneled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Paisleypaneledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "paisley_paneled_curtains"
     },
     {
         "title": "Pastel Plaid Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Pastelplaidcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pastel_plaid_curtains"
     },
     {
         "title": "Patchwork Holiday Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Patchworkholidaycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "patchwork_holiday_curtains"
     },
     {
         "title": "Peaceful Balcony",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Peacefulbalcony.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peaceful_balcony"
     },
     {
         "title": "Perfectly Purple Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Perfectlypurplecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "perfectly_purple_curtains"
     },
     {
         "title": "Perky Penguin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Perkypenguincurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "perky_penguin_curtains"
     },
     {
         "title": "Pink Cozy Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Pinkcozycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pink_cozy_curtains"
     },
     {
         "title": "Plush Purple Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Plushpurplecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "plush_purple_curtains"
     },
     {
         "title": "Poinsettia Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Poinsettiacurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poinsettia_curtains"
     },
     {
         "title": "Polished Pumpkin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Polishedpumpkincurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polished_pumpkin_curtains"
     },
     {
         "title": "Pretty in Pink Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Prettyinpinkcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_in_pink_curtains"
     },
     {
         "title": "Purple Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Purplecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_curtains"
     },
     {
         "title": "Purple Floral Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Purplefloralcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_floral_curtains"
     },
     {
         "title": "Quilted Rainbow Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Quiltedrainbowcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_rainbow_curtains"
     },
     {
         "title": "Radiant Autumn Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Radiantautumncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "radiant_autumn_curtains"
     },
     {
         "title": "Rainbow Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Rainbowcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_curtains"
     },
     {
         "title": "Red and White Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Redandwhitecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_and_white_curtains"
     },
     {
         "title": "Red and White Striped Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Redandwhitestripedcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_and_white_striped_curtains"
     },
     {
         "title": "Red Antique Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Redantiquecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_antique_curtains"
     },
     {
         "title": "Red Rose Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Redrosecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_rose_curtains"
     },
     {
         "title": "Red Striped Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Redstripedcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_striped_curtains"
     },
     {
         "title": "Red Velvet Rose Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Redvelvetrosecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_velvet_rose_curtains"
     },
     {
         "title": "Reindeer Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Reindeercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "reindeer_curtains"
     },
     {
         "title": "Regal Suite Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Regalsuitecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regal_suite_curtains"
     },
     {
         "title": "Restful Retreat Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Restfulretreatcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "restful_retreat_curtains"
     },
     {
         "title": "Rose Garden Balcony",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Rosegardenbalcony.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rose_garden_balcony"
     },
     {
         "title": "Ruffled Antique Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Ruffledantiquecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ruffled_antique_curtains"
     },
     {
         "title": "Russet Ranch Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Russetranchcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "russet_ranch_curtains"
     },
     {
         "title": "Rustic Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Rusticcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rustic_curtains"
     },
     {
         "title": "Satin Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Satincurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "satin_curtains"
     },
     {
         "title": "Secret Treehouse Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Secrettreehousecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secret_treehouse_curtains"
     },
     {
         "title": "Silky Smooth Drapes",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Silkysmoothdrapes.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silky_smooth_drapes"
     },
     {
         "title": "Silver Snowman Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Silversnowmancurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_snowman_curtains"
     },
     {
         "title": "Simple Star Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Simplestarcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "simple_star_curtains"
     },
     {
         "title": "Smiling Sun Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Smilingsuncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "smiling_sun_curtains"
     },
     {
         "title": "Snowflake Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Snowflakecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snowflake_curtains"
     },
     {
         "title": "Snowman Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Snowmancurtain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_curtain"
     },
     {
         "title": "Soft Autumn Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Softautumncurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_autumn_curtains"
     },
     {
         "title": "Soft Daisy Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Softdaisycurtain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_daisy_curtain"
     },
     {
         "title": "Soft Green Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Softgreencurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_green_curtains"
     },
     {
         "title": "Soft Petals Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Softpetalscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_petals_curtains"
     },
     {
         "title": "Soft Spring Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Softspringcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_spring_curtains"
     },
     {
         "title": "Southwestern Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Southwesterncurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "southwestern_curtains"
     },
     {
         "title": "Spiderweb Curtain Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Spiderwebcurtainpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spiderweb_curtain_panel"
     },
     {
         "title": "Spooky Gothic Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Spookygothiccurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_gothic_curtains"
     },
     {
         "title": "Spring Blooms Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Springbloomscurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_blooms_curtains"
     },
     {
         "title": "Spring Breeze Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Springbreezecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_breeze_curtains"
     },
     {
         "title": "Spring Clover Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Springclovercurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_clover_curtains"
     },
     {
         "title": "Spring Egg Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Springeggcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_egg_curtains"
     },
     {
         "title": "Spring Floral Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Springfloralcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_floral_curtains"
     },
     {
         "title": "Spring Flower Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Springflowercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_flower_curtains"
     },
     {
         "title": "Spring Petals Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Springpetalscurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_petals_curtains"
     },
     {
         "title": "Spring Yellow Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Springyellowcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_yellow_curtains"
     },
     {
         "title": "Springtime Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Springtimecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "springtime_curtains"
     },
     {
         "title": "Stylish Paneled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Stylishpaneledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stylish_paneled_curtains"
     },
     {
         "title": "Sugar Plum Sparkle Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Sugarplumsparklecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugar_plum_sparkle_curtains"
     },
     {
         "title": "Summer Berry Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Summerberrycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_berry_curtains"
     },
     {
         "title": "Summer Blue Plaid Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Summerblueplaidcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_blue_plaid_curtains"
     },
     {
         "title": "Summer Breeze Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Summerbreezecurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_breeze_curtain"
     },
     {
         "title": "Summer Floral Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Summerfloralcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_floral_curtains"
     },
     {
         "title": "Summer Oasis Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Summeroasiscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_oasis_curtains"
     },
     {
         "title": "Summer Polka Dot Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Summerpolkadotcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_polka_dot_curtains"
     },
     {
         "title": "Summer Vibes Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Summervibescurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_vibes_curtains"
     },
     {
         "title": "Sweet Blush Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Sweetblushcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_blush_curtains"
     },
     {
         "title": "Sweet Valentine Curtain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Sweetvalentinecurtain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweet_valentine_curtain"
     },
     {
         "title": "Tartan Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Tartancurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tartan_curtains"
     },
     {
         "title": "Taupe Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Taupecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "taupe_curtains"
     },
     {
         "title": "Tender Tidings Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Tendertidingscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tender_tidings_curtains"
     },
     {
         "title": "Thanksgiving Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Thanksgivingcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "thanksgiving_curtains"
     },
     {
         "title": "Time for Fall Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Timeforfallcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "time_for_fall_curtains"
     },
     {
         "title": "Tranquil Teal Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Tranquiltealcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tranquil_teal_curtains"
     },
     {
         "title": "Trendsetter Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Trendsettercurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trendsetter_curtains"
     },
     {
         "title": "Up and Away Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Upandawaycurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "up_and_away_curtains"
     },
     {
         "title": "Valentine Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Valentinecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_curtains"
     },
     {
         "title": "Vertical Blinds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Verticalblinds.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "vertical_blinds"
     },
     {
         "title": "Vibrant Vibes Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Vibrantvibescurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "vibrant_vibes_curtains"
     },
     {
         "title": "Violet Bliss Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Violetblisscurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "violet_bliss_curtains"
     },
     {
         "title": "Warmhearted Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Warmheartedcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "warmhearted_curtains"
     },
     {
         "title": "Webkinz Paneled Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Webkinzpaneledcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_paneled_curtains"
     },
     {
         "title": "Whimsical Wicker Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Whimsicalwickercurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "whimsical_wicker_curtains"
     },
     {
         "title": "White Chocolate Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Whitechocolatecurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "white_chocolate_curtains"
     },
     {
         "title": "Wicked Halloween Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Wickedhalloweencurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wicked_halloween_curtains"
     },
     {
         "title": "Winter Chill Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Winterchillcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_chill_curtains"
     },
     {
         "title": "Winter Polar Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Winterpolarcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_polar_curtains"
     },
     {
         "title": "Yellow Striped Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Yellowstripedcurtains.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "yellow_striped_curtains"
     },
     {
         "title": "Yuletide Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Yuletidecurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yuletide_curtains"
     }
 ]

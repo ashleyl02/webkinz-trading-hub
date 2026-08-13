@@ -2,316 +2,379 @@
     {
         "title": "Academy School Binder",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Academyschoolbinder.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_school_binder"
     },
     {
         "title": "Adventure Scouts Cookbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Adventurescoutscookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_scouts_cookbook"
     },
     {
         "title": "An Air of Mystery Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Anairofmysterybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "an_air_of_mystery_book"
     },
     {
         "title": "Ancient Zum Field Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Ancientzumfieldguide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ancient_zum_field_guide"
     },
     {
         "title": "Arte and the Lost Tomb Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Arteandthelosttombbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arte_and_the_lost_tomb_book"
     },
     {
         "title": "Bake Sale Cookbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Bakesalecookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bake_sale_cookbook"
     },
     {
         "title": "Bake Sale Cookbook Vol. 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Bakesalecookbookvol2.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bake_sale_cookbook_vol._2"
     },
     {
         "title": "Bake Sale Cookbook Vol. 3",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Bakesalecookbookvol3.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bake_sale_cookbook_vol._3"
     },
     {
         "title": "Best of Fun Stuff Craft Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Bestoffunstuffcraftbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "best_of_fun_stuff_craft_book"
     },
     {
         "title": "Book Nook Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Booknookfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "book_nook_fence"
     },
     {
         "title": "CampKinz Exploration Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Campkinzexplorationtile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_exploration_tile"
     },
     {
         "title": "CampKinz Exploration Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Campkinzexplorationtilese.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_exploration_tile"
     },
     {
         "title": "Colorful Characters Coloring Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Colorfulcharacterscoloringbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_characters_coloring_book"
     },
     {
         "title": "Daisy's Diner Cookbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Daisysdinercookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daisy's_diner_cookbook"
     },
     {
         "title": "DIY Design Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Diydesignguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_design_guide"
     },
     {
         "title": "DIY Display Cases Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Diydisplaycasesguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_display_cases_guide"
     },
     {
         "title": "DIY Dividers Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Diydividersguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_dividers_guide"
     },
     {
         "title": "DIY Tie-Dye Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Diytiedyeguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_tie-dye_guide"
     },
     {
         "title": "Doc's Big Book of Boo Boos",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Docsbigbookofbooboos.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "doc's_big_book_of_boo_boos"
     },
     {
         "title": "Does the Caged Singoz Sing? Storybook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Doesthecagedsingozsing%3Fstorybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "does_the_caged_singoz_sing?_storybook"
     },
     {
         "title": "Fairy Tale Floor Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Fairytalefloortile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_tale_floor_tile"
     },
     {
         "title": "Fashion Magazines",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Fashionmagazines.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_magazines"
     },
     {
         "title": "Fashion Week Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Fashionweekguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_week_guide"
     },
     {
         "title": "Fashion Week Guide Volume 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Fashionweekguidevolume2.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_week_guide_volume_2"
     },
     {
         "title": "Fashion Week Guide Volume 3",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Fashionweekguidevolume3.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_week_guide_volume_3"
     },
     {
         "title": "Goober's Big Book of Science",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Goobersbigbookofscience.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goober's_big_book_of_science"
     },
     {
         "title": "Green Notepad and Pencils",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Greennotepadandpencils.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_notepad_and_pencils"
     },
     {
         "title": "Halloween Bake Sale Cookbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Halloweenbakesalecookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_bake_sale_cookbook"
     },
     {
         "title": "How to Draw Webkinz Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Howtodrawwebkinzbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "how_to_draw_webkinz_book"
     },
     {
         "title": "How to Grow Your Own Food Guidebook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Howtogrowyourownfoodguidebook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "how_to_grow_your_own_food_guidebook"
     },
     {
         "title": "Kinzville Academy School Supplies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Kinzvilleacademyschoolsupplies.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_academy_school_supplies"
     },
     {
         "title": "Monkey and Monkey Book Ends",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Monkeyandmonkeybookends.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "monkey_and_monkey_book_ends"
     },
     {
         "title": "Novelty Storybook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Noveltystorybook.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "novelty_storybook"
     },
     {
         "title": "Pet Care Guidebook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Petcareguidebook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pet_care_guidebook"
     },
     {
         "title": "Pile of Books Trophy Pedestal",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Pileofbookstrophypedestal.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pile_of_books_trophy_pedestal"
     },
     {
         "title": "Purple Notepad and Orange Pens",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Purplenotepadandorangepens.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_notepad_and_orange_pens"
     },
     {
         "title": "Secret Dreams Diary",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Secretdreamsdiary.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "secret_dreams_diary"
     },
     {
         "title": "Sewing Club Handbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Sewingclubhandbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sewing_club_handbook"
     },
     {
         "title": "Simply Delicious Cookbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Simplydeliciouscookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "simply_delicious_cookbook"
     },
     {
         "title": "Sleepover Floor Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Sleepoverfloortilese.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sleepover_floor_tile"
     },
     {
         "title": "Sleepover Floor Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Sleepoverfloortilene.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sleepover_floor_tile"
     },
     {
         "title": "Spotted Leopard Script",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Spottedleopardscript.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spotted_leopard_script"
     },
     {
         "title": "Spring Storybooks",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Springstorybooks.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_storybooks"
     },
     {
         "title": "Textbook Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Textbooktower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "textbook_tower"
     },
     {
         "title": "The Art of Sandwichin' Cook Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Theartofsandwichincookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_art_of_sandwichin'_cook_book"
     },
     {
         "title": "The Best of Plumpy Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Thebestofplumpybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_best_of_plumpy_book"
     },
     {
         "title": "The Best Present Storybook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Thebestpresentstorybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_best_present_storybook"
     },
     {
         "title": "The Caring Valley Planter's Handbook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Thecaringvalleyplantershandbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_caring_valley_planter's_handbook"
     },
     {
         "title": "The Kinzville Caper Storybook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Thekinzvillecaperstorybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_kinzville_caper_storybook"
     },
     {
         "title": "The Smarty Pants Storybook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Thesmartypantsstorybook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_smarty_pants_storybook"
     },
     {
         "title": "The Way of the Blender Cook Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Thewayoftheblendercookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_way_of_the_blender_cook_book"
     },
     {
         "title": "Totally Blendin' Cook Book",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Totallyblendincookbook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "totally_blendin'_cook_book"
     },
     {
         "title": "W Tales Book: Charmed, I'm Sure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Wtalesbookcharmedimsure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_charmed,_i'm_sure"
     },
     {
         "title": "W Tales Book: Color Catastrophe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Wtalesbookcolorcatastrophe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_color_catastrophe"
     },
     {
         "title": "W Tales Book: Dogbeard's Treasure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Wtalesbookdogbeardstreasure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_dogbeard's_treasure"
     },
     {
         "title": "W Tales Book: Inukshuk's Wish",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Wtalesbookinukshukswish.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_inukshuk's_wish"
     },
     {
         "title": "W Tales Book: Plumpy's Great Advice",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Wtalesbookplumpysgreatadvice.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_plumpy's_great_advice"
     },
     {
         "title": "W Tales Book: The New Cat in Town",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wtalesbookthenewcatintown.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "w_tales_book:_the_new_cat_in_town"
     },
     {
         "title": "Wacky School Supplies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Wackyschoolsupplies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_school_supplies"
     },
     {
         "title": "Webkinz Trading Cards Series 1 Binder",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Webkinztradingcardsseries1binder.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_trading_cards_series_1_binder"
     },
     {
         "title": "Webkinz Trading Cards Series 2 Binder",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Webkinztradingcardsseries2binder.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_trading_cards_series_2_binder"
     },
     {
         "title": "Webkinz World Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Webkinzworldguide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_world_guide"
     },
     {
         "title": "Zums Field Guide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Zumsfieldguide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zums_field_guide"
     }
 ]

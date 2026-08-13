@@ -2,466 +2,565 @@
     {
         "title": "Bagpiper's Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Bagpiperstrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bagpiper's_trampoline"
     },
     {
         "title": "Big Gummy Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Biggummybouncer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "big_gummy_bouncer"
     },
     {
         "title": "Bongo Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Bongotrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bongo_trampoline"
     },
     {
         "title": "Bouncy Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Bouncyball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouncy_ball"
     },
     {
         "title": "Bouncy Banana Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Bouncybananabed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouncy_banana_bed"
     },
     {
         "title": "Bouncy Bed Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Bouncybedtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouncy_bed_trampoline"
     },
     {
         "title": "Bouncy Bed Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/2021bouncybedtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouncy_bed_trampoline"
     },
     {
         "title": "Bouncy Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Bouncycastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bouncy_castle"
     },
     {
         "title": "Boxing Ring Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Boxingringtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "boxing_ring_trampoline"
     },
     {
         "title": "Bubble Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Bubbletrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubble_trampoline"
     },
     {
         "title": "Bubblegum Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Bubblegumbouncer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegum_bouncer"
     },
     {
         "title": "Bursting Birthday Gift",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Burstingbirthdaygift.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bursting_birthday_gift"
     },
     {
         "title": "Cake Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Caketrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cake_trampoline"
     },
     {
         "title": "Cat Trick Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Cattricktrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cat_trick_trampoline"
     },
     {
         "title": "Cheerful Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Cheerfultrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_trampoline"
     },
     {
         "title": "Chocolate Playground Bouncy Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Chocolateplaygroundbouncycastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_playground_bouncy_castle"
     },
     {
         "title": "Circus Ball Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Circusballtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "circus_ball_trampoline"
     },
     {
         "title": "Creepy Swamp Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Creepyswampmushrooms.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_swamp_mushrooms"
     },
     {
         "title": "Cute Kiwi Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Cutekiwitrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_kiwi_trampoline"
     },
     {
         "title": "Dancing Dasher Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Dancingdasherbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_dasher_bouncer"
     },
     {
         "title": "Extreme Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Extremetrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "extreme_trampoline"
     },
     {
         "title": "Fairy Den Toadstool Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Fairydentoadstooltrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fairy_den_toadstool_trampoline"
     },
     {
         "title": "FairyKinz Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Fairykinztrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairykinz_trampoline"
     },
     {
         "title": "Fall Frenzy Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Fallfrenzytrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_frenzy_trampoline"
     },
     {
         "title": "Force Field Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Forcefieldtrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "force_field_trampoline"
+    },
+    {
+        "title": "Fresh Apple Pie Trampoline",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Freshapplepietrampoline.png",
+        "is_tradeable": true,
+        "id": "fresh_apple_pie_trampoline"
     },
     {
         "title": "Fun Floor Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Funfloortrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fun_floor_trampoline"
     },
     {
         "title": "Gingerbread Bear Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Gingerbreadbeartrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_bear_trampoline"
     },
     {
         "title": "Glam Gold Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Glamgoldbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glam_gold_bouncer"
     },
     {
         "title": "Go Go Laundry Basket",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Gogolaundrybasket.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "go_go_laundry_basket"
     },
     {
         "title": "Grape Garden Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Grapegardentrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grape_garden_trampoline"
     },
     {
         "title": "Green Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Greenmushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_trampoline"
     },
     {
         "title": "Happy Birthday Bouncy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Happybirthdaybouncybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "happy_birthday_bouncy_bed"
     },
     {
         "title": "Haunted Pool Party Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Hauntedpoolpartytrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_pool_party_trampoline"
     },
     {
         "title": "High Hops Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Highhopstrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "high_hops_trampoline"
     },
     {
         "title": "Hockey Socks Bouncy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Hockeysocksbouncybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hockey_socks_bouncy_bed"
     },
     {
         "title": "Holiday Gift Box Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Holidaygiftboxbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_gift_box_bouncer"
     },
     {
         "title": "Holiday Mud Pit Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Holidaymudpittrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_mud_pit_trampoline"
     },
     {
         "title": "Hot Springs Geyser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Hotspringsgeyser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hot_springs_geyser"
     },
     {
         "title": "Hurdle Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Hurdletrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hurdle_trampoline"
     },
     {
         "title": "Husky Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Huskytrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "husky_trampoline"
     },
     {
         "title": "King's Crown Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Kingscrowntrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "king's_crown_trampoline"
     },
     {
         "title": "Kinz Eve Surprise",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Kinzevesurprise.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinz_eve_surprise"
     },
     {
         "title": "Lakeside Turtle Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Lakesideturtletrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_turtle_trampoline"
     },
     {
         "title": "Landing Mat Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Landingmattrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "landing_mat_trampoline"
     },
     {
         "title": "Leaping Lemur Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Leapinglemurtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leaping_lemur_trampoline"
     },
     {
         "title": "Leaping Lily Pad Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Leapinglilypadtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leaping_lily_pad_trampoline"
     },
     {
         "title": "Leprechaun Hat Cannon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Leprechaunhatcannon.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "leprechaun_hat_cannon"
     },
     {
         "title": "Life Boat Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Lifeboatbouncer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "life_boat_bouncer"
     },
     {
         "title": "Lily Pad Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Lilypadtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lily_pad_trampoline"
     },
     {
         "title": "Lucky Shamrock Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Luckyshamrocktrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_shamrock_trampoline"
     },
     {
         "title": "Marshmallow Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Marshmallowtrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "marshmallow_trampoline"
     },
     {
         "title": "Noisy Cushion Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Noisycushiontrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "noisy_cushion_trampoline"
     },
     {
         "title": "Oatmeal Cookie Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Oatmealcookietrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "oatmeal_cookie_trampoline"
     },
     {
         "title": "OneWebkinzWorld Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Onewebkinzworldtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "onewebkinzworld_trampoline"
     },
     {
         "title": "Orange Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Orangemushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_trampoline"
     },
     {
         "title": "Party Noisemaker Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Partynoisemakertrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "party_noisemaker_trampoline"
     },
     {
         "title": "Pastry Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Pastrytrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pastry_trampoline"
     },
     {
         "title": "Pie in the Sky Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Pieintheskytrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pie_in_the_sky_trampoline"
     },
     {
         "title": "Playful Pup Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Playfulpupbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playful_pup_bed"
     },
     {
         "title": "Playpen Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Playpentrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playpen_trampoline"
     },
     {
         "title": "Puppy Patrol Cannon Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Puppypatrolcannontrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "puppy_patrol_cannon_trampoline"
     },
     {
         "title": "Purple Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Purplemushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_trampoline"
     },
     {
         "title": "Quilted Christmas Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Quiltedchristmasbouncer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quilted_christmas_bouncer"
     },
     {
         "title": "Rainbow Spiderweb Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Rainbowspiderwebtrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_spiderweb_trampoline"
     },
     {
         "title": "Reach the Stars Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Reachthestarstrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "reach_the_stars_trampoline"
     },
     {
         "title": "Reliable Geyser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Reliablegeyser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "reliable_geyser"
     },
     {
         "title": "SantaKinz Bouncy Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Santakinzbouncycastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "santakinz_bouncy_castle"
     },
     {
         "title": "Sleepover Bouncy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Sleepoverbouncybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sleepover_bouncy_bed"
     },
     {
         "title": "Snow Globe Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Snowglobetrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snow_globe_trampoline"
     },
     {
         "title": "Snowman Bouncy Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Snowmanbouncycastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snowman_bouncy_castle"
     },
     {
         "title": "Spider Web Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Spiderwebtrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spider_web_trampoline"
     },
     {
         "title": "Splash Puddle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Splashpuddle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "splash_puddle"
     },
     {
         "title": "Spring Melt Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Springmelttrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_melt_trampoline"
     },
     {
         "title": "Suddenly Spring Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Suddenlyspringtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "suddenly_spring_trampoline"
     },
     {
         "title": "Supernova Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Supernovatrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "supernova_trampoline"
     },
     {
         "title": "Sweet Stitched Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Sweetstitchedtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_stitched_trampoline"
     },
     {
         "title": "Tall Grass Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Tallgrasstrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tall_grass_trampoline"
     },
     {
         "title": "Tambourine Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Tambourinetrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tambourine_trampoline"
     },
     {
         "title": "Teddy Bear Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Teddybeartrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teddy_bear_trampoline"
     },
     {
         "title": "The Zingoz Zangoz Bouncer!",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Thezingozzangozbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_zingoz_zangoz_bouncer!"
     },
     {
         "title": "Toadstool Hollow Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Toadstoolhollowtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_trampoline"
     },
     {
         "title": "Toadstool Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Toadstooltrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_trampoline"
     },
     {
         "title": "Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Trampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trampoline"
     },
     {
         "title": "Tree Frog Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Treefrogtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tree_frog_trampoline"
     },
     {
         "title": "Tulip Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Tuliptrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tulip_trampoline"
     },
     {
         "title": "Tyrannical Rex Bouncy Castle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Tyrannicalrexbouncycastle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tyrannical_rex_bouncy_castle"
     },
     {
         "title": "Underwater Ruins Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Underwaterruinstrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "underwater_ruins_trampoline"
     },
     {
         "title": "Webkinz Bouncy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Webkinzbouncybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_bouncy_bed"
     },
     {
         "title": "Webkinz Day Year 10 Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Webkinzdayyear10trampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_year_10_trampoline"
     },
     {
         "title": "Wild Water Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Wildwatertrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_water_trampoline"
     },
     {
         "title": "Winter Polar Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Winterpolartrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_polar_trampoline"
     },
     {
         "title": "Winter Raccoon Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Winterraccoontrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_raccoon_trampoline"
     },
     {
         "title": "Winter Wishes Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Winterwishestrampoline.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_wishes_trampoline"
     }
 ]

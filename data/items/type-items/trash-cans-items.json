@@ -2,41 +2,49 @@
     {
         "title": "Birch Bark Trash Can",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Birchbarktrashcan.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "birch_bark_trash_can"
     },
     {
         "title": "Curbside Cuisine Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Curbsidecuisinefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "curbside_cuisine_fridge"
     },
     {
         "title": "Fast Food Recycling Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Fastfoodrecyclingstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fast_food_recycling_station"
     },
     {
         "title": "Garbage Bin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Garbagebin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garbage_bin"
     },
     {
         "title": "Recycling Bin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Recyclingbin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "recycling_bin"
     },
     {
         "title": "Sneaky Garbage Can",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Sneakygarbagecan.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sneaky_garbage_can"
     },
     {
         "title": "Train Station Rubbish Bin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Trainstationrubbishbin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "train_station_rubbish_bin"
     },
     {
         "title": "Underground Playground Garbage Can",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Undergroundplaygroundgarbagecan.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "underground_playground_garbage_can"
     }
 ]

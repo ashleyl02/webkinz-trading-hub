@@ -2,91 +2,109 @@
     {
         "title": "Bake Shop Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Bakeshopregister.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bake_shop_register"
     },
     {
         "title": "Berry Farm Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Berryfarmcashregister.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_farm_cash_register"
     },
     {
         "title": "Cafe Checkout Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Cafecheckoutcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cafe_checkout_counter"
     },
     {
         "title": "Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Cashregister.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cash_register"
     },
     {
         "title": "Checkout Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Checkoutcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "checkout_counter"
     },
     {
         "title": "Chocolate Shop Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Chocolateshopcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_shop_counter"
     },
     {
         "title": "Concession Stand Front Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Concessionstandfrontcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "concession_stand_front_counter"
     },
     {
         "title": "Curio Shop Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Curioshopcashregister.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "curio_shop_cash_register"
     },
     {
         "title": "Daisy's Diner Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Daisysdinercounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daisy's_diner_counter"
     },
     {
         "title": "Diner Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Dinercashregister.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diner_cash_register"
     },
     {
         "title": "Drive Through Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Drivethroughwindow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "drive_through_window"
     },
     {
         "title": "Fast Food Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Fastfoodcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fast_food_counter"
     },
     {
         "title": "Fast Food Drive Through Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Fastfooddrivethroughwindow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fast_food_drive_through_window"
     },
     {
         "title": "Ice Cream Parlor Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Icecreamparlorregister.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ice_cream_parlor_register"
     },
     {
         "title": "Magical Toy Emporium Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Magicaltoyemporiumcashregister.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magical_toy_emporium_cash_register"
     },
     {
         "title": "Scrambled Cash Register",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Scrambledcashregister.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scrambled_cash_register"
     },
     {
         "title": "Souvenir Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Souvenirshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "souvenir_shop"
     },
     {
         "title": "Store Checkout Counter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Storecheckoutcounter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "store_checkout_counter"
     }
 ]

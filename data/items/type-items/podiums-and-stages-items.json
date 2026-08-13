@@ -2,51 +2,61 @@
     {
         "title": "Academy Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Academypodium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_podium"
     },
     {
         "title": "Mayor's Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Mayorspodium.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mayor's_podium"
     },
     {
         "title": "Play-by-Play Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Playbyplaypodium.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "play-by-play_podium"
     },
     {
         "title": "Quizzy's Contestant Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Quizzyscontestantpodium.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quizzy's_contestant_podium"
     },
     {
         "title": "Quizzy's Host Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Quizzyshostpodium.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quizzy's_host_podium"
     },
     {
         "title": "Spelling Bee Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Spellingbeepodium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spelling_bee_podium"
     },
     {
         "title": "Webkinz Votes 2018 Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Webkinzvotes2018podium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2018_podium"
     },
     {
         "title": "Webkinz Votes 2020 Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Webkinzvotes2020podium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2020_podium"
     },
     {
         "title": "Webkinz Votes 2022 Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Webkinzvotes2022podium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_votes_2022_podium"
     },
     {
         "title": "Year 20 Podium",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Year20podium.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_podium"
     }
 ]

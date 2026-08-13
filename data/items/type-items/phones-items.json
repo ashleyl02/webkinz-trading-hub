@@ -2,31 +2,37 @@
     {
         "title": "Antique Telephone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Antiquetelephone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_telephone"
     },
     {
         "title": "Blufadoodle Dial Tone Phone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Blufadoodledialtonephone.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blufadoodle_dial_tone_phone"
     },
     {
         "title": "Portable Telephone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Portabletelephone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "portable_telephone"
     },
     {
         "title": "Retro Rainbow Phone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Retrorainbowphone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "retro_rainbow_phone"
     },
     {
         "title": "Three Digit Phone Booth",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Threedigitphonebooth.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "three_digit_phone_booth"
     },
     {
         "title": "Toy Cell Phone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Toycellphone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toy_cell_phone"
     }
 ]

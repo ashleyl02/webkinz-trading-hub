@@ -2,496 +2,595 @@
     {
         "title": "Abracadabra Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Abracadabracandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "abracadabra_candelabra"
     },
     {
         "title": "Alexandrite Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Alexandritevotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "alexandrite_votive"
     },
     {
         "title": "Alyssa House Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Alyssahousecandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "alyssa_house_candelabra"
     },
     {
         "title": "Amethyst Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Amethystvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "amethyst_votive"
     },
     {
         "title": "Ancient Brazier",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Ancientbrazier.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ancient_brazier"
     },
     {
         "title": "Aquamarine Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Aquamarinevotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aquamarine_votive"
     },
     {
         "title": "Aromatherapy Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Aromatherapycandles.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "aromatherapy_candles"
     },
     {
         "title": "Birthday Cake Cap",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Birthdaycakecap.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "birthday_cake_cap"
     },
     {
         "title": "Birthday Candle Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Birthdaycandlepillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "birthday_candle_pillar"
     },
     {
         "title": "Blue Zircon Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Bluezirconvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_zircon_votive"
     },
     {
         "title": "Brass Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Brassmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "brass_menorah"
     },
     {
         "title": "Calming Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Calmingcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "calming_candles"
     },
     {
         "title": "Caring Valley Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Caringvalleycandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "caring_valley_candle"
     },
     {
         "title": "Cave Candle Stick",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Cavecandlestick.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cave_candle_stick"
     },
     {
         "title": "Centurion Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Centurioncandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "centurion_candelabra"
     },
     {
         "title": "Christmas Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Christmascandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_candelabra"
     },
     {
         "title": "Christmas Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Christmascandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_candle"
     },
     {
         "title": "Colorful Holiday Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Colorfulholidaycandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_holiday_candle"
     },
     {
         "title": "Colorful Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Colorfulmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colorful_menorah"
     },
     {
         "title": "Contessa Candle Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Contessacandlelamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "contessa_candle_lamp"
     },
     {
         "title": "Contessa Candle Wall Sconce",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Contessacandlewallsconce.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "contessa_candle_wall_sconce"
     },
     {
         "title": "Creepy Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Creepycandelabra.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_candelabra"
     },
     {
         "title": "Diamond Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Diamondvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diamond_votive"
     },
     {
         "title": "Dragon's Fire",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Dragonsfire.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon's_fire"
     },
     {
         "title": "Dragon's Fire Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Dragonsfirecandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon's_fire_candelabra"
     },
     {
         "title": "Eggshell Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Eggshellcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "eggshell_candles"
     },
     {
         "title": "Elegant Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Elegantmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elegant_menorah"
     },
     {
         "title": "Emerald Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Emeraldvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "emerald_votive"
     },
     {
         "title": "Fancy Frozen Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Fancyfrozencandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_frozen_candelabra"
     },
     {
         "title": "Festive Feast Place Setting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Festivefeastplacesetting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_feast_place_setting"
     },
     {
         "title": "Festive Place Setting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Festiveplacesetting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_place_setting"
     },
     {
         "title": "Garden Candle Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Gardencandlelantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_candle_lantern"
     },
     {
         "title": "Garnet Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Garnetvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garnet_votive"
     },
     {
         "title": "Giant Slice of Birthday Cake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Giantsliceofbirthdaycake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "giant_slice_of_birthday_cake"
     },
     {
         "title": "Glampire Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Glampirecandelabra.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glampire_candelabra"
     },
     {
         "title": "Golden Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Goldenmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_menorah"
     },
     {
         "title": "Golden Oil Lamp of Persia",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Goldenoillampofpersia.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_oil_lamp_of_persia"
     },
     {
         "title": "Gourd Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Gourdcandelabra.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gourd_candelabra"
     },
     {
         "title": "Gourd Table Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Gourdtablecandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gourd_table_candle"
     },
     {
         "title": "Happily Ever After Cake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Happilyeveraftercake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happily_ever_after_cake"
     },
     {
         "title": "Haunted Castle Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Hauntedcastletorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_castle_torch"
     },
     {
         "title": "Helping Paws Club Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Helpingpawsclubcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_candles"
     },
     {
         "title": "Hidden Hideaway Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Hiddenhideawaytorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hidden_hideaway_torch"
     },
     {
         "title": "Holiday Warmth Candle Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Holidaywarmthcandlelamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_warmth_candle_lamp"
     },
     {
         "title": "Hovering Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Hoveringmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hovering_menorah"
     },
     {
         "title": "Island Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Islandtorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "island_torch"
     },
     {
         "title": "Jack O'Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Jackochair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jack_o'chair"
     },
     {
         "title": "Jack O'Lantern Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Jackolanterncandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jack_o'lantern_candelabra"
     },
     {
         "title": "Jolly Jumbleberry Centerpiece",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Jollyjumbleberrycenterpiece.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jumbleberry_centerpiece"
     },
     {
         "title": "Jumbleberry Birthday Cake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Jumbleberrybirthdaycake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jumbleberry_birthday_cake"
     },
     {
         "title": "King's Royal Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Kingsroyallamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "king's_royal_lamp"
     },
     {
         "title": "Kinzville Spa Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Kinzvillespacandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_spa_candles"
     },
     {
         "title": "Lightning Cake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Lightningcake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lightning_cake"
     },
     {
         "title": "Magnificent Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Magnificentmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magnificent_menorah"
     },
     {
         "title": "Medieval Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Medievaltorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_torch"
     },
     {
         "title": "Melting 8 Ball Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Melting8ballcandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "melting_8_ball_candle"
     },
     {
         "title": "Ming Candle Display",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Mingcandledisplay.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ming_candle_display"
     },
     {
         "title": "Mistletoe Mantel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Mistletoemantel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mistletoe_mantel"
     },
     {
         "title": "Mod Holiday Hurricane Glass",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Modholidayhurricaneglass.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mod_holiday_hurricane_glass"
     },
     {
         "title": "Nafaria House Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Nafariahousecandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nafaria_house_candelabra"
     },
     {
         "title": "Noble Elf Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Nobleelfcandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "noble_elf_candelabra"
     },
     {
         "title": "Ornate Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Ornatemenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ornate_menorah"
     },
     {
         "title": "Painted Glass Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Paintedglassmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_glass_menorah"
     },
     {
         "title": "Peridot Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Peridotvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peridot_votive"
     },
     {
         "title": "Pioneer Table Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Pioneertablecandle.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pioneer_table_candle"
     },
     {
         "title": "Poinsettia Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Poinsettiacandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poinsettia_candles"
     },
     {
         "title": "Pumpkin Spice Scented Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Pumpkinspicescentedcandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pumpkin_spice_scented_candle"
     },
     {
         "title": "Purple Frost Sconce",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Purplefrostsconce.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_frost_sconce"
     },
     {
         "title": "Red Antique Chandelier Sconce",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Redantiquechandeliersconce.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_antique_chandelier_sconce"
     },
     {
         "title": "Red Antique Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Redantiquemirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_antique_mirror"
     },
     {
         "title": "Regal Flame Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Regalflamelamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regal_flame_lamp"
     },
     {
         "title": "Regency Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Regencycandelabra.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regency_candelabra"
     },
     {
         "title": "Rose Zircon Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Rosezirconvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rose_zircon_votive"
     },
     {
         "title": "Royal Red Brazier",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Royalredbrazier.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "royal_red_brazier"
     },
     {
         "title": "Ruby Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Rubyvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ruby_votive"
     },
     {
         "title": "Santakinz' Workshop Wall Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Santakinzworkshopwalllantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz'_workshop_wall_lantern"
     },
     {
         "title": "Sapphire Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Sapphirevotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sapphire_votive"
     },
     {
         "title": "Shining Silver Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Shiningsilvermenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shining_silver_menorah"
     },
     {
         "title": "Silver Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Silvermenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_menorah"
     },
     {
         "title": "Snowflake Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Snowflakecandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowflake_candle"
     },
     {
         "title": "Solid Gold Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Solidgoldcandelabra.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "solid_gold_candelabra"
     },
     {
         "title": "Spring Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Springcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_candles"
     },
     {
         "title": "Spring Celebration Egg Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Springcelebrationeggcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_egg_candles"
     },
     {
         "title": "Table Top Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Tabletopcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "table_top_candles"
     },
     {
         "title": "Terrifying Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Terrifyingtorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "terrifying_torch"
     },
     {
         "title": "Tiki Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Tikicandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiki_candle"
     },
     {
         "title": "Tiki Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Tikitorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiki_torch"
     },
     {
         "title": "Tiki Torch Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Tikitorchlamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_torch_lamp"
     },
     {
         "title": "Topaz Votive",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Topazvotive.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "topaz_votive"
     },
     {
         "title": "Victorian Christmas Candelabra",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Victorianchristmascandelabra.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "victorian_christmas_candelabra"
     },
     {
         "title": "Wacky Christmas Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Wackychristmasgnomelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_christmas_gnome_lantern"
     },
     {
         "title": "Warm Wick Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Warmwickcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "warm_wick_candles"
     },
     {
         "title": "Whimsical Winter Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Whimsicalwintercandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "whimsical_winter_candle"
     },
     {
         "title": "White Christmas Centerpiece",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Whitechristmascenterpiece.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_christmas_centerpiece"
     },
     {
         "title": "Wicked Wizard Torch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Wickedwizardtorch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wicked_wizard_torch"
     },
     {
         "title": "Witch's Banquet Place Setting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Witchsbanquetplacesetting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "witch's_banquet_place_setting"
     },
     {
         "title": "WKF Calming Candles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Wkfcalmingcandles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wkf_calming_candles"
     },
     {
         "title": "Wooden Menorah",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Woodenmenorah.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wooden_menorah"
     },
     {
         "title": "Yule Log Cabin Candle",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Yulelogcabincandle.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yule_log_cabin_candle"
     }
 ]

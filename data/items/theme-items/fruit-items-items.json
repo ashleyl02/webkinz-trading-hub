@@ -2,461 +2,559 @@
     {
         "title": "Apple Basket",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Applebasket.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_basket"
     },
     {
         "title": "Apple Beanbag Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Applebeanbagchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_beanbag_chair"
     },
     {
         "title": "Apple Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Applebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_bed"
     },
     {
         "title": "Apple Blossom Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Appleblossombed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_bed"
     },
     {
         "title": "Apple Blossom Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Appleblossomchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_chair"
     },
     {
         "title": "Apple Blossom Curtains",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Appleblossomcurtains.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_curtains"
     },
     {
         "title": "Apple Blossom Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Appleblossomdresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_dresser"
     },
     {
         "title": "Apple Blossom Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Appleblossomrug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_rug"
     },
     {
         "title": "Apple Blossom Sofa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Appleblossomsofa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_sofa"
     },
     {
         "title": "Apple Blossom Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Appleblossomtree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_blossom_tree"
     },
     {
         "title": "Apple Blossom Wardrobe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Appleblossomwardrobe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_blossom_wardrobe"
     },
     {
         "title": "Apple Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Applecar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_car"
     },
     {
         "title": "Apple Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Applechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_chair"
     },
     {
         "title": "Apple Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/2018applechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_chair"
     },
     {
         "title": "Apple Cider Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Appleciderdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_cider_dispenser"
     },
     {
         "title": "Apple Cider Press",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Appleciderpress.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_cider_press"
     },
     {
         "title": "Apple Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Appleclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_clock"
     },
     {
         "title": "Apple Crate Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Applecratefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_crate_fridge"
     },
     {
         "title": "Apple Crumble",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Applecrumble.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_crumble"
     },
     {
         "title": "Apple Dessert Cart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Appledessertcart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_dessert_cart"
     },
     {
         "title": "Apple Farm Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Applefarmbarn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_barn"
     },
     {
         "title": "Apple Farm Floor Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Applefarmfloortile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_floor_tile"
     },
     {
         "title": "Apple Farm Picnic Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Applefarmpicnictable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_picnic_table"
     },
     {
         "title": "Apple Farm Picnic Table Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Applefarmpicnictablebench.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_picnic_table_bench"
     },
     {
         "title": "Apple Farm Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Applefarmwindow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_window"
     },
     {
         "title": "Apple Fritter Conveyor",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Applefritterconveyor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_fritter_conveyor"
     },
     {
         "title": "Apple Mosaic Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Applemosaictile.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_mosaic_tile"
     },
     {
         "title": "Apple Orchard Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Appleorchardbarn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_orchard_barn"
     },
     {
         "title": "Apple Orchard Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Appleorchardbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_orchard_bed"
     },
     {
         "title": "Apple Ottoman",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Appleottoman.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_ottoman"
     },
     {
         "title": "Apple Picking Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Applepickingsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_picking_sign"
     },
     {
         "title": "Apple Pie Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Applepiebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_pie_bed"
     },
     {
         "title": "Apple Pie Porridge Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Applepieporridgedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_pie_porridge_dispenser"
     },
     {
         "title": "Apple Pie Side Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Applepiesidetable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_pie_side_table"
     },
     {
         "title": "Apple Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Applerug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_rug"
     },
     {
         "title": "Apple Sapling Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Applesaplingtree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_sapling_tree"
     },
     {
         "title": "Apple Spiced Tea Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Applespicedteadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_spiced_tea_dispenser"
     },
     {
         "title": "Apple Swirl Lollipop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Appleswirllollipopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_swirl_lollipop_dispenser"
     },
     {
         "title": "Apple Tree Bookcase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Appletreebookcase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "apple_tree_bookcase"
     },
     {
         "title": "Apple Truck",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Appletruck.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_truck"
     },
     {
         "title": "Applesauce Maker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Applesaucemaker.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "applesauce_maker"
     },
     {
         "title": "Autumn Apple Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Autumnapplebench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_apple_bench"
     },
     {
         "title": "Autumn Apple Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Autumnapplechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_apple_chair"
     },
     {
         "title": "Autumn Apple Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Autumnappleswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_apple_swing"
     },
     {
         "title": "Autumn Apple Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Autumnapplewindow.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_apple_window"
     },
     {
         "title": "Best Friends Banana Apple Cupcake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Bestfriendsbananaapplecupcake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "best_friends_banana_apple_cupcake"
     },
     {
         "title": "Best Friends Strawberry Apple Cupcake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Bestfriendsstrawberryapplecupcake.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "best_friends_strawberry_apple_cupcake"
     },
     {
         "title": "Bowl Of Apples",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Bowlofapples.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bowl_of_apples"
     },
     {
         "title": "Bushels Of Apples",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Bushelsofapples.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bushels_of_apples"
     },
     {
         "title": "Candy Apple Booth",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Candyapplebooth.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_apple_booth"
     },
     {
         "title": "Candy Apple Crate Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Candyapplecratefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_apple_crate_fridge"
     },
     {
         "title": "Candy Apple House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Candyapplehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_apple_house"
     },
     {
         "title": "Candy Apple Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Candyappleseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_apple_seeds"
     },
     {
         "title": "Caramel Apple Drink Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Caramelappledrinkstation.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "caramel_apple_drink_station"
     },
     {
         "title": "Caramel Apple Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Caramelappleseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "caramel_apple_seeds"
     },
     {
         "title": "Chickee Candy Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Chickeecandyappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chickee_candy_apple_tree"
     },
     {
         "title": "Creepy Candy Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Creepycandyappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_candy_apple_tree"
     },
     {
         "title": "Custard Apple Tree Patio Plant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Custardappletreepatioplant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "custard_apple_tree_patio_plant"
     },
     {
         "title": "Diamond Apple",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Diamondapple.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diamond_apple"
     },
     {
         "title": "Emerald Apple",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Emeraldapple.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "emerald_apple"
     },
     {
         "title": "First Snow Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Firstsnowappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "first_snow_apple_tree"
     },
     {
         "title": "Fresh Apple Cider Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Freshapplecidersign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_apple_cider_sign"
     },
     {
-        "title": "Fresh Apple Pie",
-        "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Freshapplepie.png",
-        "is_tradeable": true
+        "title": "Fresh Apple Pie Chair",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Freshapplepiechair.png",
+        "is_tradeable": true,
+        "id": "fresh_apple_pie_chair"
+    },
+    {
+        "title": "Fresh Apple Pie Sofa",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Freshapplepiesofa.png",
+        "is_tradeable": true,
+        "id": "fresh_apple_pie_sofa"
     },
     {
         "title": "Golden Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Goldenappletree.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_apple_tree"
     },
     {
         "title": "Golden Delicious Apple Crate Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Goldendeliciousapplecratefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_delicious_apple_crate_fridge"
     },
     {
         "title": "Golden Delicious Apple Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Goldendeliciousappleseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_delicious_apple_seeds"
     },
     {
         "title": "Granny Smith Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Grannysmithappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "granny_smith_apple_tree"
     },
     {
         "title": "Green Apple Basket",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Greenapplebasket.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_basket"
     },
     {
         "title": "Green Apple Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Greenapplecar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_car"
     },
     {
         "title": "Green Apple Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Greenappleclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_clock"
     },
     {
         "title": "Green Apple Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Greenapplecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_cottage"
     },
     {
         "title": "Green Apple Crate Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Greenapplecratefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_crate_fridge"
     },
     {
         "title": "Green Apple Tree Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Greenappletreeseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_tree_seeds"
     },
     {
         "title": "Green Baked Apple Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Greenbakedappledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_baked_apple_dispenser"
     },
     {
         "title": "Holiday Candy Apple House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Holidaycandyapplehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_candy_apple_house"
     },
     {
         "title": "Maple Dipped Apple Crate Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Mapledippedapplecratefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "maple_dipped_apple_crate_fridge"
     },
     {
         "title": "Maple Dipped Apple Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Mapledippedappleseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "maple_dipped_apple_seeds"
     },
     {
         "title": "Orchard Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Orchardappletree.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orchard_apple_tree"
     },
     {
         "title": "Poison Apple Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Poisonappletreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "poison_apple_tree_swing"
     },
     {
         "title": "Rainbow Apple Floor Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Rainbowapplefloortile.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_apple_floor_tile"
     },
     {
         "title": "Rainbow Candy Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Rainbowcandyappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_candy_apple_tree"
     },
     {
         "title": "Red Apple Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Redapplecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_apple_cottage"
     },
     {
         "title": "Red Baked Apple Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Redbakedappledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_baked_apple_dispenser"
     },
     {
         "title": "Red Delicious Apple Tree Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Reddeliciousappletreeseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_delicious_apple_tree_seeds"
     },
     {
         "title": "Ruby Apple",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Rubyapple.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ruby_apple"
     },
     {
         "title": "Slice Of Apple Pie",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Sliceofapplepie.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slice_of_apple_pie"
     },
     {
         "title": "Sour Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Sourappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sour_apple_tree"
     },
     {
         "title": "Sparkling Apple Juice Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Sparklingapplejuicefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sparkling_apple_juice_fountain"
     },
     {
         "title": "Winter Carnival Candy Apple Stand",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Wintercarnivalcandyapplestand.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_carnival_candy_apple_stand"
     },
     {
         "title": "Wiz Kinz Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Wizkinzappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wiz_kinz_apple_tree"
     },
     {
         "title": "Wkf Emerald Apple",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Wkfemeraldapple.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wkf_emerald_apple"
     },
     {
         "title": "Zingoz Candy Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Zingozcandyappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_candy_apple_tree"
     }
 ]

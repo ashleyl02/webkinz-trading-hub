@@ -2,96 +2,115 @@
     {
         "title": "Aquarabed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Aquarabed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "aquarabed"
     },
     {
         "title": "Artist's Bunk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Artistsbunk.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "artist's_bunk"
     },
     {
         "title": "Artist's Pallet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Artistspallet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "artist's_pallet"
     },
     {
         "title": "Beachball Party Hammock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Beachballpartyhammock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beachball_party_hammock"
     },
     {
         "title": "Celebration Canopy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Celebrationcanopybed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_canopy_bed"
     },
     {
         "title": "Comfy Corner Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Comfycornerbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "comfy_corner_bed"
     },
     {
         "title": "Floating Cloud Haven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Floatingcloudhaven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floating_cloud_haven"
     },
     {
         "title": "Happy Ten Years Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Happytenyearsbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_ten_years_bed"
     },
     {
         "title": "Join the Adventure Sleeping Bag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Jointheadventuresleepingbag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "join_the_adventure_sleeping_bag"
     },
     {
         "title": "Lucky Rainbow Daybed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Luckyrainbowdaybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_rainbow_daybed"
     },
     {
         "title": "Magic W Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Magicwbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magic_w_bed"
     },
     {
         "title": "Over The Rainbow Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Overtherainbowbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "over_the_rainbow_bed"
     },
     {
         "title": "Pastel Pony Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Pastelponybed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pastel_pony_bed"
     },
     {
         "title": "Pretty Pallet Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Prettypalletbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pretty_pallet_bed"
     },
     {
         "title": "Quilted Rainbow Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Quiltedrainbowbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_rainbow_bed"
     },
     {
         "title": "Quilted Rainbow Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Quiltedrainbowtent.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_rainbow_tent"
     },
     {
         "title": "Rainbow Canopy Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Rainbowcanopybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_canopy_bed"
     },
     {
         "title": "Spring Egg Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Springeggbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_egg_bed"
     },
     {
         "title": "Sweet Stripes Dreams Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Sweetstripesdreamsbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_stripes_dreams_bed"
     }
 ]

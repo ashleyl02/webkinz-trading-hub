@@ -2,591 +2,709 @@
     {
         "title": "Autumn Apple Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Autumnappleswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_apple_swing"
     },
     {
         "title": "Autumn Living Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Autumnlivingswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_living_swing"
     },
     {
         "title": "Autumn Patio Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Autumnpatioswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_patio_swing"
     },
     {
         "title": "Autumn Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Autumnswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_swing"
     },
     {
         "title": "Autumn Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Autumntreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_tree_swing"
     },
     {
         "title": "Autumn Wood Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Autumnwoodswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_wood_swing"
     },
     {
         "title": "Backyard Fun Tire Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Backyardfuntireswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "backyard_fun_tire_swing"
     },
     {
         "title": "Backyard Living Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Backyardlivingswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backyard_living_swing"
     },
     {
         "title": "Bamboo Shoot Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Bamboochuteswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bamboo_shoot_swing"
     },
     {
         "title": "Beachball Party Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Beachballpartyswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beachball_party_swing"
     },
     {
         "title": "Beanstalk Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Beanstalkswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beanstalk_swing"
     },
     {
         "title": "Berry Patch Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Berrypatchswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "berry_patch_swing"
     },
     {
         "title": "Big Link Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Biglinkswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_link_swing"
     },
     {
         "title": "Big Pile of KinzCash Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Bigpileofkinzcashswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_swing"
     },
     {
         "title": "Blue Ribbon Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Blueribbonswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_ribbon_swing"
     },
     {
         "title": "Bonsai Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Bonsaitreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bonsai_tree_swing"
     },
     {
         "title": "Butterfly Conservatory Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Butterflyconservatoryswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "butterfly_conservatory_swing"
     },
     {
         "title": "CampKinz Sign Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Campkinzsignswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_sign_swing"
     },
     {
         "title": "Candy Cane Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Candycaneswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_swing"
     },
     {
         "title": "Celestial Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Celestialswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "celestial_swing"
     },
     {
         "title": "Cherry Blossom Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Cherryblossomtreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cherry_blossom_tree_swing"
     },
     {
         "title": "Cherry Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Cherryswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cherry_swing"
     },
     {
         "title": "Chocolate Playground Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Chocolateplaygroundswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_playground_swing"
     },
     {
         "title": "Cool Cat String Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Coolcatstringswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cool_cat_string_swing"
     },
     {
         "title": "Creepy Clock Tower Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Creepyclocktowerswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_clock_tower_swing"
     },
     {
         "title": "Cute Octopus Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Cuteoctopusswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cute_octopus_swing"
     },
     {
         "title": "Dino Egg Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Dinoeggswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dino_egg_swing"
     },
     {
         "title": "Easter Basket Porch Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Easterbasketporchswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "easter_basket_porch_swing"
     },
     {
         "title": "Eucalyptus Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Eucalyptustreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eucalyptus_tree_swing"
     },
     {
         "title": "Fairy Den Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Fairydentreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_tree_swing"
     },
     {
         "title": "Fall Floral Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Fallfloralswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_floral_swing"
     },
     {
         "title": "Fall Fun Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Fallfuntreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fun_tree_swing"
     },
     {
         "title": "Fall Teak Hammock Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Fallteakhammockswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_teak_hammock_swing"
     },
     {
         "title": "Forest Hollow Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Foresthollowswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "forest_hollow_swing"
     },
     {
         "title": "Frosty Playground Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Frostyplaygroundswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frosty_playground_swing"
     },
     {
         "title": "Garden Oasis Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Gardenoasisswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_oasis_swing"
     },
     {
         "title": "Garden Party Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Gardenpartyswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_party_swing"
     },
     {
         "title": "Gingerbread Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Gingerbreadswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_swing"
     },
     {
         "title": "Green Spring Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Greenspringswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_spring_swing"
     },
     {
         "title": "Hammock Chair Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Hammockchairswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hammock_chair_swing"
     },
     {
         "title": "Hanging Flower Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Hangingflowerchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hanging_flower_chair"
     },
     {
         "title": "Holiday Porch Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Holidayporchswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_porch_swing"
     },
     {
         "title": "Holiday Spirit Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Holidayspiritswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_spirit_swing"
     },
     {
         "title": "Hover Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Hoverswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hover_swing"
     },
     {
         "title": "Jolly Jumbleberry Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Jollyjumbleberryswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jolly_jumbleberry_swing"
     },
     {
         "title": "Jungle Nest Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Junglenestswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jungle_nest_swing"
     },
     {
         "title": "Kinzville Academy Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Kinzvilleacademyswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_academy_swing"
     },
     {
         "title": "Knitted Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Knittedswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "knitted_swing"
     },
     {
         "title": "Ladybug Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Ladybugswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ladybug_swing"
     },
     {
         "title": "Lazy Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Lazytreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lazy_tree_swing"
     },
     {
         "title": "Leprechaun Hat Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Leprechaunhatswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "leprechaun_hat_swing"
     },
     {
         "title": "Lollipop Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Lollipopswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lollipop_swing"
     },
     {
         "title": "Lovely Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Lovelyswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_swing"
     },
     {
         "title": "Lovely Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Lovelytreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_tree_swing"
     },
     {
         "title": "Lucky Clover Hanging Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Luckycloverhangingchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_clover_hanging_chair"
     },
     {
         "title": "Lunar Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Lunarswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lunar_swing"
     },
     {
         "title": "Magic Meadow Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Magicmeadowtreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_meadow_tree_swing"
     },
     {
         "title": "Morning Glory Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Morninggloryswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "morning_glory_swing"
     },
     {
         "title": "Mystical Purple Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Mysticalpurpletreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mystical_purple_tree_swing"
     },
     {
         "title": "Mystical Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Mysticaltreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mystical_tree_swing"
     },
     {
         "title": "Palm Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Palmtreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "palm_tree_swing"
     },
     {
         "title": "Persian Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Persianswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "persian_swing"
     },
     {
         "title": "Playground Chain Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Playgroundchainswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playground_chain_swing"
     },
     {
         "title": "Playground Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Playgroundswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "playground_swing"
     },
     {
         "title": "Poison Apple Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Poisonappletreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "poison_apple_tree_swing"
     },
     {
         "title": "Poinsettia Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Poinsettiaswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poinsettia_swing"
     },
     {
         "title": "Pond Tire Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Pondtireswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pond_tire_swing"
     },
     {
         "title": "Precious Purse Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Preciouspurseswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "precious_purse_swing"
     },
     {
         "title": "Pretty Pallet Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Prettypalletswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pallet_swing"
     },
     {
         "title": "Pretty Peppermint Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Prettypeppermintswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_peppermint_swing"
     },
     {
         "title": "Purple Hammock Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Purplehammockswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_hammock_swing"
     },
     {
         "title": "Purple Spring Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Purplespringswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_spring_swing"
     },
     {
         "title": "Refined Swing Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Refinedswingset.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "refined_swing_set"
     },
     {
         "title": "Rocket Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Rocketswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rocket_swing"
     },
     {
         "title": "Rosy Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Rosyswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rosy_swing"
     },
     {
         "title": "Schoolyard Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Schoolyardswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "schoolyard_swing"
     },
     {
         "title": "Schoolyard Swing Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Schoolyardswingset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "schoolyard_swing_set"
     },
     {
         "title": "Secluded Garden Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Secludedgardenswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_swing"
     },
     {
         "title": "Secluded Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Secludedswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_swing"
     },
     {
         "title": "Serene Green Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Serenegreenswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "serene_green_swing"
     },
     {
         "title": "Shamrocking Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Shamrockingswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shamrocking_swing"
     },
     {
         "title": "Sleigh Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Sleighswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sleigh_swing"
     },
     {
         "title": "Snowflake Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Snowflakeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowflake_swing"
     },
     {
         "title": "Spiderweb Swinging Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Spiderwebswingingchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spiderweb_swinging_chair"
     },
     {
         "title": "Spring Oasis Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Springoasistreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_oasis_tree_swing"
     },
     {
         "title": "Spring Sunroom Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Springsunroomswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_sunroom_swing"
     },
     {
         "title": "Springtime Tire Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Springtimetireswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "springtime_tire_swing"
     },
     {
         "title": "Sprinkles Donut Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Sprinklesdonuttreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sprinkles_donut_tree_swing"
     },
     {
         "title": "Sprocket Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Sprocketswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sprocket_swing"
     },
     {
         "title": "Summer Cedar Hammock Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Summercedarhammockswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_cedar_hammock_swing"
     },
     {
         "title": "Summer Teak Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Summerteakswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_teak_swing"
     },
     {
         "title": "Sunroom Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Sunroomswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunroom_swing"
     },
     {
         "title": "Super Sugar Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Supersugarswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_sugar_swing"
     },
     {
         "title": "Swing in the Sky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Swinginthesky.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "swing_in_the_sky"
     },
     {
         "title": "Swingset",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Swingset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "swingset"
     },
     {
         "title": "Tennis Ball Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Tennisballswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tennis_ball_swing"
     },
     {
         "title": "Terrifying Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Terrifyingtreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "terrifying_tree_swing"
     },
     {
         "title": "Three Ring Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Threeringswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "three_ring_swing"
     },
     {
         "title": "Tiki Swinging Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Tikiswingingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiki_swinging_chair"
     },
     {
         "title": "Tire Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Tiretreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tire_tree_swing"
     },
     {
         "title": "Toadstool Hollow Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Toadstoolhollowswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_swing"
     },
     {
         "title": "Toadstool Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Toadstoolswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_swing"
     },
     {
         "title": "Totally Tangled Liana Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Totallytangledlianaswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "totally_tangled_liana_swing"
     },
     {
         "title": "Tranquil Fall Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Tranquilfalltreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tranquil_fall_tree_swing"
     },
     {
         "title": "Tranquil Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Tranquiltreeswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tranquil_tree_swing"
     },
     {
         "title": "Underground Playground Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Undergroundplaygroundswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "underground_playground_swing"
     },
     {
         "title": "Vibrant Summer Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Vibrantsummerswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vibrant_summer_swing"
     },
     {
         "title": "Villa Courtyard Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Villacourtyardswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "villa_courtyard_swing"
     },
     {
         "title": "Violet Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Violettreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_tree_swing"
     },
     {
         "title": "Wacky Zingoz Porch Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Wackyzingozporchswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_porch_swing"
     },
     {
         "title": "Wacky Zingoz Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Wackyzingozswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_swing"
     },
     {
         "title": "Whimsical Wicker Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Whimsicalwickerswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "whimsical_wicker_swing"
     },
     {
         "title": "White Poinsettia Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Whitepoinsettiaswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_poinsettia_swing"
     },
     {
         "title": "Wild Apricot Tree Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Wildapricottreeswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wild_apricot_tree_swing"
     },
     {
         "title": "Winter Wreath Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Winterwreathswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wreath_swing"
     },
     {
         "title": "Wisteria Patio Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Wisteriapatioswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wisteria_patio_swing"
     },
     {
         "title": "Woodland Fairy Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Woodlandfairyswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "woodland_fairy_swing"
     },
     {
         "title": "Yellow Spring Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Yellowspringswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_spring_swing"
     }
 ]

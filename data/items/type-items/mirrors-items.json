@@ -2,226 +2,271 @@
     {
         "title": "1st Class Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/1stclassmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "1st_class_mirror"
     },
     {
         "title": "Antique Fashion Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Antiquefashionmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_fashion_mirror"
     },
     {
         "title": "Antique Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Antiquemirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_mirror"
     },
     {
         "title": "Antique Mirror Armoire",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Antiquemirrorarmoire.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "antique_mirror_armoire"
     },
     {
         "title": "Awesome Avocado Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Awesomeavocadodivider.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "awesome_avocado_divider"
     },
     {
         "title": "Ballerina Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Ballerinamirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ballerina_mirror"
     },
     {
         "title": "Ballerina Wall Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Ballerinawallmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ballerina_wall_mirror"
     },
     {
         "title": "Beach House Buoy Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Beachhousebuoymirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_house_buoy_mirror"
     },
     {
         "title": "Beautiful Swan Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Beautifulswanmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beautiful_swan_mirror"
     },
     {
         "title": "Blue Avenue Floor Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Blueavenuefloormirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_avenue_floor_mirror"
     },
     {
         "title": "Butterfly Wing Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Butterflywingmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "butterfly_wing_mirror"
     },
     {
         "title": "Charm Forest Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Charmforestmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charm_forest_mirror"
     },
     {
         "title": "Dance Studio Long Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Dancestudiolongmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dance_studio_long_mirror"
     },
     {
         "title": "Diplodocus Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Diplodocusdresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diplodocus_dresser"
     },
     {
         "title": "Enchanted Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Enchantedmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_mirror"
     },
     {
         "title": "Fanciful Bathroom Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Fancifulbathroommirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fanciful_bathroom_mirror"
     },
     {
         "title": "Fancy Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Fancymirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fancy_mirror"
     },
     {
         "title": "Farmhouse Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Farmhousemirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "farmhouse_mirror"
     },
     {
         "title": "Floral French Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Floralfrenchmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_french_mirror"
     },
     {
         "title": "Floral French Vanity",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Floralfrenchvanity.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_french_vanity"
     },
     {
         "title": "Glampire Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Glampiremirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glampire_mirror"
     },
     {
         "title": "Golden Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Goldenmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_mirror"
     },
     {
         "title": "Gym Workout Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Gymworkoutmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gym_workout_mirror"
     },
     {
         "title": "Halloween Ball Standing Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Halloweenballstandingmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_ball_standing_mirror"
     },
     {
         "title": "Haunted Hotel Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Hauntedhotelmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_hotel_mirror"
     },
     {
         "title": "Lavender Flair Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Lavenderflairmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_flair_mirror"
     },
     {
         "title": "Magic Maiden Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Magicmaidenmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_maiden_mirror"
     },
     {
         "title": "Magic Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Magicmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_mirror"
     },
     {
         "title": "Magic Mirror Vanity",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Magicmirrorvanity.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_mirror_vanity"
     },
     {
         "title": "Majestic Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Majesticmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "majestic_mirror"
     },
     {
         "title": "Mosaic Mirror Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Mosaicmirrorset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mosaic_mirror_set"
     },
     {
         "title": "Mysterious Mirror Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Mysteriousmirrordresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mysterious_mirror_dresser"
     },
     {
         "title": "Polka Dot Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Polkadotmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "polka_dot_mirror"
     },
     {
         "title": "Pop Star Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Popstarmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pop_star_mirror"
     },
     {
         "title": "Red Antique Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Redantiquemirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_antique_mirror"
     },
     {
         "title": "Red Velvet Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Redvelvetmirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_velvet_mirror"
     },
     {
         "title": "Sea Blue Wave Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Seabluewavemirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sea_blue_wave_mirror"
     },
     {
         "title": "Sparkling Luxury Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Sparklingluxurymirror.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sparkling_luxury_mirror"
     },
     {
         "title": "Studio Mirror with Stretching Bar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Studiomirrorwithstretchingbar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "studio_mirror_with_stretching_bar"
     },
     {
         "title": "Tall Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Tallmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tall_mirror"
     },
     {
         "title": "Tri-Mirror Ebony Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Trimirrorebonydresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tri-mirror_ebony_dresser"
     },
     {
         "title": "Tri-Mirror Mocha Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Trimirrormochadresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tri-mirror_mocha_dresser"
     },
     {
         "title": "Winterfest Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Winterfestmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_mirror"
     },
     {
         "title": "Winter Wonderland Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Winterwonderlandmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wonderland_mirror"
     },
     {
         "title": "Wizard's Magic Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Wizardsmagicmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wizard's_magic_mirror"
     }
 ]

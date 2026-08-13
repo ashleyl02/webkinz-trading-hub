@@ -2,1596 +2,1915 @@
     {
         "title": "10th Anniversary Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/10thanniversaryarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "10th_anniversary_armchair"
     },
     {
         "title": "After Party Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Afterpartychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "after_party_chair"
     },
     {
         "title": "Amber Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Amberarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "amber_armchair"
     },
     {
         "title": "Amusing Argyle Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Amusingargylearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "amusing_argyle_armchair"
     },
     {
         "title": "Armchair Racer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Armchairracer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "armchair_racer"
     },
     {
         "title": "Art Deco Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Artdecoarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "art_deco_armchair"
     },
     {
         "title": "Atomic Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Atomicarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "atomic_armchair"
     },
     {
         "title": "Autumn Dreams Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Autumndreamsarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_dreams_armchair"
     },
     {
         "title": "Backgammon Galore Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Backgammongalorechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backgammon_galore_chair"
     },
     {
         "title": "Baseball Glove Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Baseballglovechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_glove_chair"
     },
     {
         "title": "Beach House Seashell Sofa Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Beachhouseseashellsofachair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_house_seashell_sofa_chair"
     },
     {
         "title": "Beach House Striped Sofa Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Beachhousestripedsofachair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_house_striped_sofa_chair"
     },
     {
         "title": "Beach Resort Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Beachresortchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "beach_resort_chair"
     },
     {
         "title": "Bee-autiful Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Beeautifularmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bee-autiful_armchair"
     },
     {
         "title": "Berry Delight Grey Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Berrydelightgreyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_delight_grey_armchair"
     },
     {
         "title": "Bloomin' Comfy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Bloomincomfychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bloomin'_comfy_chair"
     },
     {
         "title": "Blue Avenue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Blueavenuearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_avenue_armchair"
     },
     {
         "title": "Blue Funky Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Bluefunkychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_funky_chair"
     },
     {
         "title": "Blush Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Blusharmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blush_armchair"
     },
     {
         "title": "Blushing Hearts Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Blushingheartsarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blushing_hearts_armchair"
     },
     {
         "title": "Bone Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Bonelounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bone_lounger"
     },
     {
         "title": "Boomin' Black Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Boominblackloungechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "boomin'_black_lounge_chair"
     },
     {
         "title": "Boomin' Green Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Boomingreenchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "boomin'_green_chair"
     },
     {
         "title": "Bratty Zum Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Brattyzumlounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bratty_zum_lounger"
     },
     {
         "title": "Brilliant Brainstorm Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Brilliantbrainstormchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "brilliant_brainstorm_chair"
     },
     {
         "title": "Brilliant Fall Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Brilliantfallarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "brilliant_fall_armchair"
     },
     {
         "title": "Bubble Wrap Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Bubblewrapchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubble_wrap_chair"
     },
     {
         "title": "Calm Hearts Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Calmheartsarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "calm_hearts_armchair"
     },
     {
         "title": "Candy Cane Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Candycanechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_chair"
     },
     {
         "title": "Captain Webkinz Captain's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Captainwebkinzcaptainschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "captain_webkinz_captain's_chair"
     },
     {
         "title": "Card Collector Lounging Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Cardcollectorloungingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "card_collector_lounging_chair"
     },
     {
         "title": "Carrot Spring Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Carrotspringchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "carrot_spring_chair"
     },
     {
         "title": "Chair of Clubs",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Chairofclubs.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chair_of_clubs"
     },
     {
         "title": "Chair of Diamonds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Chairofdiamonds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chair_of_diamonds"
     },
     {
         "title": "Chair of Hearts",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Chairofhearts.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chair_of_hearts"
     },
     {
         "title": "Chair of Hearts",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Chairofspades.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chair_of_hearts"
     },
     {
         "title": "Charmed Chamber Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Charmedchamberchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charmed_chamber_chair"
     },
     {
         "title": "Charm Forest Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Charmforestarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charm_forest_armchair"
     },
     {
         "title": "Cheerful Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Cheerfularmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_armchair"
     },
     {
         "title": "Cheerful Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Cheerfulchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheerful_chair"
     },
     {
         "title": "Cheery Chirp Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Cheerychirparmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheery_chirp_armchair"
     },
     {
         "title": "Cheery Winter Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Cheerywinterarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheery_winter_armchair"
     },
     {
         "title": "Chilly Lounging Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Chillyloungingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chilly_lounging_chair"
     },
     {
         "title": "Chocolate Striped Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Chocolatestripedarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_striped_armchair"
     },
     {
         "title": "Christmas Cabin Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Christmascabinarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_cabin_armchair"
     },
     {
         "title": "City Hall Head Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Cityhallheadchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "city_hall_head_chair"
     },
     {
         "title": "City Hall Head Chair Replica",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Cityhallheadchairreplica.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "city_hall_head_chair_replica"
     },
     {
         "title": "City Skyline Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Cityskylinearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "city_skyline_armchair"
     },
     {
         "title": "Cloud Kingdom Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Cloudkingdomchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cloud_kingdom_chair"
     },
     {
         "title": "Cloudy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Cloudyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cloudy_armchair"
     },
     {
         "title": "Color Changing Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Colorchangingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "color_changing_chair"
     },
     {
         "title": "Colorblock Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Colorblockchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "colorblock_chair"
     },
     {
         "title": "Comfy Coral Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Comfycoralchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "comfy_coral_chair"
     },
     {
         "title": "Comfy Corner Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Comfycornerarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "comfy_corner_armchair"
     },
     {
         "title": "Cool Blue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Coolbluearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cool_blue_armchair"
     },
     {
         "title": "Cool Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Coolloungechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cool_lounge_chair"
     },
     {
         "title": "Copasetic Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Copaseticchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "copasetic_chair"
     },
     {
         "title": "Country Farm Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Countryfarmarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "country_farm_armchair"
     },
     {
         "title": "Country Farm Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Countryfarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "country_farm_chair"
     },
     {
         "title": "Country Farm Wing Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Countryfarmwingchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "country_farm_wing_chair"
     },
     {
         "title": "Country Quilt Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Countryquiltchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "country_quilt_chair"
     },
     {
         "title": "Countryside Cottage Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Countrysidecottagearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "countryside_cottage_armchair"
     },
     {
         "title": "Cozy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Cozyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_armchair"
     },
     {
         "title": "Cozy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/2019cozyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_armchair"
     },
     {
         "title": "Cozy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/2026cozyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_armchair"
     },
     {
         "title": "Cozy Cable Knit Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Cozycableknitchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_cable_knit_chair"
     },
     {
         "title": "Cozy Christmas Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Cozychristmasarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_christmas_armchair"
     },
     {
         "title": "Cozy Condo Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Cozycondoarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_condo_armchair"
     },
     {
         "title": "Cozy Crochet Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Cozycrochetarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_crochet_armchair"
     },
     {
         "title": "Cozy Mohair Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Cozymohairarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_mohair_armchair"
     },
     {
         "title": "Cozy Pattern Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Cozypatternarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_pattern_armchair"
     },
     {
         "title": "Cozy Pink Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Cozypinkarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_pink_armchair"
     },
     {
         "title": "Cozy Snowflake Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Cozysnowflakearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_snowflake_armchair"
     },
     {
         "title": "Cozy Winter Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Cozywinterarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_winter_armchair"
     },
     {
         "title": "Cozy Winter Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Cozywinterloungechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_winter_lounge_chair"
     },
     {
         "title": "Creepy Crypt Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Creepycryptseat.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_crypt_seat"
     },
     {
         "title": "Crisp Autumn Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Crispautumnarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crisp_autumn_armchair"
     },
     {
         "title": "Crisp Autumn Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Crispautumnchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crisp_autumn_chair"
     },
     {
         "title": "Cute Cozy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Cutecozychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_cozy_chair"
     },
     {
         "title": "Cute Kiwi Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Cutekiwiarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_kiwi_armchair"
     },
     {
         "title": "Daisy Blooms Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Daisybloomschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "daisy_blooms_chair"
     },
     {
         "title": "Dame Dash Captain's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Damedashcaptainschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dame_dash_captain's_chair"
     },
     {
         "title": "Dancing Dasher Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Dancingdasherarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_dasher_armchair"
     },
     {
         "title": "Dancing Dasher Patterned Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Dancingdasherpatternedchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_dasher_patterned_chair"
     },
     {
         "title": "Dark Red Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Darkredchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dark_red_chair"
     },
     {
         "title": "Dark Teal Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Darktealarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_teal_armchair"
     },
     {
         "title": "Dark Wizard Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Darkwizardchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_wizard_chair"
     },
     {
         "title": "Darling Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Darlingchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "darling_chair"
     },
     {
         "title": "Day Off Breakfast Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Dayoffbreakfastmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "day_off_breakfast_machine"
     },
     {
         "title": "Delightful Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Delightfulchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "delightful_chair"
     },
     {
         "title": "Denim & Lace Blue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Denim%26lacebluearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "denim_&_lace_blue_armchair"
     },
     {
         "title": "Denim & Lace Tan Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Denim%26lacetanarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "denim_&_lace_tan_armchair"
     },
     {
         "title": "Dex Dangerous Master Control Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Dexdangerousmastercontrolchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dex_dangerous_master_control_chair"
     },
     {
         "title": "Divine Dream Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Divinedreamarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "divine_dream_armchair"
     },
     {
         "title": "DIY Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Diyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_armchair"
     },
     {
         "title": "DIY Black Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Diyblackarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_black_armchair"
     },
     {
         "title": "DIY Blue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Diybluearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_blue_armchair"
     },
     {
         "title": "DIY Green Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Diygreenarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_green_armchair"
     },
     {
         "title": "DIY Pastel Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Diypastelarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_pastel_armchair"
     },
     {
         "title": "DIY Pink Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Diypinkarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_pink_armchair"
     },
     {
         "title": "DIY Purple Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Diypurplearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_purple_armchair"
     },
     {
         "title": "DIY Red Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Diyredarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_red_armchair"
     },
     {
         "title": "DIY Retro Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Diyretroarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_retro_armchair"
     },
     {
         "title": "DIY Tropical Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Diytropicalarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_tropical_armchair"
     },
     {
         "title": "Dog Bone Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Dogbonechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dog_bone_chair"
     },
     {
         "title": "Doodle Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Doodlechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "doodle_chair"
     },
     {
         "title": "Downtown Chic Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Downtownchicchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "downtown_chic_chair"
     },
     {
         "title": "Downtown Pink Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Downtownpinkarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "downtown_pink_armchair"
     },
     {
         "title": "Downtown White Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Downtownwhitearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "downtown_white_armchair"
     },
     {
         "title": "Dragon Hero Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Dragonherochair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dragon_hero_chair"
     },
     {
         "title": "Draped Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Drapedchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "draped_chair"
     },
     {
         "title": "Eclectic Head of the Table Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Eclecticheadofthetablechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eclectic_head_of_the_table_chair"
     },
     {
         "title": "Eerie Dreary Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Eeriedrearychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eerie_dreary_chair"
     },
     {
         "title": "Elegant Blush Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Elegantblushchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "elegant_blush_chair"
     },
     {
         "title": "Emerald Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Emeraldarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "emerald_armchair"
     },
     {
         "title": "Fabulous Fuchsia Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Fabulousfuchsiaarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fabulous_fuchsia_armchair"
     },
     {
         "title": "Fair Weather Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Fairweatherarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fair_weather_armchair"
     },
     {
         "title": "Fall Blooms Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Fallbloomsarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_blooms_armchair"
     },
     {
         "title": "Fall Flair Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Fallflairchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_flair_chair"
     },
     {
         "title": "Fan Tail Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Fantailchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fan_tail_chair"
     },
     {
         "title": "Fantastic Floral Comfy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Fantasticfloralcomfychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fantastic_floral_comfy_chair"
     },
     {
         "title": "Fluffington's Antique Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Fluffingtonsantiquearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fluffington's_antique_armchair"
     },
     {
         "title": "Flurry Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Flurryarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flurry_armchair"
     },
     {
         "title": "Fly 90s Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Fly90sarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fly_90s_armchair"
     },
     {
         "title": "Flying Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Flyingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flying_chair"
     },
     {
         "title": "Forest Green Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Forestgreenarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "forest_green_armchair"
     },
     {
         "title": "Friendly Froggy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Friendlyfroggychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_froggy_chair"
     },
     {
         "title": "Frosty Blue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Frostybluearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frosty_blue_armchair"
     },
     {
         "title": "Frosty Blue Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Frostybluechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frosty_blue_chair"
     },
     {
         "title": "Fun Peach Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Funpeacharmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fun_peach_armchair"
     },
     {
         "title": "Garnet Desk Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Garnetdeskchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garnet_desk_chair"
     },
     {
         "title": "Giant Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Giantchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "giant_chair"
     },
     {
         "title": "Gift Wrapped Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Giftwrappedchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gift_wrapped_chair"
     },
     {
         "title": "Gingerkinz Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Gingerkinzarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerkinz_armchair"
     },
     {
         "title": "Glam Gold Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Glamgoldarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glam_gold_armchair"
     },
     {
         "title": "Glampire Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Glampirechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glampire_chair"
     },
     {
         "title": "Gold Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Goldarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_armchair"
     },
     {
         "title": "Golden Goal Stadium Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Goldengoalstadiumseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_goal_stadium_seat"
     },
     {
         "title": "Golden Loader Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Goldenloaderlounger.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "golden_loader_lounger"
     },
     {
         "title": "Gold Sparkle Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Goldsparklearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_sparkle_armchair"
     },
     {
         "title": "Good Fortune Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Goodfortunearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "good_fortune_armchair"
     },
     {
         "title": "Good Fortune Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Goodfortunechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "good_fortune_chair"
     },
     {
         "title": "Gothic Halloween Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Gothichalloweenchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_chair"
     },
     {
         "title": "Gray Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Grayarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gray_armchair"
     },
     {
         "title": "Great Hall Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Greathallchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "great_hall_chair"
     },
     {
         "title": "Green Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Greenarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_armchair"
     },
     {
         "title": "Green Cheery Winter Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Greencheerywinterarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_cheery_winter_armchair"
     },
     {
         "title": "Green Plaid Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Greenplaidarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_plaid_armchair"
     },
     {
         "title": "Grey Cable Knit Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Greycableknitarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grey_cable_knit_armchair"
     },
     {
         "title": "Halloween Ball Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Halloweenballchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_ball_chair"
     },
     {
         "title": "Harmony Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Harmonychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "harmony_chair"
     },
     {
         "title": "Helping Paws Club Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Helpingpawsclubarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_armchair"
     },
     {
         "title": "Holiday Flair Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Holidayflairarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_flair_armchair"
     },
     {
         "title": "Holiday Plaid Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Holidayplaidarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_plaid_armchair"
     },
     {
         "title": "Holiday Silver Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Holidaysilverchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_silver_chair"
     },
     {
         "title": "Homespun Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Homespunarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "homespun_armchair"
     },
     {
         "title": "Hotel Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Hotelchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hotel_chair"
     },
     {
         "title": "Icy North Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Icynortharmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icy_north_armchair"
     },
     {
         "title": "Incredible Levitating Pet Illusion",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Incrediblelevitatingpetillusion.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "incredible_levitating_pet_illusion"
     },
     {
         "title": "Infinite Inferno Capain's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Infiniteinfernocaptainschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "infinite_inferno_capain's_chair"
     },
     {
         "title": "Inflatable Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Inflatablechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "inflatable_chair"
     },
     {
         "title": "Jack O'Lantern Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Jackolanternchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jack_o'lantern_chair"
     },
     {
         "title": "Jolly Jubilee Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Jollyjubileearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jubilee_armchair"
     },
     {
         "title": "Jolly Jumbleberry Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Jollyjumbleberrylounger.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jumbleberry_lounger"
     },
     {
         "title": "Jolly Roger Captain's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Jollyrogercaptainschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jolly_roger_captain's_chair"
     },
     {
         "title": "Jumbleberry Arm Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Jumbleberryarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jumbleberry_arm_chair"
     },
     {
         "title": "Just Lovely Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Justlovelylounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "just_lovely_lounger"
     },
     {
         "title": "Keen Green Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Keengreenchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "keen_green_chair"
     },
     {
         "title": "Keep Cozy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Keepcozyarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "keep_cozy_armchair"
     },
     {
         "title": "Keep Cozy Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Keepcozyloungechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "keep_cozy_lounge_chair"
     },
     {
         "title": "KinzAir Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Kinzairseat.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzair_seat"
     },
     {
         "title": "Lavender Flair Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Lavenderflairchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_flair_chair"
     },
     {
         "title": "Lavish Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Lavishlounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lavish_lounger"
     },
     {
         "title": "Leather Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Leatherarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leather_armchair"
     },
     {
         "title": "Lemon Drop Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Lemondroparmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lemon_drop_armchair"
     },
     {
         "title": "Light Living Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Lightlivingarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "light_living_armchair"
     },
     {
         "title": "Lime Corinthian Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Limecorinthianlounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lime_corinthian_lounger"
     },
     {
         "title": "Loader Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Loaderlounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "loader_lounger"
     },
     {
         "title": "Love Letter Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Loveletterarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "love_letter_armchair"
     },
     {
         "title": "Lovely Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Lovelyarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_armchair"
     },
     {
         "title": "Lovely Monkey Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Lovelymonkeyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_monkey_armchair"
     },
     {
         "title": "Lucky Rainbow Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Luckyrainbowchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_rainbow_chair"
     },
     {
         "title": "Lush Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Lushloungechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lush_lounge_chair"
     },
     {
         "title": "Manic Magic Audience Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Manicmagicaudiencechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "manic_magic_audience_chair"
     },
     {
         "title": "Marine Adventures Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Marineadventuresarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "marine_adventures_armchair"
     },
     {
         "title": "Merry Mid Century Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Merrymidcenturyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "merry_mid_century_armchair"
     },
     {
         "title": "Midnight Ice Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Midnighticearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "midnight_ice_armchair"
     },
     {
         "title": "Mod Holiday Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Modholidaychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mod_holiday_chair"
     },
     {
         "title": "Mod Patio Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Modpatiochair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mod_patio_chair"
     },
     {
         "title": "Mod Raspberry Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Modraspberrylounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mod_raspberry_lounger"
     },
     {
         "title": "Modern Blue Leather Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Modernblueleatherchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_blue_leather_chair"
     },
     {
         "title": "Modern Farmhouse Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Modernfarmhousearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "modern_farmhouse_armchair"
     },
     {
         "title": "Modern Green Leather Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Moderngreenleatherchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_green_leather_chair"
     },
     {
         "title": "Modern Purple Leather Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Modernpurpleleatherchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_purple_leather_chair"
     },
     {
         "title": "Modern Red Leather Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Modernredleatherchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_red_leather_chair"
     },
     {
         "title": "Modern White Leather Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Modernwhiteleatherchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_white_leather_chair"
     },
     {
         "title": "Moonberry Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Moonberryarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonberry_armchair"
     },
     {
         "title": "Movie Theater Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Movietheaterarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "movie_theater_armchair"
     },
     {
         "title": "Ms. Cowoline Reading Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Mscowolinereadingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ms._cowoline_reading_chair"
     },
     {
         "title": "Music Note Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Musicnotechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "music_note_chair"
     },
     {
         "title": "Nafaria's Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Nafariasarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nafaria's_armchair"
     },
     {
         "title": "Neon Blue Cube Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Neonbluecubechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "neon_blue_cube_chair"
     },
     {
         "title": "Night and Day Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Nightanddaychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "night_and_day_chair"
     },
     {
         "title": "Olympus Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Olympusarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_armchair"
     },
     {
         "title": "Orange Comfy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Orangecomfyarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "orange_comfy_armchair"
     },
     {
         "title": "Orange Plush Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Orangeplusharmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_plush_armchair"
     },
     {
         "title": "Pampered Celeb Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Pamperedcelebchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pampered_celeb_chair"
     },
     {
         "title": "Patchwork Holiday Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Patchworkholidayarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "patchwork_holiday_armchair"
     },
     {
         "title": "Peppermint Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Peppermintchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peppermint_chair"
     },
     {
         "title": "Perfectly Purple Arm Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Perfectlypurplearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "perfectly_purple_arm_chair"
     },
     {
         "title": "Pink Cozy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Pinkcozychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pink_cozy_chair"
     },
     {
         "title": "Plush Purple Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Plushpurplearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "plush_purple_armchair"
     },
     {
         "title": "Polar PJ Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Polarpjchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polar_pj_chair"
     },
     {
         "title": "Police Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Policechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "police_chair"
     },
     {
         "title": "Polka Dot Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Polkadotchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "polka_dot_chair"
     },
     {
         "title": "Poofy Poodle Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Poofypoodlechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poofy_poodle_chair"
     },
     {
         "title": "Posh Penthouse Blue Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Poshpenthousebluearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "posh_penthouse_blue_armchair"
     },
     {
         "title": "Posh Penthouse Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Poshpenthousechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "posh_penthouse_chair"
     },
     {
         "title": "Precious Plum Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Preciousplumchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "precious_plum_chair"
     },
     {
         "title": "Pretty Pastel Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Prettypastelarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pastel_armchair"
     },
     {
         "title": "Pure Elegance Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Pureelegancechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pure_elegance_chair"
     },
     {
         "title": "Purple Frost Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Purplefrostarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_frost_armchair"
     },
     {
         "title": "Purple Leather Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Purpleleatherarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_leather_armchair"
     },
     {
         "title": "Quilted Christmas Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Quiltedchristmasarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_christmas_armchair"
     },
     {
         "title": "Quilted Hearts Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Quiltedheartsarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quilted_hearts_armchair"
     },
     {
         "title": "Red Antique Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Redantiquechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_antique_chair"
     },
     {
         "title": "Red Striped Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Redstripedarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_striped_armchair"
     },
     {
         "title": "Red Velvet Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Redvelvetarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_velvet_armchair"
     },
     {
         "title": "Red Velvet Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Redvelvetchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_velvet_chair"
     },
     {
         "title": "Regal Suite Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Regalsuitearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regal_suite_armchair"
     },
     {
         "title": "Regency Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Regencychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regency_chair"
     },
     {
         "title": "Relaxing Red Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Relaxingredarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "relaxing_red_armchair"
     },
     {
         "title": "Rockin' Red Lounge Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Rockinredloungechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rockin'_red_lounge_chair"
     },
     {
         "title": "Ruffled Antique Arm Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Ruffledantiquearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ruffled_antique_arm_chair"
     },
     {
         "title": "Russet Ranch Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Russetrancharmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "russet_ranch_armchair"
     },
     {
         "title": "Rustic Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Rusticchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rustic_chair"
     },
     {
         "title": "Santakinz' Christmas Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Santakinzchristmaschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz'_christmas_chair"
     },
     {
         "title": "SantaKinz Wing Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Santakinzwingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_wing_chair"
     },
     {
         "title": "Seahorse Settee",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Seahorsesettee.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seahorse_settee"
     },
     {
         "title": "Seaside Manor Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Seasidemanorchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seaside_manor_chair"
     },
     {
         "title": "Seat Stripes Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Seatstripesarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seat_stripes_armchair"
     },
     {
         "title": "Simple Snow Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Simplesnowarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "simple_snow_armchair"
     },
     {
         "title": "Simply Floral Comfy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Simplyfloralcomfychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "simply_floral_comfy_chair"
     },
     {
         "title": "Sizzling Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Sizzlingseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sizzling_seat"
     },
     {
         "title": "Sky Berry Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Skyberryarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sky_berry_armchair"
     },
     {
         "title": "Sleek Sequin Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Sleeksequinarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sleek_sequin_armchair"
     },
     {
         "title": "Smiling Sun Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Smilingsunarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "smiling_sun_armchair"
     },
     {
         "title": "Snowflake Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Snowflakechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snowflake_chair"
     },
     {
         "title": "Snowman Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Snowmanarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_armchair"
     },
     {
         "title": "Snowman Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Snowmanlounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_lounger"
     },
     {
         "title": "Snug Bug Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Snugbugarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snug_bug_armchair"
     },
     {
         "title": "Soft Autumn Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Softautumnarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_autumn_armchair"
     },
     {
         "title": "Soft Daisy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Softdaisyarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_daisy_armchair"
     },
     {
         "title": "Soft Daisy Peach Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Softdaisypeacharmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_daisy_peach_armchair"
     },
     {
         "title": "Soft Gray Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Softgrayarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_gray_armchair"
     },
     {
         "title": "Soft Green Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Softgreenarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_green_armchair"
     },
     {
         "title": "Soft Petals Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Softpetalschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_petals_chair"
     },
     {
         "title": "Soft Spring Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Softspringchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_spring_chair"
     },
     {
         "title": "Southwestern Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Southwesternchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "southwestern_chair"
     },
     {
         "title": "Spooky Gothic Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Spookygothicarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_gothic_armchair"
     },
     {
         "title": "Spring Breeze Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Springbreezearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_breeze_armchair"
     },
     {
         "title": "Spring Breeze Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Springbreezechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_breeze_chair"
     },
     {
         "title": "Spring Cottage Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Springcottagechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_cottage_chair"
     },
     {
         "title": "Spring Floral Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Springfloralchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_floral_chair"
     },
     {
         "title": "Spring Petals Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Springpetalsarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_petals_armchair"
     },
     {
         "title": "Spring Plaid Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Springplaidchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_plaid_chair"
     },
     {
         "title": "Spring Yellow Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Springyellowchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_yellow_chair"
     },
     {
         "title": "Spymaster Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Spymasterchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spymaster_chair"
     },
     {
         "title": "Stadium Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Stadiumseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stadium_seat"
     },
     {
         "title": "Starry Slumber Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Starryslumberarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starry_slumber_armchair"
     },
     {
         "title": "Stasis Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Stasisseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stasis_seat"
     },
     {
         "title": "Stylish Kitchen Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Stylishkitchenarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stylish_kitchen_armchair"
     },
     {
         "title": "Sugar and Spice Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Sugarandspicearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugar_and_spice_armchair"
     },
     {
         "title": "Sugarberry Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Sugarberryarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sugarberry_armchair"
     },
     {
         "title": "Sugar Plum Sparkle Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Sugarplumsparklechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sugar_plum_sparkle_chair"
     },
     {
         "title": "Sultan's Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Sultansseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sultan's_seat"
     },
     {
         "title": "Summer Berry Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Summerberrychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_berry_chair"
     },
     {
         "title": "Summer Blooms Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Summerbloomschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_blooms_chair"
     },
     {
         "title": "Summer Garden Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Summergardenchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_garden_chair"
     },
     {
         "title": "Summer Plaid Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Summerplaidchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_plaid_chair"
     },
     {
         "title": "Sunday Sports Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Sundaysportschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sunday_sports_chair"
     },
     {
         "title": "Sun Lamp Reading Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Sunlampreadingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sun_lamp_reading_chair"
     },
     {
         "title": "Sunny Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Sunnylounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunny_lounger"
     },
     {
         "title": "Superfan Comfy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Superfancomfychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "superfan_comfy_chair"
     },
     {
         "title": "Sweet Blush Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Sweetblusharmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_blush_armchair"
     },
     {
         "title": "Sweetheart Reading Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Sweetheartreadingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_reading_chair"
     },
     {
         "title": "Sweet Spring Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Sweetspringarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweet_spring_armchair"
     },
     {
         "title": "Taupe Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Taupearmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "taupe_armchair"
     },
     {
         "title": "Telepathy Titan Captain's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Telepathytitancaptainschair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "telepathy_titan_captain's_chair"
     },
     {
         "title": "Tender Tidings Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Tendertidingschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tender_tidings_chair"
     },
     {
         "title": "Terra Cotta Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Terracottachair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "terra_cotta_chair"
     },
     {
         "title": "Tinkerpunk Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Tinkerpunkarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tinkerpunk_armchair"
     },
     {
         "title": "Town Square Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Townsquarechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "town_square_chair"
     },
     {
         "title": "Trading Card 2.0 Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Tradingcard20chair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trading_card_2.0_chair"
     },
     {
         "title": "Trading Card Condo Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Tradingcardcondolounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trading_card_condo_lounger"
     },
     {
         "title": "Tropical Oasis Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Tropicaloasisarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_oasis_armchair"
     },
     {
         "title": "Unbirthday Party Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Unbirthdaypartychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "unbirthday_party_chair"
     },
     {
         "title": "Up and Away Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Upandawaychair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "up_and_away_chair"
     },
     {
         "title": "Upbeat Chic Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Upbeatchicarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "upbeat_chic_armchair"
     },
     {
         "title": "Vaudeville Judge's Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Vaudevillejudgeschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "vaudeville_judge's_chair"
     },
     {
         "title": "Vibrant Vibes Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Vibrantvibesarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "vibrant_vibes_armchair"
     },
     {
         "title": "Victorian Christmas Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Victorianchristmaschair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "victorian_christmas_chair"
     },
     {
         "title": "VIP Terminal Seating",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ef/Vipterminalseating.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "vip_terminal_seating"
     },
     {
         "title": "Vivid Violet Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Vividvioletarmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vivid_violet_armchair"
     },
     {
         "title": "Warm & Cozy Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Warm%26cozychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "warm_&_cozy_chair"
     },
     {
         "title": "Webkinz Day Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Webkinzdaylounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_lounger"
     },
     {
         "title": "White Chocolate Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Whitechocolatechair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "white_chocolate_chair"
     },
     {
         "title": "Wicked Halloween Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Wickedhalloweenarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wicked_halloween_armchair"
     },
     {
         "title": "Wildflower Witch Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Wildflowerwitchchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wildflower_witch_chair"
     },
     {
         "title": "Wild Savannah Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Wildsavannaharmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_savannah_armchair"
     },
     {
         "title": "Wing Back Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Wingbackchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wing_back_chair"
     },
     {
         "title": "Winter Chill Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Winterchillarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_chill_armchair"
     },
     {
         "title": "Winterfest Reading Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Winterfestreadingchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winterfest_reading_chair"
     },
     {
         "title": "Winter Polar Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Winterpolararmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_polar_armchair"
     },
     {
         "title": "Winter Polar Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Winterpolarchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_polar_chair"
     },
     {
         "title": "Winter Retreat Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Winterretreatchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_retreat_chair"
     },
     {
         "title": "Yellow Comfy Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Yellowcomfyarmchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "yellow_comfy_armchair"
     },
     {
         "title": "You and Me Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Youandmechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "you_and_me_chair"
     },
     {
         "title": "Yuletide Armchair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Yuletidearmchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yuletide_armchair"
     }
 ]

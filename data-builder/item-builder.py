@@ -50,10 +50,13 @@ for group in collection_groups:
 
             is_tradeable = cells[2].get_text(strip=True) == "Yes"
 
+            id = cells[0].get_text(strip=True).lower().replace(" ", "_")
+
             items.append({
                 "title": title,
                 "image_url": image_url,
-                "is_tradeable": is_tradeable
+                "is_tradeable": is_tradeable,
+                "id": id
             })
 
         output_file = output / f"{collection['id']}-items.json"

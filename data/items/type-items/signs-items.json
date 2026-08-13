@@ -2,86 +2,103 @@
     {
         "title": "Antiques Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Antiquessign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antiques_sign"
     },
     {
         "title": "Beware of Pirates Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Bewareofpiratessign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beware_of_pirates_sign"
     },
     {
         "title": "Farm Fresh Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Farmfreshsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "farm_fresh_sign"
     },
     {
         "title": "Framed Campaign Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Framedcampaignsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "framed_campaign_sign"
     },
     {
         "title": "Fresh Apple Cider Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Freshapplecidersign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_apple_cider_sign"
     },
     {
         "title": "Happy Birthday Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Happybirthdayballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_birthday_balloons"
     },
     {
         "title": "Holiday Tree Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Holidaytreesign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_tree_sign"
     },
     {
         "title": "Home Grown Corn Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Homegrowncornsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "home_grown_corn_sign"
     },
     {
         "title": "Hot Cocoa Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Hotcocoasign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hot_cocoa_sign"
     },
     {
         "title": "Ice Cream Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Icecreamsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_cream_sign"
     },
     {
         "title": "Lovely Light Display",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Lovelylightdisplay.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_light_display"
     },
     {
         "title": "Mod Holiday Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Modholidaysign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mod_holiday_sign"
     },
     {
         "title": "Retro Farm Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Retrofarmsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "retro_farm_sign"
     },
     {
         "title": "Sewing Club Display",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Sewingclubdisplay.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sewing_club_display"
     },
     {
         "title": "Vintage Pumpkin Patch Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Vintagepumpkinpatchsign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vintage_pumpkin_patch_sign"
     },
     {
         "title": "Webkinz Pasta Art",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Webkinzpastaart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_pasta_art"
     },
     {
         "title": "Welcome Sign",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Welcomesign.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "welcome_sign"
     }
 ]

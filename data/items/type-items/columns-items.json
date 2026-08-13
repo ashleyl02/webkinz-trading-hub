@@ -2,341 +2,409 @@
     {
         "title": "Ancient Ionic Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Ancientioniccolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ancient_ionic_column"
     },
     {
         "title": "Antique Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Antiquecolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "antique_column"
     },
     {
         "title": "Autumn Elf Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Autumnelfcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_elf_column"
     },
     {
         "title": "Autumn Elf Fireplace",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Autumnelffireplace.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_elf_fireplace"
     },
     {
         "title": "Autumn Elf Rotating Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Autumnelfrotatingcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_elf_rotating_column"
     },
     {
         "title": "Berry Delight Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Berrydelightcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_delight_column"
     },
     {
         "title": "Birthday Candle Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Birthdaycandlepillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "birthday_candle_pillar"
     },
     {
         "title": "Bright Bazaar Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Brightbazaarcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bright_bazaar_column"
     },
     {
         "title": "Butterfly Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Butterflypillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "butterfly_pillar"
     },
     {
         "title": "Candy Cane Balloon Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Candycaneballooncolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_balloon_column"
     },
     {
         "title": "Celebration Balloon Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Celebrationballooncolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_balloon_column"
     },
     {
         "title": "Chalet Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Chaletcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chalet_column"
     },
     {
         "title": "Charming Stone Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Charmingstonecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charming_stone_column"
     },
     {
         "title": "Chocolate Chip Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Chocolatechipcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_chip_column"
     },
     {
         "title": "Cloud Kingdom Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Cloudkingdompillar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cloud_kingdom_pillar"
     },
     {
         "title": "Creative Studio Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Creativestudiocolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "creative_studio_column"
     },
     {
         "title": "Creepy Swamp Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Creepyswampcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_swamp_column"
     },
     {
         "title": "Dragon Hero Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Dragonheropillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dragon_hero_pillar"
     },
     {
         "title": "Elegant Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Elegantcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elegant_column"
     },
     {
         "title": "Elegant Stone Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Elegantstonepillar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elegant_stone_pillar"
     },
     {
         "title": "Enchanted Elves Cross Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Enchantedelvescrosspillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanted_elves_cross_pillar"
     },
     {
         "title": "Enchanted Elves Side Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Enchantedelvessidepillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanted_elves_side_pillar"
     },
     {
         "title": "Enchanted Train Station Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Enchantedtrainstationpillar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_train_station_pillar"
     },
     {
         "title": "Fancy Frozen Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Fancyfrozencolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_frozen_column"
     },
     {
         "title": "Fossil Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Fossilpillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fossil_pillar"
     },
     {
         "title": "Freaky Stone Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Freakystonecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "freaky_stone_column"
     },
     {
         "title": "Grand Egyptian Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Grandegyptiancolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grand_egyptian_column"
     },
     {
         "title": "Hanging Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Hanginglantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hanging_lantern"
     },
     {
         "title": "Haunted Stone Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Hauntedstonecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_stone_column"
     },
     {
         "title": "Hearts Desire Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Heartsdesirecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hearts_desire_column"
     },
     {
         "title": "Helping Paws Club Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Helpingpawsclubcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_column"
     },
     {
         "title": "Home for the Holidays Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Homefortheholidayscolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "home_for_the_holidays_column"
     },
     {
         "title": "Jolly Jubilee Wreath Poles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Jollyjubileewreathpoles.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jubilee_wreath_poles"
     },
     {
         "title": "Lost City Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Lostcitycolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lost_city_column"
     },
     {
         "title": "Magic Meadow Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Magicmeadowcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_meadow_column"
     },
     {
         "title": "Medieval Stone Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Medievalstonecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_stone_column"
     },
     {
         "title": "Mighty Golden Trophy Pedestal",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Mightygoldentrophypedestal.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mighty_golden_trophy_pedestal"
     },
     {
         "title": "Nice Nutcracker Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Nicenutcrackercolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nice_nutcracker_column"
     },
     {
         "title": "Noble Elf Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Nobleelfcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "noble_elf_column"
     },
     {
         "title": "Olympus Column Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Olympuscolumnlamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_column_lamp"
     },
     {
         "title": "Ornament Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Ornamentcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ornament_column"
     },
     {
         "title": "Paint Brush Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Paintbrushcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "paint_brush_column"
     },
     {
         "title": "Party Time Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Partytimecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "party_time_column"
     },
     {
         "title": "Pine Garland Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Pinegarlandcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pine_garland_column"
     },
     {
         "title": "Polished Pumpkin Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Polishedpumpkinlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polished_pumpkin_lamp"
     },
     {
         "title": "Red Antique Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Redantiquecolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_antique_column"
     },
     {
         "title": "Saltwater Reef Coral Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Saltwaterreefcoralcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "saltwater_reef_coral_column"
     },
     {
         "title": "Seashell Spiral Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Seashellspiralcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "seashell_spiral_column"
     },
     {
         "title": "Secluded Garden Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Secludedgardenpillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_pillar"
     },
     {
         "title": "Special Celebration Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Specialcelebrationpillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "special_celebration_pillar"
     },
     {
         "title": "Spooky Gothic Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Spookygothiccolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_gothic_column"
     },
     {
         "title": "Spooky School Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Spookyschoolcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_school_column"
     },
     {
         "title": "Studio Loft Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Studioloftcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "studio_loft_column"
     },
     {
         "title": "Sunken Dining Room Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Sunkendiningroomcolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sunken_dining_room_column"
     },
     {
         "title": "Sewing Club Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Sewingclubcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sewing_club_column"
     },
     {
         "title": "Tomato Plant Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Tomatoplantpillar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tomato_plant_pillar"
     },
     {
         "title": "Totem Pole",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Totempole.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "totem_pole"
     },
     {
         "title": "Totem Pole Safe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Totempolesafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "totem_pole_safe"
     },
     {
         "title": "Toxic Bog Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Toxicbogcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toxic_bog_column"
     },
     {
         "title": "Tribal Totem",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Tribaltotem.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tribal_totem"
     },
     {
         "title": "Underwater Ruins Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Underwaterruinscolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "underwater_ruins_column"
     },
     {
         "title": "Weathered Barn Pillar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Weatheredbarnpillar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_barn_pillar"
     },
     {
         "title": "Webkinz Totem Pole",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Webkinztotempole.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_totem_pole"
     },
     {
         "title": "Wildflower Witch Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Wildflowerwitchcolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wildflower_witch_column"
     },
     {
         "title": "Winter Patio Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Winterpatiocolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_patio_column"
     },
     {
         "title": "Wisteria Patio Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Wisteriapatiocolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wisteria_patio_column"
     },
     {
         "title": "Wiz Kinz Flower Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Wizkinzflowercolumn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wiz_kinz_flower_column"
     },
     {
         "title": "Year 20 Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Year20column.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_column"
     }
 ]

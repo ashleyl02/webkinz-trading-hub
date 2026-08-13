@@ -2,86 +2,103 @@
     {
         "title": "Black Cat Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Blackcatbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "black_cat_bed"
     },
     {
         "title": "Cool Slumber Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Coolslumberbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cool_slumber_bed"
     },
     {
         "title": "Cozy Yacht Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Cozyyachtbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_yacht_bed"
     },
     {
         "title": "DIY Black Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Diyblackbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_black_bed"
     },
     {
         "title": "Ebony Dreams Low Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Ebonydreamslowbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ebony_dreams_low_bed"
     },
     {
         "title": "Glam Gold Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Glamgoldbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glam_gold_bed"
     },
     {
         "title": "Glampire Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Glampirebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glampire_bed"
     },
     {
         "title": "Gothic Halloween Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Gothichalloweenbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_bed"
     },
     {
         "title": "Jolly Roger Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Jollyrogerbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jolly_roger_bed"
     },
     {
         "title": "Lady Bug Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Ladybugbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lady_bug_bed"
     },
     {
         "title": "Plush Autumn Owl Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Plushautumnowlbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "plush_autumn_owl_bed"
     },
     {
         "title": "Polka Dot Bunk Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Polkadotbunkbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polka_dot_bunk_bed"
     },
     {
         "title": "Pure Elegance Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Pureelegancebed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pure_elegance_bed"
     },
     {
         "title": "Regal Suite Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Regalsuitebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regal_suite_bed"
     },
     {
         "title": "Silver Trailer Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Silvertrailerbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_trailer_bed"
     },
     {
         "title": "Spooky Gothic Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Spookygothicbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_gothic_bed"
     },
     {
         "title": "Spooky School Dorm Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Spookyschooldormbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_school_dorm_bed"
     }
 ]

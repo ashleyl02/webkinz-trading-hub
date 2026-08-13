@@ -2,291 +2,349 @@
     {
         "title": "Autumn Mushroom Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Autumnmushroomnook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_mushroom_nook"
     },
     {
         "title": "Blue Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Bluetoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_toadstool_slide"
     },
     {
         "title": "Cheerful Burrow Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Cheerfulburrowmushroomlamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheerful_burrow_mushroom_lamp"
     },
     {
         "title": "Creepy Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Creepymushrooms.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "creepy_mushrooms"
     },
     {
         "title": "Creepy Swamp Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Creepyswampmushrooms.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_swamp_mushrooms"
     },
     {
         "title": "Enchanted Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Enchantedmushroomlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_mushroom_lamp"
     },
     {
         "title": "Enchanted Toadstool Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Enchantedtoadstoolbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanted_toadstool_bed"
     },
     {
         "title": "Enchanted Toadstool Bedside Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Enchantedtoadstoolbedsidetable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanted_toadstool_bedside_table"
     },
     {
         "title": "Enchanted Toadstool Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Enchantedtoadstoolpond.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_toadstool_pond"
     },
     {
         "title": "Fairy Den Mushroom Patch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Fairydenmushroompatch.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fairy_den_mushroom_patch"
     },
     {
         "title": "Fairy Den Toadstool Stool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Fairydentoadstoolstool.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fairy_den_toadstool_stool"
     },
     {
         "title": "Fairy Den Toadstool Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Fairydentoadstooltable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fairy_den_toadstool_table"
     },
     {
         "title": "Fairy Den Toadstool Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Fairydentoadstooltrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_toadstool_trampoline"
     },
     {
         "title": "Goblin Toadstool Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Goblintoadstoolbench.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goblin_toadstool_bench"
     },
     {
         "title": "Green Mushroom Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Greenmushroomchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_chair"
     },
     {
         "title": "Green Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Greenmushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_cottage"
     },
     {
         "title": "Green Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Greenmushroomlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_lamp"
     },
     {
         "title": "Green Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Greenmushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_mushroom_trampoline"
     },
     {
         "title": "Lovely Toadstool Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Lovelytoadstoollamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_toadstool_lamp"
     },
     {
         "title": "Mushroom Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Mushroomhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mushroom_home"
     },
     {
         "title": "Mushroom Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Mushroomhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mushroom_hot_air_balloon"
     },
     {
         "title": "Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Mushroomlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mushroom_lamp"
     },
     {
         "title": "Orange Mushroom Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Orangemushroomchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_chair"
     },
     {
         "title": "Orange Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Orangemushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_cottage"
     },
     {
         "title": "Orange Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Orangemushroomlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_lamp"
     },
     {
         "title": "Orange Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Orangemushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_mushroom_trampoline"
     },
     {
         "title": "Orange Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Orangetoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_toadstool_slide"
     },
     {
         "title": "Purple Mushroom Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Purplemushroomchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_chair"
     },
     {
         "title": "Purple Mushroom Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Purplemushroomcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_cottage"
     },
     {
         "title": "Purple Mushroom Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Purplemushroomlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_lamp"
     },
     {
         "title": "Purple Mushroom Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Purplemushroomtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_mushroom_trampoline"
     },
     {
         "title": "Purple Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Purpletoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_toadstool_slide"
     },
     {
         "title": "Quirky Cauldron Toadstool Hamper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Quirkycauldrontoadstoolhamper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quirky_cauldron_toadstool_hamper"
     },
     {
         "title": "Rainbow Toadstool Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Rainbowtoadstoolchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_toadstool_chair"
     },
     {
         "title": "Rainbow Toadstool Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Rainbowtoadstoolcottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_toadstool_cottage"
     },
     {
         "title": "Tall Toadstool Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Talltoadstoolhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tall_toadstool_home"
     },
     {
         "title": "Terrific Toadstool Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Terrifictoadstooldresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "terrific_toadstool_dresser"
     },
     {
         "title": "Toadstool Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Toadstoolbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toadstool_bench"
     },
     {
         "title": "Toadstool Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Toadstoolchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_chair"
     },
     {
         "title": "Toadstool Dining Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Toadstooldiningchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_dining_chair"
     },
     {
         "title": "Toadstool Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Toadstoolgrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_grill"
     },
     {
         "title": "Toadstool Hollow Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Toadstoolhollowbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_bed"
     },
     {
         "title": "Toadstool Hollow Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Toadstoolhollowchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_chair"
     },
     {
         "title": "Toadstool Hollow Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Toadstoolhollowlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_lamp"
     },
     {
         "title": "Toadstool Hollow Mushroom Patch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Toadstoolhollowmushroompatch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_mushroom_patch"
     },
     {
         "title": "Toadstool Hollow Short Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Toadstoolhollowshortcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_short_cottage"
     },
     {
         "title": "Toadstool Hollow Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Toadstoolhollowswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_swing"
     },
     {
         "title": "Toadstool Hollow Tall Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Toadstoolhollowtallcottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_tall_cottage"
     },
     {
         "title": "Toadstool Hollow Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Toadstoolhollowtrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_hollow_trampoline"
     },
     {
         "title": "Toadstool Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Toadstoolswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toadstool_swing"
     },
     {
         "title": "Toadstool Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Toadstooltable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_table"
     },
     {
         "title": "Toadstool Tea Party Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Toadstoolteapartychair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_tea_party_chair"
     },
     {
         "title": "Toadstool Trampoline",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Toadstooltrampoline.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_trampoline"
     },
     {
         "title": "Toxic Mushroom Patch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Toxicmushroompatch.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toxic_mushroom_patch"
     },
     {
         "title": "Wild Blue Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Wildbluemushrooms.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wild_blue_mushrooms"
     },
     {
         "title": "Wild Chocolate Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Wildchocolatemushrooms.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wild_chocolate_mushrooms"
     },
     {
         "title": "Wild Mushroom",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Wildmushroom.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wild_mushroom"
     },
     {
         "title": "Wild Red Mushrooms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Wildredmushrooms.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wild_red_mushrooms"
     }
 ]

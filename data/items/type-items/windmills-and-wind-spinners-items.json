@@ -2,121 +2,145 @@
     {
         "title": "Berry Farm Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Berryfarmwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_farm_windmill"
     },
     {
         "title": "Blue Ribbon Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Blueribbonwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_ribbon_windmill"
     },
     {
         "title": "Cheerful Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Cheerfulwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheerful_windmill"
     },
     {
         "title": "Dragon Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Dragonwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_windmill"
     },
     {
         "title": "Fairy Den Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Fairydenwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_windmill"
     },
     {
         "title": "Flower Power Wind Turbine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Flowerpowerwindturbine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flower_power_wind_turbine"
     },
     {
         "title": "Fun Flower Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Funflowerwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fun_flower_windmill"
     },
     {
         "title": "Garden Windmill Spinner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Gardenwindmillspinner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_windmill_spinner"
     },
     {
         "title": "Lucky Clover Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Luckycloverwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_clover_windmill"
     },
     {
         "title": "Mini Golf Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Minigolfwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mini_golf_windmill"
     },
     {
         "title": "Mini Wind Turbine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Miniwindturbine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mini_wind_turbine"
     },
     {
         "title": "Modern Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Modernwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_windmill"
     },
     {
         "title": "Painted Sunflower Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Paintedsunflowerwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_sunflower_windmill"
     },
     {
         "title": "Spooky Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Spookywindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_windmill"
     },
     {
         "title": "Spring Oasis Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Springoasiswindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_oasis_windmill"
     },
     {
         "title": "Spring Tulips Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Springtulipswindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_tulips_windmill"
     },
     {
         "title": "Tiger Lily Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Tigerlilywindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiger_lily_windmill"
     },
     {
         "title": "Tulip Tower Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Tuliptowerwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tulip_tower_windmill"
     },
     {
         "title": "Waffle Cone Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Waffleconewindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "waffle_cone_windmill"
     },
     {
         "title": "Weather Station Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Weatherstationwindmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "weather_station_windmill"
     },
     {
         "title": "Weathered Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Weatheredwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_windmill"
     },
     {
         "title": "Wind Farm Turbine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Windfarmturbine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wind_farm_turbine"
     },
     {
         "title": "Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Windmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "windmill"
     },
     {
         "title": "Windmill Replica",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Windmillreplica.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "windmill_replica"
     }
 ]

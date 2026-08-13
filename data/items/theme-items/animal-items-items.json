@@ -2,56 +2,67 @@
     {
         "title": "Crocodile Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Crocodilecookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crocodile_cookie_dispenser"
     },
     {
         "title": "Crocodile Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Crocodilelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crocodile_lantern"
     },
     {
         "title": "Crocodile Pet Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Crocodilepetlamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crocodile_pet_lamp"
     },
     {
         "title": "Crocodile Poster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Crocodileposter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crocodile_poster"
     },
     {
         "title": "Crocodile Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Crocodilerug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crocodile_rug"
     },
     {
         "title": "Crystal Croc Wading Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Crystalcrocwadingpool.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crystal_croc_wading_pool"
     },
     {
         "title": "Friendly Alligator Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Friendlyalligatorpond.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_alligator_pond"
     },
     {
         "title": "Lazy Nile River Ride",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Lazynileriverride.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lazy_nile_river_ride"
     },
     {
         "title": "Plush Crocodile Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Plushcrocodilebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "plush_crocodile_bed"
     },
     {
         "title": "Plush Crocodile Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Plushcrocodilechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "plush_crocodile_chair"
     },
     {
         "title": "Swim Star Crocodile Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Swimstarcrocodilefigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "swim_star_crocodile_figure"
     }
 ]

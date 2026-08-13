@@ -2,66 +2,79 @@
     {
         "title": "Alyssa House Flag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Alyssahouseflag.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "alyssa_house_flag"
     },
     {
         "title": "CampKinz Flag Pole",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Campkinzflagpole.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_flag_pole"
     },
     {
         "title": "Fall Fest Flags",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Fallfestflags.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_flags"
     },
     {
         "title": "Finish Flag Racing Poles",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Finishflagracingpoles.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "finish_flag_racing_poles"
     },
     {
         "title": "Kinzville Academy Flag Pole",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Kinzvilleacademyflagpole.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_flag_pole"
     },
     {
         "title": "Kinzville Flag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Kinzvilleflag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_flag"
     },
     {
         "title": "Kinzville Pennant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Kinzvillepennant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_pennant"
     },
     {
         "title": "Nafaria House Flag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Nafariahouseflag.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nafaria_house_flag"
     },
     {
         "title": "Parade Route Flag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Paraderouteflag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "parade_route_flag"
     },
     {
         "title": "Pennant Poster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Pennantposter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pennant_poster"
     },
     {
         "title": "Pirate Flag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Pirateflag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pirate_flag"
     },
     {
         "title": "Pirate Flag Post",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Pirateflagpost.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pirate_flag_post"
     },
     {
         "title": "Soccer Pennant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Soccerpennant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soccer_pennant"
     }
 ]

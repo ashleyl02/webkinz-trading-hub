@@ -2,161 +2,193 @@
     {
         "title": "Baseball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Baseball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball"
     },
     {
         "title": "Baseball Bat Rack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Baseballbatrack.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_bat_rack"
     },
     {
         "title": "Baseball Bat Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Baseballbatrug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_bat_rug"
     },
     {
         "title": "Baseball Beanbag Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Baseballbeanbagchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_beanbag_chair"
     },
     {
         "title": "Baseball Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Baseballbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_bed"
     },
     {
         "title": "Baseball Billboard",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Baseballbillboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_billboard"
     },
     {
         "title": "Baseball Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Baseballcar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_car"
     },
     {
         "title": "Baseball Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Baseballchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_chair"
     },
     {
         "title": "Baseball Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Baseballdesk.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_desk"
     },
     {
         "title": "Baseball Dresser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Baseballdresser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_dresser"
     },
     {
         "title": "Baseball Dugout",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Baseballdugout.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_dugout"
     },
     {
         "title": "Baseball Field",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Baseballfield.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_field"
     },
     {
         "title": "Baseball Flooring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Baseballflooring.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_flooring"
     },
     {
         "title": "Baseball Glove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Baseballglove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_glove"
     },
     {
         "title": "Baseball Glove Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Baseballglovechair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_glove_chair"
     },
     {
         "title": "Baseball Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Baseballhat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_hat"
     },
     {
         "title": "Baseball Locker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Baseballlocker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_locker"
     },
     {
         "title": "Baseball Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Baseballplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_plushy"
     },
     {
         "title": "Baseball Side Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Baseballsidetable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_side_table"
     },
     {
         "title": "Baseball Sofa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Baseballsofa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_sofa"
     },
     {
         "title": "Baseball Stadium Bleachers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Baseballstadiumbleachers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_stadium_bleachers"
     },
     {
         "title": "Baseball Stadium Seats",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Baseballstadiumseats.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_stadium_seats"
     },
     {
         "title": "Baseball Stars Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Baseballstarsbanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_stars_banner"
     },
     {
         "title": "Baseball Stool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Baseballstool.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_stool"
     },
     {
         "title": "Baseball Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Baseballtable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_table"
     },
     {
         "title": "Baseball Television",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Baseballtelevision.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_television"
     },
     {
         "title": "Baseball Toy Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Baseballtoybox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_toy_box"
     },
     {
         "title": "Baseball Wall Shelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Baseballwallshelf.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_wall_shelf"
     },
     {
         "title": "Baseball Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Baseballwallpaper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "baseball_wallpaper"
     },
     {
         "title": "Field Of Dreams Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Fieldofdreamsbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "field_of_dreams_bed"
     },
     {
         "title": "Framed Team Wacky Jersey",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Framedteamwackyjersey.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "framed_team_wacky_jersey"
     },
     {
         "title": "Kinzville Baseball Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Kinzvillebaseballtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_baseball_trophy"
     }
 ]

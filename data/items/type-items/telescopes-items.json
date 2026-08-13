@@ -2,101 +2,121 @@
     {
         "title": "Aquarius Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Aquariusstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aquarius_stargazing_telescope"
     },
     {
         "title": "Aries Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Ariesstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aries_stargazing_telescope"
     },
     {
         "title": "Astronomer's Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Astronomersdesk.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "astronomer's_desk"
     },
     {
         "title": "Boys Only Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Boysonlytreehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "boys_only_treehouse"
     },
     {
         "title": "Cancer Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Cancerstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cancer_stargazing_telescope"
     },
     {
         "title": "Capricorn Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Capricornstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "capricorn_stargazing_telescope"
     },
     {
         "title": "Dex Dangerous Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Dexdangeroustelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dex_dangerous_telescope"
     },
     {
         "title": "Gemini Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Geministargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gemini_stargazing_telescope"
     },
     {
         "title": "Interstellar Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Interstellartelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "interstellar_telescope"
     },
     {
         "title": "Leo Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Leostargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leo_stargazing_telescope"
     },
     {
         "title": "Libra Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Librastargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "libra_stargazing_telescope"
     },
     {
         "title": "Pisces Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Piscesstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pisces_stargazing_telescope"
     },
     {
         "title": "Sagittarius Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Sagittariusstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sagittarius_stargazing_telescope"
     },
     {
         "title": "Scorpio Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Scorpiostargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scorpio_stargazing_telescope"
     },
     {
         "title": "Stargazing Deck",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Stargazingdeck.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stargazing_deck"
     },
     {
         "title": "Starry Night Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Starrynighttelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starry_night_telescope"
     },
     {
         "title": "Taurus Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Taurusstargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "taurus_stargazing_telescope"
     },
     {
         "title": "Treetop Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Treetoptelescope.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "treetop_telescope"
     },
     {
         "title": "Virgo Stargazing Telescope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Virgostargazingtelescope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "virgo_stargazing_telescope"
     },
     {
         "title": "Zum Scope",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Zumscope.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zum_scope"
     }
 ]

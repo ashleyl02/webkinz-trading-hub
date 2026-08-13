@@ -2,61 +2,73 @@
     {
         "title": "Berry Chewing Gum Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Berrychewinggumtree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "berry_chewing_gum_tree"
     },
     {
         "title": "Bubblegum Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Bubblegumballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubblegum_balloon"
     },
     {
         "title": "Bubblegum Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Bubblegumbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubblegum_bathtub"
     },
     {
         "title": "Bubblegum Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Bubblegumbouncer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegum_bouncer"
     },
     {
         "title": "Bubblegum Roll Candy Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Bubblegumrollcandytree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegum_roll_candy_tree"
     },
     {
         "title": "Bubblegum Volcano",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Bubblegumvolcano.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegum_volcano"
     },
     {
         "title": "Bubblegumasaurus Flooring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Bubblegumasaurusflooring.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegumasaurus_flooring"
     },
     {
         "title": "Bubblegumasaurus Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Bubblegumasauruswallpaper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubblegumasaurus_wallpaper"
     },
     {
         "title": "Chewtastic Coffee Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Chewtasticcoffeetable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chewtastic_coffee_table"
     },
     {
         "title": "Gum Fall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Gumfallslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gum_fall_slide"
     },
     {
         "title": "Pink Bubblegum Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Pinkbubblegumcar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_bubblegum_car"
     },
     {
         "title": "Super Sticky Sofa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Superstickysofa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_sticky_sofa"
     }
 ]

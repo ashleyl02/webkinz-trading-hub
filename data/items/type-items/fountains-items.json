@@ -2,771 +2,925 @@
     {
         "title": "Academy Drinking Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Academydrinkingfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_drinking_fountain"
     },
     {
         "title": "Apollo Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Apollofountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apollo_fountain"
     },
     {
         "title": "Autumn Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Autumnfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_fountain"
     },
     {
         "title": "Autumn Fountain of WOW",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Autumnfountainofwow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_fountain_of_wow"
     },
     {
         "title": "Autumn Owl Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Autumnowlfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_owl_fountain"
     },
     {
         "title": "Aztec Cat Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Azteccatfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aztec_cat_fountain"
     },
     {
         "title": "Bear Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Bearfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bear_fountain"
     },
     {
         "title": "Blossoming Waterfall Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Blossomingwaterfallfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blossoming_waterfall_fountain"
     },
     {
         "title": "Blueberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Blueberryfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blueberry_fountain"
     },
     {
         "title": "Bluebell Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Bluebellfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bluebell_fountain"
     },
     {
         "title": "Bright Bazaar Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Brightbazaarfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bright_bazaar_fountain"
     },
     {
         "title": "Bubble Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Bubblefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bubble_fountain"
     },
     {
         "title": "Bubble Wall Fountain Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Bubblewallfountaindivider.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubble_wall_fountain_divider"
     },
     {
         "title": "Buttercup Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Buttercupfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "buttercup_fountain"
     },
     {
         "title": "Candy Corn Castle Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Candycorncastlefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_corn_castle_fountain"
     },
     {
         "title": "Carved Gem Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Carvedgemfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "carved_gem_fountain"
     },
     {
         "title": "Cascading Hearts Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Cascadingheartsfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cascading_hearts_fountain"
     },
     {
         "title": "Charming Wishing Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Charmingwishingfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charming_wishing_fountain"
     },
     {
         "title": "Chocolate Fondue Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Chocolatefonduefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_fondue_fountain"
     },
     {
         "title": "Chocolate Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Chocolatefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_fountain"
     },
     {
         "title": "Classic Villa Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Classicvillafountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "classic_villa_fountain"
     },
     {
         "title": "Coconut Oasis Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Coconutoasisfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "coconut_oasis_fountain"
     },
     {
         "title": "Crater Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Craterfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "crater_fountain"
     },
     {
         "title": "Creepy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Creepyfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_fountain"
     },
     {
         "title": "Crystal Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Crystalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crystal_fountain"
     },
     {
         "title": "Cupid's Shimmering Spring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Cupidsshimmeringspring.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cupid's_shimmering_spring"
     },
     {
         "title": "Dog Bone Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Dogbonefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dog_bone_fountain"
     },
     {
         "title": "Darling Duck Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Darlingduckfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "darling_duck_fountain"
     },
     {
         "title": "Drinking Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Drinkingfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "drinking_fountain"
     },
     {
         "title": "Egg Basket Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Eggbasketfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "egg_basket_fountain"
     },
     {
         "title": "Eggstra-Special Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Eggstraspecialfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "eggstra-special_fountain"
     },
     {
         "title": "Elegant Ice Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Eleganticefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "elegant_ice_fountain"
     },
     {
         "title": "Elegant Victorian Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Elegantvictorianfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elegant_victorian_fountain"
     },
     {
         "title": "Elephant Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Elephantfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elephant_fountain"
     },
     {
         "title": "Enchanted Garden Cascading Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Enchantedgardencascadingfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_garden_cascading_fountain"
     },
     {
         "title": "Enchanted Garden Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Enchantedgardenfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_garden_fountain"
     },
     {
         "title": "English Garden Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Englishgardenfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "english_garden_fountain"
     },
     {
         "title": "Fairy Falls Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Fairyfallsfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_falls_fountain"
     },
     {
         "title": "Fall Floral Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Fallfloralfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_floral_fountain"
     },
     {
         "title": "Fancy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Fancyfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_fountain"
     },
     {
         "title": "Fancy Fountain Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Fancyfountainbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fancy_fountain_bench"
     },
     {
         "title": "Fantastical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Fantasticalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fantastical_fountain"
     },
     {
         "title": "Fantasy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Fantasyfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fantasy_fountain"
     },
     {
         "title": "Festive Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Festivefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_fountain"
     },
     {
         "title": "Fierce Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Fiercefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fierce_fountain"
     },
     {
         "title": "Fiesta Tiled Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Fiestatiledfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fiesta_tiled_fountain"
     },
     {
         "title": "Fiery Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Fieryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fiery_fountain"
     },
     {
         "title": "Fine Fowl Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Finefowlfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fine_fowl_fountain"
     },
     {
         "title": "Flower Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Flowerfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flower_fountain"
     },
     {
         "title": "Fountain of WOW",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Fountainofwow.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fountain_of_wow"
     },
     {
         "title": "Fresh Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Freshwaterfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_water_fountain"
     },
     {
         "title": "Friendly Frog Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Friendlyfrogfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_frog_fountain"
     },
     {
         "title": "Frog Prince Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Frogprincefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frog_prince_fountain"
     },
     {
         "title": "Frozen Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Frozenfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frozen_fountain"
     },
     {
         "title": "Garden Party Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Gardenpartyfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_party_fountain"
     },
     {
         "title": "Good vs. Bad Fairy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Goodvsbadfairyfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "good_vs._bad_fairy_fountain"
     },
     {
         "title": "Halloween Ball Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Halloweenballfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_ball_fountain"
     },
     {
         "title": "Happy Hippo Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Happyhippofountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_hippo_fountain"
     },
     {
         "title": "Harvest Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Harvestzingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harvest_zingoz_musical_fountain"
     },
     {
         "title": "Haunted Patio Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Hauntedpatiofountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_patio_fountain"
     },
     {
         "title": "Heart Bubble Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Heartbubblefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "heart_bubble_fountain"
     },
     {
         "title": "Holiday Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Holidayzingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_zingoz_musical_fountain"
     },
     {
         "title": "Icing on the Cake Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Icingonthecakefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icing_on_the_cake_fountain"
     },
     {
         "title": "Icy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Icyfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icy_fountain"
     },
     {
         "title": "Jeweled Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Jeweledfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jeweled_fountain"
     },
     {
         "title": "Jumbleberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Jumbleberryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jumbleberry_fountain"
     },
     {
         "title": "King of Karats Golden Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Kingofkaratsgoldenfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "king_of_karats_golden_fountain"
     },
     {
         "title": "Kinzville Mall Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Kinzvillemallfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_mall_fountain"
     },
     {
         "title": "Lava Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Lavafountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lava_fountain"
     },
     {
         "title": "Leaping Dolphin Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Leapingdolphinfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leaping_dolphin_fountain"
     },
     {
         "title": "Lovely Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Lovelyfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_fountain"
     },
     {
         "title": "Lovely Lavender Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Lovelylavenderfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lovely_lavender_fountain"
     },
     {
         "title": "Love Puppy Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Lovepuppyfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "love_puppy_fountain"
     },
     {
         "title": "Lucky Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Luckyfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_fountain"
     },
     {
         "title": "Magic Elven Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Magicelvenfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_elven_fountain"
     },
     {
         "title": "Magic Meadow Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Magicmeadowfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_meadow_fountain"
     },
     {
         "title": "Magic Rainbow Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Magicrainbowfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_rainbow_fountain"
     },
     {
         "title": "Magic W Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Magicwfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_w_fountain"
     },
     {
         "title": "Maple Syrup Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Maplesyrupfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "maple_syrup_fountain"
     },
     {
         "title": "Marble Feline Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Marblefelinefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "marble_feline_fountain"
     },
     {
         "title": "Marble Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Marblefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "marble_fountain"
     },
     {
         "title": "Marigold Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Marigoldfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "marigold_fountain"
     },
     {
         "title": "Mermazing Zangoz Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Mermazingzangozfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermazing_zangoz_fountain"
     },
     {
         "title": "Moonberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Moonberryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonberry_fountain"
     },
     {
         "title": "Morning Glory Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Morninggloryfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "morning_glory_fountain"
     },
     {
         "title": "Mosaic Park Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Mosaicparkfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mosaic_park_fountain"
     },
     {
         "title": "Murky Fountain Perch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Murkyfountainperch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "murky_fountain_perch"
     },
     {
         "title": "Mystical Moonlight Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Mysticalmoonlightfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mystical_moonlight_fountain"
     },
     {
         "title": "Olympus Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Olympusfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_fountain"
     },
     {
         "title": "Peppermint Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Peppermintfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_fountain"
     },
     {
         "title": "Pickleberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Pickleberryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pickleberry_fountain"
     },
     {
         "title": "Pink Fountain of WOW",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Pinkfountainofwow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_fountain_of_wow"
     },
     {
         "title": "Playful Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Playfulwaterfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "playful_water_fountain"
     },
     {
         "title": "Pond With Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Pondwithfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pond_with_fountain"
     },
     {
         "title": "Purple Frost Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Purplefrostfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_frost_fountain"
     },
     {
         "title": "Rabbit Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Rabbitfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rabbit_fountain"
     },
     {
         "title": "Rainbow Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Rainbowfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_fountain"
     },
     {
         "title": "Rainbow Fountain of WOW",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Rainbowfountainofwow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_fountain_of_wow"
     },
     {
         "title": "Rainbow Teapot Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Rainbowteapotfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_teapot_fountain"
     },
     {
         "title": "Red Granite Fountain Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Redgranitefountainbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_granite_fountain_bench"
     },
     {
         "title": "Rockerz Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Rockerzfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rockerz_fountain"
     },
     {
         "title": "Rose Garden Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Rosegardenwaterfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rose_garden_water_fountain"
     },
     {
         "title": "Royal Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Royalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "royal_fountain"
     },
     {
         "title": "Royal Red Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Royalredfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "royal_red_fountain"
     },
     {
         "title": "Salad Dressing Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Saladdressingfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "salad_dressing_fountain"
     },
     {
         "title": "School Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Schoolwaterfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "school_water_fountain"
     },
     {
         "title": "Seahorse Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Seahorsefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seahorse_fountain"
     },
     {
         "title": "Seashell Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Seashellfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "seashell_fountain"
     },
     {
         "title": "Secluded Garden Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Secludedgardenfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_fountain"
     },
     {
         "title": "Serenity Wall Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Serenitywallfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "serenity_wall_fountain"
     },
     {
         "title": "Signs of Spring Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Signsofspringfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "signs_of_spring_fountain"
     },
     {
         "title": "Silly Snail Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Sillysnailfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silly_snail_fountain"
     },
     {
         "title": "Silver Tiered Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Silvertieredfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_tiered_fountain"
     },
     {
         "title": "Skyberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Skyberryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "skyberry_fountain"
     },
     {
         "title": "Soda Bottle Rainbow Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Sodabottlerainbowfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soda_bottle_rainbow_fountain"
     },
     {
         "title": "Soft Squirrel Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Softsquirrelfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_squirrel_fountain"
     },
     {
         "title": "Sparkling Apple Juice Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Sparklingapplejuicefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sparkling_apple_juice_fountain"
     },
     {
         "title": "Sphere Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Spherefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sphere_fountain"
     },
     {
         "title": "Spooky School Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Spookyschoolfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_school_fountain"
     },
     {
         "title": "Spring Blooms Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Springbloomsfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_blooms_fountain"
     },
     {
         "title": "Spring Chocolate Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Springchocolatefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_chocolate_fountain"
     },
     {
         "title": "Spring Egg Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Springeggfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_egg_fountain"
     },
     {
         "title": "Spring Fountain Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Springfountainpond.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_fountain_pond"
     },
     {
         "title": "Spring Wall Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Springwallfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_wall_fountain"
     },
     {
         "title": "Spring Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Springzingozmusicalfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_zingoz_musical_fountain"
     },
     {
         "title": "Stone Dragon Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Stonedragonfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stone_dragon_fountain"
     },
     {
         "title": "Stone Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Stonefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stone_fountain"
     },
     {
         "title": "Stone Mosaic Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Stonemosaicfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stone_mosaic_fountain"
     },
     {
         "title": "Strawberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Strawberryfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "strawberry_fountain"
     },
     {
         "title": "Sugarberry Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Sugarberryfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugarberry_fountain"
     },
     {
         "title": "Summer Fun Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Summerfunfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "summer_fun_fountain"
     },
     {
         "title": "Taste Tester Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Tastetesterfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "taste_tester_fountain"
     },
     {
         "title": "Terrace Ice Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Terraceicefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "terrace_ice_fountain"
     },
     {
         "title": "Tiki Hut Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Tikihutfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_hut_fountain"
     },
     {
         "title": "Time to Cool Off Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Timetocoolofffountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "time_to_cool_off_fountain"
     },
     {
         "title": "Tropical Colors Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Tropicalcolorswaterfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_colors_water_fountain"
     },
     {
         "title": "Tropical Holidays Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Tropicalholidaysfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_holidays_fountain"
     },
     {
         "title": "Twinkling Rainbow Soda Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Twinklingrainbowsodafountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "twinkling_rainbow_soda_fountain"
     },
     {
         "title": "Valentine Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Valentinefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_fountain"
     },
     {
         "title": "Valentine Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Valentinezingozmusicalfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_zingoz_musical_fountain"
     },
     {
         "title": "Water Fountain Planter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Waterfountainplanter.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "water_fountain_planter"
     },
     {
         "title": "Water Pump Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Waterpumpfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "water_pump_fountain"
     },
     {
         "title": "Waterspout Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Waterspoutfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waterspout_fountain"
     },
     {
         "title": "Whimsical Water Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Whimsicalwaterfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "whimsical_water_fountain"
     },
     {
         "title": "White Chocolate Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Whitechocolatefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_chocolate_fountain"
     },
     {
         "title": "White Marble Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Whitemarblefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_marble_fountain"
     },
     {
         "title": "White Tiger Crystal Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Whitetigercrystalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_tiger_crystal_fountain"
     },
     {
         "title": "Wicked Wizard Orb Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Wickedwizardorbfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wicked_wizard_orb_fountain"
     },
     {
         "title": "Wildflower Witch Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Wildflowerwitchfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wildflower_witch_fountain"
     },
     {
         "title": "Winter Carnival Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Wintercarnivalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_carnival_fountain"
     },
     {
         "title": "Zangoz Chocolate Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Zangozchocolatefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_chocolate_fountain"
     },
     {
         "title": "Zen Crane Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Zencranefountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zen_crane_fountain"
     },
     {
         "title": "Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Zingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_musical_fountain"
     },
     {
         "title": "Zum Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Zumfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zum_fountain"
     }
 ]

@@ -2,2356 +2,2827 @@
     {
         "title": "All Decked Out Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Alldeckedoutzangoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "all_decked_out_zangoz"
     },
     {
         "title": "Arte's Azure Zingoz Photo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Artesazurezingozphoto.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arte's_azure_zingoz_photo"
     },
     {
         "title": "Autumn Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Autumnwackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_wacky_dispenser"
     },
     {
         "title": "Avante Bookshelf",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Avantebookshelf.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "avante_bookshelf"
     },
     {
         "title": "Azure Zingoz Throne",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Azurezingozthrone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "azure_zingoz_throne"
     },
     {
         "title": "Azure Zingoz Throne Replica",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Azurezingozthronereplica.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "azure_zingoz_throne_replica"
     },
     {
         "title": "Blue Celebration Pop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Bluecelebrationpopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_celebration_pop_dispenser"
     },
     {
         "title": "Blue Dolphin Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Bluedolphingummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_dolphin_gummy_dispenser"
     },
     {
         "title": "Blue Poinsettia Gnome Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Bluepoinsettiagnomelamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_poinsettia_gnome_lamp"
     },
     {
         "title": "Blue Star Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Bluestarcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_star_cookie_dispenser"
     },
     {
         "title": "Blue Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Bluewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_wacky_christmas_gnome"
     },
     {
         "title": "Bunny Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Bunnyzangozgumballmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bunny_zangoz_gumball_machine"
     },
     {
         "title": "Bunny Zangoz Plush",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Bunnyzangozplush.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bunny_zangoz_plush"
     },
     {
         "title": "Bunny Zingoz Candy Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Bunnyzingozcandymachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bunny_zingoz_candy_machine"
     },
     {
         "title": "Bunny Zingoz Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Bunnyzingozdonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bunny_zingoz_donut_dispenser"
     },
     {
         "title": "Bunny Zingoz Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Bunnyzingozplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bunny_zingoz_plushy"
     },
     {
         "title": "Buttercup Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Buttercupwackylantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "buttercup_wacky_lantern"
     },
     {
         "title": "Candy Cane Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Candycanecookiedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_cane_cookie_dispenser"
     },
     {
         "title": "Candy Corn Wacky Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Candycornwackyfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_corn_wacky_fence"
     },
     {
         "title": "Candy Corn Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Candycornwackylantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candy_corn_wacky_lantern"
     },
     {
         "title": "Candy Corn Zangoz Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Candycornzangozdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_corn_zangoz_dispenser"
     },
     {
         "title": "Caroling Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Carolingzingoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "caroling_zingoz"
     },
     {
         "title": "Celebration Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Celebrationwackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_wacky_dispenser"
     },
     {
         "title": "Charmed Chamber Wacky Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Charmedchamberwackylamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charmed_chamber_wacky_lamp"
     },
     {
         "title": "Chocolate Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Chocolatewacky.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_wacky"
     },
     {
         "title": "Chocolate Wacky Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Chocolatewackydecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_wacky_decoration"
     },
     {
         "title": "Chocolate Wacky Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Chocolatewackytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_wacky_trophy"
     },
     {
         "title": "Chocolate Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Chocolatezingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_zingoz"
     },
     {
         "title": "Classic Villa Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Classicvillafountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "classic_villa_fountain"
     },
     {
         "title": "Clover Unicorn Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Cloverunicorncupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clover_unicorn_cupcake_dispenser"
     },
     {
         "title": "Cone Run",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Conerun.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cone_run"
     },
     {
         "title": "Cool Moves Ice Sculpture",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Coolmovesicesculpture.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cool_moves_ice_sculpture"
     },
     {
         "title": "Corn Husk Wacky Doll",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Cornhuskwackydoll.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "corn_husk_wacky_doll"
     },
     {
         "title": "Cupid Wacky Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Cupidwackygummydispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cupid_wacky_gummy_dispenser"
     },
     {
         "title": "Cupid Zingoz Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Cupidzingozstatue.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cupid_zingoz_statue"
     },
     {
         "title": "Cyan Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Cyanwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cyan_wacky_christmas_gnome"
     },
     {
         "title": "Dancing Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Dancingzingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_zingoz"
     },
     {
         "title": "Delicate Dragonfly Lollipop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Delicatedragonflylollipopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "delicate_dragonfly_lollipop_dispenser"
     },
     {
         "title": "Dicekinz Zingoz Pack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Dicekinzzingozpack.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dicekinz_zingoz_pack"
     },
     {
         "title": "Dragonfruit Lemonade Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Dragonfruitlemonadedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragonfruit_lemonade_dispenser"
     },
     {
         "title": "Dunk-a-Zingoz Practice Booth",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Dunkazingozpracticebooth.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dunk-a-zingoz_practice_booth"
     },
     {
         "title": "Eerie Truffle Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Eerietruffledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "eerie_truffle_dispenser"
     },
     {
         "title": "Fall Harvest Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Fallharvestcookiedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_harvest_cookie_dispenser"
     },
     {
         "title": "Festive Wacky Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Festivewackygumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_wacky_gumball_dispenser"
     },
     {
         "title": "Flamingo Zingoz Ice Pop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Flamingozingozicepopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flamingo_zingoz_ice_pop_dispenser"
     },
     {
         "title": "Flappy Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Flappyzingoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flappy_zingoz"
     },
     {
         "title": "Flutter Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Flutterzingoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flutter_zingoz"
     },
     {
         "title": "Fly 90s Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Fly90swackylantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fly_90s_wacky_lantern"
     },
     {
         "title": "Framed Bat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Framedbat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "framed_bat"
     },
     {
         "title": "Framed Team Wacky Jersey",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Framedteamwackyjersey.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "framed_team_wacky_jersey"
     },
     {
         "title": "Free Ride Zingoz Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Freeridezingozhat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "free_ride_zingoz_hat"
     },
     {
         "title": "Fuzzy Lamb Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Fuzzylambcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fuzzy_lamb_cookie_dispenser"
     },
     {
         "title": "Garden Gnome Fortune Teller",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Gardengnomefortuneteller.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_gnome_fortune_teller"
     },
     {
         "title": "Garden Party Windchime",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Gardenpartywindchime.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_party_windchime"
     },
     {
         "title": "Garden Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Gardenzangoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_zangoz"
     },
     {
         "title": "Garden Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Gardenzingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_zingoz"
     },
     {
         "title": "Giant Zangoz Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Giantzangozplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "giant_zangoz_plushy"
     },
     {
         "title": "Giant Zingoz Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Giantzingozplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "giant_zingoz_plushy"
     },
     {
         "title": "Golden Honeycomb Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Goldenhoneycombdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_honeycomb_dispenser"
     },
     {
         "title": "Gold Zingoz Pop Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Goldzingozpoptrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_zingoz_pop_trophy"
     },
     {
         "title": "Green Baked Apple Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Greenbakedappledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_baked_apple_dispenser"
     },
     {
         "title": "Green Bat Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Greenbatcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_bat_cupcake_dispenser"
     },
     {
         "title": "Green Ornament Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Greenornamentcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_ornament_cupcake_dispenser"
     },
     {
         "title": "Green Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Greenwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_wacky_christmas_gnome"
     },
     {
         "title": "Green Witch Cocoa Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Greenwitchcocoadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_witch_cocoa_dispenser"
     },
     {
         "title": "Gummy Ice Cream Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Gummyicecreamdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gummy_ice_cream_dispenser"
     },
     {
         "title": "Halloween Wacky Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Halloweenwackyfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "halloween_wacky_fence"
     },
     {
         "title": "Handmade Zingoz Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Handmadezingozclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "handmade_zingoz_clock"
     },
     {
         "title": "Harvest Wacky Candy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Harvestwackycandydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harvest_wacky_candy_dispenser"
     },
     {
         "title": "Harvest Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Harvestzingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "harvest_zingoz_musical_fountain"
     },
     {
         "title": "Haunted Painting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Hauntedpainting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_painting"
     },
     {
         "title": "Have A Wacky Christmas Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Haveawackychristmaszingoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "have_a_wacky_christmas_zingoz"
     },
     {
         "title": "Holiday Ornament Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Holidayornamentwacky.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_ornament_wacky"
     },
     {
         "title": "Holiday Poinsettia Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Holidaypoinsettiawacky.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_poinsettia_wacky"
     },
     {
         "title": "Holiday Present Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Holidaypresentwacky.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_present_wacky"
     },
     {
         "title": "Holiday Wacky Candy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Holidaywackycandydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_wacky_candy_dispenser"
     },
     {
         "title": "Holiday Wacky Cookies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Holidaywackycookies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_wacky_cookies"
     },
     {
         "title": "Holiday Wacky Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Holidaywackyfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_wacky_fence"
     },
     {
         "title": "Holiday Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Holidayzangozgumballmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_zangoz_gumball_machine"
     },
     {
         "title": "Holiday Zingoz Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Holidayzingozhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_zingoz_hot_air_balloon"
     },
     {
         "title": "Holiday Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Holidayzingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_zingoz_musical_fountain"
     },
     {
         "title": "Ice Sculpture Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Icesculpturefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_sculpture_fridge"
     },
     {
         "title": "Inflatable Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Inflatablezangoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "inflatable_zangoz"
     },
     {
         "title": "Inflated Zingoz Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Inflatedzingozpool.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "inflated_zingoz_pool"
     },
     {
         "title": "Jolly Giant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Jollygiant.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_giant"
     },
     {
         "title": "Jolly Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Jollyzangoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_zangoz"
     },
     {
         "title": "Jolly Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Jollyzingoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_zingoz"
     },
     {
         "title": "Juicy Peach Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Juicypeachlamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "juicy_peach_lamp"
     },
     {
         "title": "Juicy Watermelon Wacky Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Juicywatermelonwackylamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "juicy_watermelon_wacky_lamp"
     },
     {
         "title": "Key Lime Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Keylimecupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "key_lime_cupcake_dispenser"
     },
     {
         "title": "Kung Fu Zangoz Bopper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Kungfuzangozbopper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kung_fu_zangoz_bopper"
     },
     {
         "title": "Lavender Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Lavendercupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lavender_cupcake_dispenser"
     },
     {
         "title": "Lemon Drop Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Lemondroplamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lemon_drop_lamp"
     },
     {
         "title": "Lime Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Limewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lime_wacky_christmas_gnome"
     },
     {
         "title": "Lovely Patio Garden Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Lovelypatiogardenlantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_patio_garden_lantern"
     },
     {
         "title": "Lucky Leprechaun Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Luckyleprechauncookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_leprechaun_cookie_dispenser"
     },
     {
         "title": "Lucky Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Luckyzangozgumballmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_zangoz_gumball_machine"
     },
     {
         "title": "Lucky Zingoz Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Luckyzingozdonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_zingoz_donut_dispenser"
     },
     {
         "title": "Lucky Zingoz Leprechaun",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Luckyzingozleprechaun.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_zingoz_leprechaun"
     },
     {
         "title": "Mango Zangoz Garden Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Mangozangozgardenlantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mango_zangoz_garden_lantern"
     },
     {
         "title": "Marigold Wacky Garden Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Marigoldwackygardenlantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "marigold_wacky_garden_lantern"
     },
     {
         "title": "Master Blaster 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Masterblaster600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "master_blaster_600_trophy"
     },
     {
         "title": "Mermaid Zangoz Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Mermaidzangozgumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mermaid_zangoz_gumball_dispenser"
     },
     {
         "title": "Mermazing Zangoz Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Mermazingzangozfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermazing_zangoz_fountain"
     },
     {
         "title": "Monarch Butterfly Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Monarchbutterflycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "monarch_butterfly_cookie_dispenser"
     },
     {
         "title": "Moonbeam Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Moonbeamcupcakedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonbeam_cupcake_dispenser"
     },
     {
         "title": "Mosaic Zingoz Flowerpot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Mosaiczingozflowerpot.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mosaic_zingoz_flowerpot"
     },
     {
         "title": "Mozaic Zingoz Violet Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Mozaiczingozvioletpot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mozaic_zingoz_violet_pot"
     },
     {
         "title": "Mummy Cakepop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Mummycakepopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mummy_cakepop_dispenser"
     },
     {
         "title": "Mummy Zangoz Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Mummyzangozcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mummy_zangoz_cookie_dispenser"
     },
     {
         "title": "Navy Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Navywackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "navy_wacky_christmas_gnome"
     },
     {
         "title": "Orange Bat Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Orangebatcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_bat_cupcake_dispenser"
     },
     {
         "title": "Orange Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Orangewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_wacky_christmas_gnome"
     },
     {
         "title": "Orange Witch Cocoa Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Orangewitchcocoadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_witch_cocoa_dispenser"
     },
     {
         "title": "Orange Witchy Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Orangewitchygummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_witchy_gummy_dispenser"
     },
     {
         "title": "Painted Poinsettia Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Paintedpoinsettiagnome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_poinsettia_gnome"
     },
     {
         "title": "Painted Sunflower Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Paintedsunflowergnome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_sunflower_gnome"
     },
     {
         "title": "Party Snowglobe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Partysnowglobe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "party_snowglobe"
     },
     {
         "title": "Pink Butterfly Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Pinkbutterflycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_butterfly_cookie_dispenser"
     },
     {
         "title": "Pink Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Pinkwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_wacky_christmas_gnome"
     },
     {
         "title": "Playground Teeter Totter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Playgroundteetertotter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playground_teeter_totter"
     },
     {
         "title": "Pumpkin Lollipop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Pumpkinlollipopdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pumpkin_lollipop_dispenser"
     },
     {
         "title": "Pumpkin Spice Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Pumpkinspicedonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pumpkin_spice_donut_dispenser"
     },
     {
         "title": "Purple Bat Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Purplebatcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_bat_cupcake_dispenser"
     },
     {
         "title": "Purple Butterfly Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Purplebutterflycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_butterfly_cookie_dispenser"
     },
     {
         "title": "Purple Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Purplewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_wacky_christmas_gnome"
     },
     {
         "title": "Purple Witch Cocoa Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Purplewitchcocoadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_witch_cocoa_dispenser"
     },
     {
         "title": "Purple Witchy Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Purplewitchygummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_witchy_gummy_dispenser"
     },
     {
         "title": "Rainbow Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Rainbowwackylantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainbow_wacky_lantern"
     },
     {
         "title": "Red Baked Apple Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Redbakedappledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_baked_apple_dispenser"
     },
     {
         "title": "Red Celebration Pop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Redcelebrationpopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_celebration_pop_dispenser"
     },
     {
         "title": "Red Ornament Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Redornamentcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_ornament_cupcake_dispenser"
     },
     {
         "title": "Red Star Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Redstarcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_star_cookie_dispenser"
     },
     {
         "title": "Red Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Redwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_wacky_christmas_gnome"
     },
     {
         "title": "Rose Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Rosewackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rose_wacky_christmas_gnome"
     },
     {
         "title": "Safari Wacky Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Safariwackylamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "safari_wacky_lamp"
     },
     {
         "title": "Scarecrow Cakepop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Scarecrowcakepop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scarecrow_cakepop"
     },
     {
         "title": "Scarecrow Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Scarecrowcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scarecrow_cookie_dispenser"
     },
     {
         "title": "Scaredy Cat Cocoa Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Scaredycatcocoadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scaredy_cat_cocoa_dispenser"
     },
     {
         "title": "Silly Scarecrow Wacky Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Sillyscarecrowwackyfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "silly_scarecrow_wacky_fence"
     },
     {
         "title": "Silver Zingoz Pop Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Silverzingozpoptrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_zingoz_pop_trophy"
     },
     {
         "title": "Singing Wackys",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Singingwackys.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "singing_wackys"
     },
     {
         "title": "Skating Zingoz Tree Base",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Skatingzingoztreebase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "skating_zingoz_tree_base"
     },
     {
         "title": "Smitten Kitten Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Smittenkittendispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "smitten_kitten_dispenser"
     },
     {
         "title": "Snowflake Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Snowflakewackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowflake_wacky_dispenser"
     },
     {
         "title": "Snowman Wacky Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Snowmanwackydonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_wacky_donut_dispenser"
     },
     {
         "title": "Snow Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Snowzangoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snow_zangoz"
     },
     {
         "title": "Sour Watermelon Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Sourwatermelonwackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sour_watermelon_wacky_dispenser"
     },
     {
         "title": "Spicy Nutcracker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Spicynutcrackerdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spicy_nutcracker_dispenser"
     },
     {
         "title": "Spring Bunny Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Springbunnycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_bunny_cookie_dispenser"
     },
     {
         "title": "Spring Chick Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Springchickcookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_chick_cookie_dispenser"
     },
     {
         "title": "Spring Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Springzingozmusicalfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_zingoz_musical_fountain"
     },
     {
         "title": "Stormy Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Stormylamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stormy_lamp"
     },
     {
         "title": "Sugar Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Sugarcookiedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugar_cookie_dispenser"
     },
     {
         "title": "Sugar Plum Gumdrop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Sugarplumgumdropdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugar_plum_gumdrop_dispenser"
     },
     {
         "title": "Sugary Stocking",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Sugarystocking.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugary_stocking"
     },
     {
         "title": "Summer Fun Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Summerfunwackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_fun_wacky_dispenser"
     },
     {
         "title": "Summer Surf Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Summersurfwackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_surf_wacky_dispenser"
     },
     {
         "title": "Sunny Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Sunnycupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunny_cupcake_dispenser"
     },
     {
         "title": "Super Slugger 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Superslugger600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_slugger_600_trophy"
     },
     {
         "title": "Super Spooky Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Superspookycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_spooky_cookie_dispenser"
     },
     {
         "title": "Sweet Nutcracker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Sweetnutcrackerdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_nutcracker_dispenser"
     },
     {
         "title": "Teddy Wacky Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Teddywackydonutdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teddy_wacky_donut_dispenser"
     },
     {
         "title": "Thanksgiving Scarecrow",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Thanksgivingscarecrow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "thanksgiving_scarecrow"
     },
     {
         "title": "Thanksgiving Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Thanksgivingzangozgumballmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "thanksgiving_gumball_machine"
     },
     {
         "title": "The Adolescent Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Theadolescentzangoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_adolescent_zangoz"
     },
     {
         "title": "The Deceptive Disappearing Zangoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Thedeceptivedisappearingzangoz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "the_deceptive_disappearing_zangoz"
     },
     {
         "title": "The Zingoz Zangoz Bouncer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Thezingozzangozbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_zingoz_zangoz_bouncer"
     },
     {
         "title": "Tiki Hut Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Tikihutfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_hut_fountain"
     },
     {
         "title": "Tiki Palm Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Tikipalmstatue.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_palm_statue"
     },
     {
         "title": "Tiki Totem Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Tikitotemdivider.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_totem_divider"
     },
     {
         "title": "Toadstool Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Toadstoolwackydispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toadstool_wacky_dispenser"
     },
     {
         "title": "Toy Emporium Storage Display",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Toyemporiumstoragedisplay.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toy_emporium_storage_display"
     },
     {
         "title": "Tropical Zangoz Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Tropicalzangozgummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_zangoz_gummy_dispenser"
     },
     {
         "title": "Tropical Zingoz Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Tropicalzingozgummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_zingoz_gummy_dispenser"
     },
     {
         "title": "Valentine Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Valentinecookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "valentine_cookie_dispenser"
     },
     {
         "title": "Valentine Popcorn Bites Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Valentinepopcornbitesdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_popcorn_bites_dispenser"
     },
     {
         "title": "Valentine Wacky Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Valentinewackydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "valentine_wacky_dispenser"
     },
     {
         "title": "Valentine Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Valentinewackylantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_wacky_lantern"
     },
     {
         "title": "Valentine Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Valentinezangozgumballmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "valentine_zangoz_gumball_machine"
     },
     {
         "title": "Valentine Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Valentinezingozmusicalfountain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_zingoz_musical_fountain"
     },
     {
         "title": "Vampire Zangoz Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Vampirezangozdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vampire_zangoz_dispenser"
     },
     {
         "title": "Violet Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Violetwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_wacky_christmas_gnome"
     },
     {
         "title": "Violet Wacky Garden Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Violetwackygardenlantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_wacky_garden_lantern"
     },
     {
         "title": "Wacky Acorn Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Wackyacorncupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_acorn_cupcake_dispenser"
     },
     {
         "title": "Wacky Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Wackyactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_action_figure"
     },
     {
         "title": "Wacky Airplane",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Wackyairplane.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_airplane"
     },
     {
         "title": "Wacky Almonds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Wackyalmonds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_almonds"
     },
     {
         "title": "Wacky Backpack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Wackybackpack.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_backpack"
     },
     {
         "title": "Wacky Ballroom Gown",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Wackyballroomgown.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_ballroom_gown"
     },
     {
         "title": "Wacky Ballroom Shoes",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Wackyballroomshoes.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_ballroom_shoes"
     },
     {
         "title": "Wacky Beach Towel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Wackybeachtowel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_beach_towel"
     },
     {
         "title": "Wacky Beach Toys",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Wackybeachtoys.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_beach_toys"
     },
     {
         "title": "Wacky Beach Umbrella",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Wackybeachumbrella.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_beach_umbrella"
     },
     {
         "title": "Wacky Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Wackybed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_bed"
     },
     {
         "title": "Wacky Bowling Alley",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Wackybowlingalley.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bowling_alley"
     },
     {
         "title": "Wacky Bowling Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Wackybowlingstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bowling_statue"
     },
     {
         "title": "Wacky Bumpercar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Wackybumpercar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bumpercar"
     },
     {
         "title": "Wacky Bunch of Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Wackybunchofballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bunch_of_balloons"
     },
     {
         "title": "Wacky Bunny Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Wackybunnycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bunny_cookie_dispenser"
     },
     {
         "title": "Wacky Cake Pop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Wackycakepop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cake_pop"
     },
     {
         "title": "Wacky Candy Apple",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Wackycandyapple.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_candy_apple"
     },
     {
         "title": "Wacky Candy Ring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Wackycandyring.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_candy_ring"
     },
     {
         "title": "Wacky Candy Ring Planter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Wackycandyringplanter.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_candy_ring_planter"
     },
     {
         "title": "Wacky Carved Coconut",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Wackycarvedcoconut.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_carved_coconut"
     },
     {
         "title": "Wacky Cereal Bowl",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Wackycerealbowl.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cereal_bowl"
     },
     {
         "title": "Wacky Cereal Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6f/Wackycerealdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_cereal_dispenser"
     },
     {
         "title": "Wacky Cheer Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Wackycheercupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cheer_cupcake_dispenser"
     },
     {
         "title": "Wacky Cheerleader Dress",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Wackycheerleaderdress.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cheerleader_dress"
     },
     {
         "title": "Wacky Cheese Pizza",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Wackycheesepizza.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cheese_pizza"
     },
     {
         "title": "Wacky Chocolate Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Wackychocolatecupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_chocolate_cupcake_dispenser"
     },
     {
         "title": "Wacky Christmas Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Wackychristmasgnomelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_christmas_gnome_lantern"
     },
     {
         "title": "Wacky Citrus Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Wackycitrusgumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_citrus_gumball_dispenser"
     },
     {
         "title": "Wacky Clay Sculpture",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Wackyclaysculpture.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_clay_sculpture"
     },
     {
         "title": "Wacky Clay Sculpture Kit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Wackyclaysculpturekit.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_clay_sculpture_kit"
     },
     {
         "title": "Wacky Clover Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Wackyclovercookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_clover_cookie_dispenser"
     },
     {
         "title": "Wacky Clover Planter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Wackycloverplanter.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_clover_planter"
     },
     {
         "title": "Wacky Club 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Wackyclub600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_club_600_trophy"
     },
     {
         "title": "Wacky Coconut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Wackycoconutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_coconut_dispenser"
     },
     {
         "title": "Wacky Cookie Jar Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Wackycookiejardispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_cookie_jar_dispenser"
     },
     {
         "title": "Wacky Cookies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Wackycookies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cookies"
     },
     {
         "title": "Wacky Corn Chip Growing Gardens Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Wackycornchipgrowinggardensseeds.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_corn_chip_growing_gardens_seeds"
     },
     {
         "title": "Wacky Corn Chips",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Wackycornchips.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_corn_chips"
     },
     {
         "title": "Wacky Corn on the Cob",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Wackycornonthecob.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_corn_on_the_cob"
     },
     {
         "title": "Wacky Cotton Candy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Wackycottoncandy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cotton_candy"
     },
     {
         "title": "Wacky Cotton Candy Maker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Wackycottoncandymaker.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_cotton_candy_maker"
     },
     {
         "title": "Wacky Cotton Candy Wig",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Wackycottoncandywig.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_cotton_candy_wig"
     },
     {
         "title": "Wacky Crackers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Wackycrackers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_crackers"
     },
     {
         "title": "Wacky Cupcake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Wackycupcake.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_cupcake"
     },
     {
         "title": "Wacky Cupcake Tree Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Wackycupcaketreeseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_cupcake_tree_seeds"
     },
     {
         "title": "Wacky Daisy Pop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Wackydaisypopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_daisy_pop_dispenser"
     },
     {
         "title": "Wacky Delight Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Wackydelightcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_delight_cupcake_dispenser"
     },
     {
         "title": "Wacky Drone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Wackydrone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_drone"
     },
     {
         "title": "Wacky Easter Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Wackyeastergnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_easter_gnome"
     },
     {
         "title": "Wacky Elf Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Wackyelfdonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_elf_donut_dispenser"
     },
     {
         "title": "Wacky Elf Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Wackyelfgummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_elf_gummy_dispenser"
     },
     {
         "title": "WackyER Flooring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Wackyerflooring.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_flooring"
     },
     {
         "title": "WackyER Garden Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wackyergardenstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_garden_statue"
     },
     {
         "title": "WackyER Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Wackyerhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_hot_air_balloon"
     },
     {
         "title": "WackyER Standee",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Wackyerstandee.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_standee"
     },
     {
         "title": "WackyER Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Wackyerwallpaper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_wallpaper"
     },
     {
         "title": "WackyER Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Wackyerwindow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_window"
     },
     {
         "title": "WackyER Zingoz Arcade Unit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Wackyerzingozarcadeunit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_arcade_unit"
     },
     {
         "title": "WackyER Zingoz Baseball Cap",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Wackyerzingozbaseballcap.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_baseball_cap"
     },
     {
         "title": "WackyER Zingoz Baseball Shirt",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Wackyerzingozbaseballshirt.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_baseball_shirt"
     },
     {
         "title": "WackyER Zingoz Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Wackyerzingozhat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_hat"
     },
     {
         "title": "WackyER Zingoz Pants",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Wackyerzingozpants.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_pants"
     },
     {
         "title": "WackyER Zingoz Poster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Wackyerzingozposter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_poster"
     },
     {
         "title": "WackyER Zingoz Shirt",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Wackyerzingozshirt.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_shirt"
     },
     {
         "title": "WackyER Zingoz Shoes",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Wackyerzingozshoes.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wackyer_zingoz_shoes"
     },
     {
         "title": "WackyER Zingoz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Wackyerzingoztrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wackyer_zingoz_trophy"
     },
     {
         "title": "Wacky Fall Garden Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Wackyfallgardengnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_fall_garden_gnome"
     },
     {
         "title": "Wacky Fast Food",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Wackyfastfood.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_fast_food"
     },
     {
         "title": "Wacky Fireplace",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Wackyfireplace.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_fireplace"
     },
     {
         "title": "Wacky Flipflop Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Wackyflipflopgummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_flipflop_gummy_dispenser"
     },
     {
         "title": "Wacky Flower Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Wackyflowerpot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_flower_pot"
     },
     {
         "title": "Wacky Fries",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Wackyfries.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_fries"
     },
     {
         "title": "Wacky Fruit Kebab",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Wackyfruitkebab.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_fruit_kebab"
     },
     {
         "title": "Wacky Gaming Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Wackygamingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_gaming_chair"
     },
     {
         "title": "Wacky Garden Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Wackygardengnomelantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_garden_gnome_lantern"
     },
     {
         "title": "Wacky Geyser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Wackygeyser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_geyser"
     },
     {
         "title": "Wacky Go-Kart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Wackygokart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_go-kart"
     },
     {
         "title": "Wacky Green Egg Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Wackygreeneggdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_green_egg_dispenser"
     },
     {
         "title": "Wacky Gumball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/df/Wackygumball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_gumball"
     },
     {
         "title": "Wacky Gumdrops",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Wackygumdrops.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_gumdrops"
     },
     {
         "title": "Wacky Gumdrop Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Wackygumdropseeds.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_gumdrop_seeds"
     },
     {
         "title": "Wacky Gummies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Wackygummies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_gummies"
     },
     {
         "title": "Wacky Gummy Beachball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Wackygummybeachballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_gummy_beachball_dispenser"
     },
     {
         "title": "Wacky Hamper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Wackyhamper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_hamper"
     },
     {
         "title": "Wacky Harvest Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Wackyharvestgummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_harvest_gummy_dispenser"
     },
     {
         "title": "Wacky Hashbrown Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Wackyhashbrowndispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_hashbrown_dispenser"
     },
     {
         "title": "Wacky Hashbrowns",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Wackyhashbrowns.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_hashbrowns"
     },
     {
         "title": "Wacky Headphones",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Wackyheadphones.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_headphones"
     },
     {
         "title": "Wacky Holiday Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Wackyholidaydonutdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_holiday_donut_dispenser"
     },
     {
         "title": "Wacky Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Wackyhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_hot_air_balloon"
     },
     {
         "title": "Wacky House of Wacky",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wackyhouseofwacky.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_house_of_wacky"
     },
     {
         "title": "Wacky Hoverboard",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Wackyhoverboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_hoverboard"
     },
     {
         "title": "Wacky Ice Cream Cone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Wackyicecreamcone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_ice_cream_cone"
     },
     {
         "title": "Wacky Ice Cream Truck Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Wackyicecreamtruckfridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_ice_cream_truck_fridge"
     },
     {
         "title": "Wacky Ice Pop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Wackyicepop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_ice_pop"
     },
     {
         "title": "Wacky Inflatable Raft",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Wackyinflatableraft.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_inflatable_raft"
     },
     {
         "title": "Wacky Jet Backpack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Wackyjetbackpack.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_jet_backpack"
     },
     {
         "title": "Wacky Juicebox",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Wackyjuicebox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_juicebox"
     },
     {
         "title": "Wacky Jumbleberry Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Wackyjumbleberrygumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_jumbleberry_gumball_dispenser"
     },
     {
         "title": "Wacky KinzCash Coin",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Wackykinzcashcoin.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_kinzcash_coin"
     },
     {
         "title": "Wacky Knapsack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Wackyknapsack.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_knapsack"
     },
     {
         "title": "Wacky Laptop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Wackylaptop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_laptop"
     },
     {
         "title": "Wacky Lemon Fizz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Wackylemonfizz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_lemon_fizz"
     },
     {
         "title": "Wacky Lemon Ice Pop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Wackylemonicepop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_lemon_ice_pop"
     },
     {
         "title": "Wacky Leprechaun Fence",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Wackyleprechaunfence.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_leprechaun_fence"
     },
     {
         "title": "Wacky Leprechaun Gummies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Wackyleprechaungummies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_leprechaun_gummies"
     },
     {
         "title": "Wacky Leprechaun Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Wackyleprechaungummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_leprechaun_gummy_dispenser"
     },
     {
         "title": "Wacky Light Up Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Wackylightuplamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_light_up_lamp"
     },
     {
         "title": "Wacky Lounger Pod",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Wackyloungerpod.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_lounger_pod"
     },
     {
         "title": "Wacky Lunchbox",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Wackylunchbox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_lunchbox"
     },
     {
         "title": "Wacky Maple Leaf Cupcake Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Wackymapleleafcupcakedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_maple_leaf_cupcake_dispenser"
     },
     {
         "title": "Wacky Marshmallows",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Wackymarshmallows.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_marshmallows"
     },
     {
         "title": "Wacky Marshmallow Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Wackymarshmallowseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_marshmallow_seeds"
     },
     {
         "title": "Wacky Marshmallow Treat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Wackymarshmallowtreat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_marshmallow_treat"
     },
     {
         "title": "Wacky Marshmallow Treat Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Wackymarshmallowtreatsdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_marshmallow_treat_dispenser"
     },
     {
         "title": "Wacky Meal",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Wackymeal.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_meal"
     },
     {
         "title": "Wacky Milkshake",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Wackymilkshake.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_milkshake"
     },
     {
         "title": "Wacky Mini Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Wackyminifridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_mini_fridge"
     },
     {
         "title": "Wacky Moonberry Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Wackymoonberrygumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_moonberry_gumball_dispenser"
     },
     {
         "title": "Wacky Music Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Wackymusicbox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_music_box"
     },
     {
         "title": "Wacky Nut Bar",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Wackynutbar.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_nut_bar"
     },
     {
         "title": "Wacky Nut Bar Tree Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Wackynutbartreeseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_nut_bar_tree_seeds"
     },
     {
         "title": "Wacky Painting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Wackypainting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_painting"
     },
     {
         "title": "Wacky Party Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Wackypartyhat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_party_hat"
     },
     {
         "title": "Wacky Pearl Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Wackypearlgumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_pearl_gumball_dispenser"
     },
     {
         "title": "Wacky Performance Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Wackyperformancestatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_performance_statue"
     },
     {
         "title": "Wacky Pickleberry Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Wackypickleberrygumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_pickleberry_gumball_dispenser"
     },
     {
         "title": "Wacky Piggy Bank",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Wackypiggybank.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_piggy_bank"
     },
     {
         "title": "Wacky Pineapple Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Wackypineappledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_pineapple_dispenser"
     },
     {
         "title": "Wacky Place Setting",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Wackyplacesetting.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_place_setting"
     },
     {
         "title": "Wacky Pompoms",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Wackypompoms.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_pompoms"
     },
     {
         "title": "Wacky Pool Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Wackypooltable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_pool_table"
     },
     {
         "title": "Wacky Popcorn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Wackypopcorn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_popcorn"
     },
     {
         "title": "Wacky Popcorn Tree Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Wackypopcorntreeseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_popcorn_tree_seeds"
     },
     {
         "title": "Wacky Pop-up Tent",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Wackypopuptent.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_pop-up_tent"
     },
     {
         "title": "Wacky Purple Egg Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Wackypurpleeggdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_purple_egg_dispenser"
     },
     {
         "title": "Wacky Purple Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Wackypurplegumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_purple_gumball_dispenser"
     },
     {
         "title": "Wacky Purse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Wackypurse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_purse"
     },
     {
         "title": "Wacky Racer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Wackyracer.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_racer"
     },
     {
         "title": "Wacky Racing Helmet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Wackyracinghelmet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_racing_helmet"
     },
     {
         "title": "Wacky Racing Suit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Wackyracingsuit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_racing_suit"
     },
     {
         "title": "Wacky Rainbow Donut Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0b/Wackyrainbowdonutdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_rainbow_donut_dispenser"
     },
     {
         "title": "Wacky Rice Ball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Wackyriceballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_rice_ball_dispenser"
     },
     {
         "title": "Wacky Roller Skates",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Wackyrollerskates.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_roller_skates"
     },
     {
         "title": "Wacky Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Wackyrug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_rug"
     },
     {
         "title": "Wacky's Bullseye Batter Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Wackysbullseyebattertrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky's_bullseye_batter_trophy"
     },
     {
         "title": "Wacky's Burger Stand",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Wackysburgerstand.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky's_burger_stand"
     },
     {
         "title": "Wacky School Supplies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Wackyschoolsupplies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_school_supplies"
     },
     {
         "title": "Wacky Scooter",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Wackyscooter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_scooter"
     },
     {
         "title": "Wacky's Signed Portrait",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Wackysignedportrait.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky's_signed_portrait"
     },
     {
         "title": "Wacky's Skateboard",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Wackyskateboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky's_skateboard"
     },
     {
         "title": "Wacky Skyberry Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Wackyskyberrygumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_skyberry_gumball_dispenser"
     },
     {
         "title": "Wacky Sled",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Wackysled.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_sled"
     },
     {
         "title": "Wacky Sleeping Bag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Wackysleepingbag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_sleeping_bag"
     },
     {
         "title": "Wacky Slippers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Wackyslippers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_slippers"
     },
     {
         "title": "Wacky Slippy Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Wackyslippyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_slippy_slide"
     },
     {
         "title": "Wacky S'more",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Wackysmore.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_s'more"
     },
     {
         "title": "Wacky S'more Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Wackysmoredispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_s'more_dispenser"
     },
     {
         "title": "Wacky Snack Machine Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Wackysnackmachinefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_snack_machine_fridge"
     },
     {
         "title": "Wacky Snack Pack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Wackysnackpack.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_snack_pack"
     },
     {
         "title": "Wacky Snake Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Wackysnakegummydispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_snake_gummy_dispenser"
     },
     {
         "title": "Wacky Snowball Truffle Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Wackysnowballtruffledispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_snowball_truffle_dispenser"
     },
     {
         "title": "Wacky Soda",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Wackysoda.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_soda"
     },
     {
         "title": "Wacky Soda Machine Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Wackysodamachinefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_soda_machine_fridge"
     },
     {
         "title": "Wacky Sprinkler",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Wackysprinkler.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_sprinkler"
     },
     {
         "title": "Wacky Stained Glass Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Wackystainedglasswindow.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_stained_glass_window"
     },
     {
         "title": "Wacky Standee",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Wackystandee.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_standee"
     },
     {
         "title": "Wacky Strength Tester",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Wackystrengthtester.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_strength_tester"
     },
     {
         "title": "Wacky Student Plush",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Wackystudentplush.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_student_plush"
     },
     {
         "title": "Wacky Sugarberry Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Wackysugarberrygumballdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_sugarberry_gumball_dispenser"
     },
     {
         "title": "Wacky Sunflower Sandwich Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Wackysunflowersandwichdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_sunflower_sandwich_dispenser"
     },
     {
         "title": "Wacky Sunglasses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Wackysunglasses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_sunglasses"
     },
     {
         "title": "Wacky Superhero Soda Dispesner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Wackysuperherosodadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_superhero_soda_dispesner"
     },
     {
         "title": "Wacky Surfboard",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Wackysurfboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_surfboard"
     },
     {
         "title": "Wacky Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Wackyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tea_set"
     },
     {
         "title": "Wacky Thankful Sandwich Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Wackythankfulsandwichdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_thankful_sandwich_dispenser"
     },
     {
         "title": "Wacky Thanksgiving Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Wackythanksgivingplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_thanksgiving_plushy"
     },
     {
         "title": "Wacky Topiary",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Wackytopiary.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_topiary"
     },
     {
         "title": "Wacky Train",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Wackytrain.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_train"
     },
     {
         "title": "Wacky Trophy Pedestal",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Wackytrophypedestal.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_trophy_pedestal"
     },
     {
         "title": "Wacky Tropical Cake Pop Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Wackytropicalcakepopdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tropical_cake_pop_dispenser"
     },
     {
         "title": "Wacky Tropical Plant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Wackytropicalplant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tropical_plant"
     },
     {
         "title": "Wacky Tuxedo Jacket",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Wackytuxedojacket.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tuxedo_jacket"
     },
     {
         "title": "Wacky Tuxedo Pants",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Wackytuxedopants.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tuxedo_pants"
     },
     {
         "title": "Wacky Umbrella Gummy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Wackyumbrellagummydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_umbrella_gummy_dispenser"
     },
     {
         "title": "Wacky Wading Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Wackywadingpool.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_wading_pool"
     },
     {
         "title": "Wacky Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Wackywallpaper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_wallpaper"
     },
     {
         "title": "Wacky Water Bottle Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Wackywaterbottledispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_water_bottle_dispenser"
     },
     {
         "title": "Wacky Wig",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Wackywig.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_wig"
     },
     {
         "title": "Wacky Windchime",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Wackywindchime.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_windchime"
     },
     {
         "title": "Wacky Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Wackywindow.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_window"
     },
     {
         "title": "Wacky Wind-up Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wackywinduptoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_wind-up_toy"
     },
     {
         "title": "Wacky Wizard 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Wackywizard600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_wizard_600_trophy"
     },
     {
         "title": "Wacky Xoxo Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Wackyxoxocookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_xoxo_cookie_dispenser"
     },
     {
         "title": "Wacky Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Wackyzingoz2.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz"
     },
     {
         "title": "Wacky Zingoz 600 Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Wackyzingoz600trophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_600_trophy"
     },
     {
         "title": "Wacky Zingoz 600 Trophy Stand",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Wackyzingoz600trophystand.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_600_trophy_stand"
     },
     {
         "title": "Wacky Zingoz Airship",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Wackyzingozairship.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_airship"
     },
     {
         "title": "Wacky Zingoz Bopper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Wackyzingozbopper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_bopper"
     },
     {
         "title": "Wacky Zingoz Celebration 2022 Poster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Wackyzingozcelebration2022poster.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_celebration_2022_poster"
     },
     {
         "title": "Wacky Zingoz Doorbell",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/00/Wackyzingozdoorbell.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_doorbell"
     },
     {
         "title": "Wacky Zingoz Music Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Wackyzingozmusicbox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_music_box"
     },
     {
         "title": "Wacky Zingoz Plush",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Wackyzingozplush.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_plush"
     },
     {
         "title": "Wacky Zingoz Porch Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Wackyzingozporchswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wacky_zingoz_porch_swing"
     },
     {
         "title": "Wacky Zingoz Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Wackyzingozswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_swing"
     },
     {
         "title": "Wacky Zingoz Toy Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Wackyzingoztoybox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_zingoz_toy_box"
     },
     {
         "title": "Watermelon Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Watermelongumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "watermelon_gumball_dispenser"
     },
     {
         "title": "Webkinz Day Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Webkinzdayzangozgumballmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_day_zangoz_gumball_machine"
     },
     {
         "title": "Where's Wacky Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Whereswackytrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "where's_wacky_trophy"
     },
     {
         "title": "Whistling Wackys",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Whistlingwackys.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "whistling_wackys"
     },
     {
         "title": "White Hibiscus Wacky Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Whitehibiscuswackylantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_hibiscus_wacky_lantern"
     },
     {
         "title": "Wind Up Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Windupzingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wind_up_zingoz"
     },
     {
         "title": "Winterchill Mint Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Winterchillmintdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winterchill_mint_dispenser"
     },
     {
         "title": "Winter Elf Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Winterelfcookiedispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_elf_cookie_dispenser"
     },
     {
         "title": "Winterfest Wacky Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Winterfestwackyplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_wacky_plushy"
     },
     {
         "title": "Winter Fun Zingoz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Winterfunzingoz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_fun_zingoz"
     },
     {
         "title": "Winter Fun Zingoz Bopper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Winterfunzingozbopper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_fun_zingoz_bopper"
     },
     {
         "title": "Winter Wacky Gnome Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Winterwackygnomelantern.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_wacky_gnome_lantern"
     },
     {
         "title": "Wisteria Patio Garden Lantern",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Wisteriapatiogardenlantern.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wisteria_patio_garden_lantern"
     },
     {
         "title": "Wizkinz Jawbreaker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Wizkinzjawbreakerdispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wizkinz_jawbreaker_dispenser"
     },
     {
         "title": "World of Zingoz Waterslide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Worldofzingozwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "world_of_zingoz_waterslide"
     },
     {
         "title": "Yellow Butterfly Cookie Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Yellowbutterflycookiedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_butterfly_cookie_dispenser"
     },
     {
         "title": "Yellow Wacky Christmas Gnome",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Yellowwackychristmasgnome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_wacky_christmas_gnome"
     },
     {
         "title": "Zacky Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Zackyhotairballoon.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zacky_hot_air_balloon"
     },
     {
         "title": "Zacky's Map",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Zackysmap.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zacky's_map"
     },
     {
         "title": "Zacky's Quest Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Zackysqueststatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zacky's_quest_statue"
     },
     {
         "title": "Zangoz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Zangozactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_action_figure"
     },
     {
         "title": "Zangoz Bumper Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Zangozbumpercar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zangoz_bumper_car"
     },
     {
         "title": "Zangoz Cake Ball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Zangozcakeballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_cake_ball_dispenser"
     },
     {
         "title": "Zangoz Chocolate Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Zangozchocolatefountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_chocolate_fountain"
     },
     {
         "title": "Zangoz Cookie",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Zangozcookie.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_cookie"
     },
     {
         "title": "Zangoz Diver Gemstone Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Zangozdivergemstonedispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_diver_gemstone_dispenser"
     },
     {
         "title": "Zangoz Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Zangozfridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_fridge"
     },
     {
         "title": "Zangoz Fruit Stand",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Zangozfruitstand.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_fruit_stand"
     },
     {
         "title": "Zangoz Gaming Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Zangozgamingchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_gaming_chair"
     },
     {
         "title": "Zangoz Headphones",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Zangozheadphones.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_headphones"
     },
     {
         "title": "Zangoz Holiday Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Zangozholidayplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_holiday_plushy"
     },
     {
         "title": "Zangoz Knapsack",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Zangozknapsack.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_knapsack"
     },
     {
         "title": "Zangoz Music Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Zangozmusicbox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_music_box"
     },
     {
         "title": "Zangoz Orange Fizz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Zangozorangefizz.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zangoz_orange_fizz"
     },
     {
         "title": "Zangoz Pinata Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Zangozpinatadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_pinata_dispenser"
     },
     {
         "title": "Zangoz Plush Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Zangozplushtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_plush_toy"
     },
     {
         "title": "Zangoz Pool Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Zangozpooltable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_pool_table"
     },
     {
         "title": "Zangoz Racing Helmet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Zangozracinghelmet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_racing_helmet"
     },
     {
         "title": "Zangoz Racing Suit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Zangozracingsuit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_racing_suit"
     },
     {
         "title": "Zangoz Red Cat Gumball Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Zangozredcatgumballdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_red_cat_gumball_dispenser"
     },
     {
         "title": "Zangoz Rice Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Zangozriceball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_rice_ball"
     },
     {
         "title": "Zangoz Roller Skates",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Zangozrollerskates.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_roller_skates"
     },
     {
         "title": "Zangoz Rug",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Zangozrug.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_rug"
     },
     {
         "title": "Zangoz Skateboard",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Zangozskateboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_skateboard"
     },
     {
         "title": "Zangoz Slippers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Zangozslippers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_slippers"
     },
     {
         "title": "Zangoz Snowman",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Zangozsnowman.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_snowman"
     },
     {
         "title": "Zangoz Soda Machine Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Zangozsodamachinefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_soda_machine_fridge"
     },
     {
         "title": "Zangoz Speedster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Zangozspeedster.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_speedster"
     },
     {
         "title": "Zangoz Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Zangozstatue.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zangoz_statue"
     },
     {
         "title": "Zangozstein Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Zangozsteindispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zangozstein_dispenser"
     },
     {
         "title": "Zangoz Taffy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Zangoztaffy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_taffy"
     },
     {
         "title": "Zangoz TCG Poster",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Zangoztcgposter.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_tcg_poster"
     },
     {
         "title": "Zangoz Thanksgiving Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Zangozthanksgivingplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_thanksgiving_plushy"
     },
     {
         "title": "Zangoz Topiary",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Zangoztopiary.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_topiary"
     },
     {
         "title": "Zangoz Tropical Plant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Zangoztropicalplant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_tropical_plant"
     },
     {
         "title": "Zangoz Water Sprayer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Zangozwatersprayer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_water_sprayer"
     },
     {
         "title": "Zangoz Wig",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Zangozwig.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_wig"
     },
     {
         "title": "Zingoz and Zangoz Ice Pop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Zingozandzangozicepop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_and_zangoz_ice_pop"
     },
     {
         "title": "Zingoz Bounce Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Zingozbounceball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_bounce_ball"
     },
     {
         "title": "Zingoz Bounce Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Zingozbouncetrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_bounce_trophy"
     },
     {
         "title": "Zingoz Bubble Blower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Zingozbubbleblower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_bubble_blower"
     },
     {
         "title": "Zingoz Candy Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Zingozcandyappletree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_candy_apple_tree"
     },
     {
         "title": "Zingoz Celebration Dress",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Zingozcelebrationdress.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_celebration_dress"
     },
     {
         "title": "Zingoz Dunk Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Zingozdunktrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_dunk_trophy"
     },
     {
         "title": "Zingoz Holiday Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Zingozholidayplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_holiday_plushy"
     },
     {
         "title": "Zingoz in a Box",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Zingozinabox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_in_a_box"
     },
     {
         "title": "Zingoz Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Zingozlamp.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_lamp"
     },
     {
         "title": "Zingoz Musical Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Zingozmusicalfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_musical_fountain"
     },
     {
         "title": "Zingoz Pie Throw Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Zingozpiethrowtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_pie_throw_trophy"
     },
     {
         "title": "Zingoz Pinata Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Zingozpinatadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_pinata_dispenser"
     },
     {
         "title": "Zingoz Plushy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Zingozplushy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_plushy"
     },
     {
         "title": "Zingoz Rice Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Zingozriceball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_rice_ball"
     },
     {
         "title": "Zingoz Switcherooz",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Zingozswitcherooz.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_switcherooz"
     },
     {
         "title": "Zingoz Switcherooz Arcade Unit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Zingozswitcheroozarcadeunit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_switcherooz_arcade_unit"
     },
     {
         "title": "Zingoz Switcherooz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Zingozswitcherooztrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_switcherooz_trophy"
     },
     {
         "title": "Zingoz Taffy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Zingoztaffy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_taffy"
     },
     {
         "title": "Zingoz Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Zingoztree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_tree"
     },
     {
         "title": "Zingoz Wind Spinner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Zingozwindspinner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zingoz_wind_spinner"
     },
     {
         "title": "Zingoz Zangoz Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Zingozzangoztrophy.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zingoz_zangoz_trophy"
     },
     {
         "title": "Zombie Zangoz Gumball Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Zombiezangozgumballmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zombie_zangoz_gumball_machine"
     }
 ]

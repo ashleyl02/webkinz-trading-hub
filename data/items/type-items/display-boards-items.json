@@ -2,56 +2,67 @@
     {
         "title": "Bulletin Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Bulletinboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bulletin_board"
     },
     {
         "title": "CampKinz Activity Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Campkinzactivityboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_activity_board"
     },
     {
         "title": "Crazy Day Cork Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Crazydaycorkboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crazy_day_cork_board"
     },
     {
         "title": "Kinzville Mayor Pin Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Kinzvillemayorpinset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_mayor_pin_set"
     },
     {
         "title": "Kitchen Bulletin Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Kitchenbulletinboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kitchen_bulletin_board"
     },
     {
         "title": "Mystery Solving Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Mysterysolvingboard.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mystery_solving_board"
     },
     {
         "title": "Sign-Up Sheet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Signupsheet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sign-up_sheet"
     },
     {
         "title": "Spring Classroom Bulletin Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Springclassroombulletinboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_classroom_bulletin_board"
     },
     {
         "title": "Sweetheart Cork Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Sweetheartcorkboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_cork_board"
     },
     {
         "title": "Town Square Bulletin Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Townsquarebulletinboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "town_square_bulletin_board"
     },
     {
         "title": "Trendy Newz Blogger Bulletin Board",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Trendynewzbloggerbulletinboard.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trendy_newz_blogger_bulletin_board"
     }
 ]

@@ -2,136 +2,163 @@
     {
         "title": "Amazing World Festive Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Amazingworldfestiveholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "amazing_world_festive_holiday_wreath"
     },
     {
         "title": "Bird's Nest Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Birdsnestwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bird's_nest_wreath"
     },
     {
         "title": "Candy Cane Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Candycanewreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_wreath"
     },
     {
         "title": "Deck the Halls Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Deckthehallswreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "deck_the_halls_wreath"
     },
     {
         "title": "Fall Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Fallwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_wreath"
     },
     {
         "title": "Festive Cranberry Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Festivecranberrywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_cranberry_wreath"
     },
     {
         "title": "Festive Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Festiveholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_holiday_wreath"
     },
     {
         "title": "Festive Pumpkin Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Festivepumpkinwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_pumpkin_wreath"
     },
     {
         "title": "Green Festive Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Greenfestiveholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_festive_holiday_wreath"
     },
     {
         "title": "Heartwarming Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Heartwarmingholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "heartwarming_holiday_wreath"
     },
     {
         "title": "Holiday Barn Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Holidaybarnwreath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_barn_wreath"
     },
     {
         "title": "Ice Skate Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Iceskatewreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_skate_wreath"
     },
     {
         "title": "Jelly Bean Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Jellybeanwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jelly_bean_wreath"
     },
     {
         "title": "Jumbleberry Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Jumbleberrywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jumbleberry_wreath"
     },
     {
         "title": "Lucky Leprechaun Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Luckyleprechaunwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_leprechaun_wreath"
     },
     {
         "title": "Nakamas Festive Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Nakamasfestiveholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nakamas_festive_holiday_wreath"
     },
     {
         "title": "Nice Nutcracker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Nicenutcrackerdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nice_nutcracker_dispenser"
     },
     {
         "title": "Poison Patch Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Poisonpatchwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poison_patch_wreath"
     },
     {
         "title": "Red Festive Holiday Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Redfestiveholidaywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_festive_holiday_wreath"
     },
     {
         "title": "Snowflake Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Snowflakewreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowflake_wreath"
     },
     {
         "title": "Spring Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Springwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_wreath"
     },
     {
         "title": "Sugarberry Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Sugarberrywreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sugarberry_wreath"
     },
     {
         "title": "Sunflower Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Sunflowerwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunflower_wreath"
     },
     {
         "title": "Tulip Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Tulipwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tulip_wreath"
     },
     {
         "title": "White Felt Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Whitefeltwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_felt_wreath"
     },
     {
         "title": "Wildflower Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Wildflowerwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wildflower_wreath"
     },
     {
         "title": "Winter Wreath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Winterwreath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wreath"
     }
 ]

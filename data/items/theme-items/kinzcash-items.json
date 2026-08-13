@@ -2,216 +2,259 @@
     {
         "title": "Adventure Park Treasure Chest",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Adventureparktreasurechest.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_park_treasure_chest"
     },
     {
         "title": "Bag Of Kinzcash Beanbag Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Bagofkinzcashbeanbagchair.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bag_of_kinzcash_beanbag_chair"
     },
     {
         "title": "Big Pile Of Kinzcash Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Bigpileofkinzcashbed.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "big_pile_of_kinzcash_bed"
     },
     {
         "title": "Big Pile Of Kinzcash Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Bigpileofkinzcashchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "big_pile_of_kinzcash_chair"
     },
     {
         "title": "Big Pile Of Kinzcash Couch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Bigpileofkinzcashcouch.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "big_pile_of_kinzcash_couch"
     },
     {
         "title": "Big Pile Of Kinzcash Estate Car",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Bigpileofkinzcashestatecar.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "big_pile_of_kinzcash_estate_car"
     },
     {
         "title": "Big Pile Of Kinzcash Play Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Bigpileofkinzcashplaypit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_play_pit"
     },
     {
         "title": "Big Pile Of Kinzcash Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Bigpileofkinzcashslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_slide"
     },
     {
         "title": "Big Pile Of Kinzcash Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Bigpileofkinzcashswing.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_swing"
     },
     {
         "title": "Big Pile Of Kinzcash Wardrobe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Bigpileofkinzcashwardrobe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_wardrobe"
     },
     {
         "title": "Cash Cow Trophy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Cashcowtrophy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cash_cow_trophy"
     },
     {
         "title": "Catch The Leprechaun Pot Of Gold",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Catchtheleprechaunpotofgold.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "catch_the_leprechaun_pot_of_gold"
     },
     {
         "title": "Chocolate Kinzcash Coin Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Chocolatekinzcashcoinseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_kinzcash_coin_seeds"
     },
     {
         "title": "Decorative Coin Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Decorativecoindispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "decorative_coin_dispenser"
     },
     {
         "title": "Dogbeard's Treasure Chest",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Dogbeardstreasurechest.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dogbeard's_treasure_chest"
     },
     {
         "title": "Dragon Treasure Pile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Dragontreasurepile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_treasure_pile"
     },
     {
         "title": "Emerald Treasure Chest",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Emeraldtreasurechest.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "emerald_treasure_chest"
     },
     {
         "title": "Framed Gold Coin Collection",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Framedgoldcoincollection.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "framed_gold_coin_collection"
     },
     {
         "title": "Gold Safe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Goldsafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_safe"
     },
     {
         "title": "Gold Treasure Chest",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Goldtreasurechest.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_treasure_chest"
     },
     {
         "title": "Golden Loader Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Goldenloaderlounger.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "golden_loader_lounger"
     },
     {
         "title": "Golden Pot Of Coins Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Goldenpotofcoinsfridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_pot_of_coins_fridge"
     },
     {
         "title": "Grand Treasure Pile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Grandtreasurepile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grand_treasure_pile"
     },
     {
         "title": "Kinzcash Coffee Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Kinzcashcoffeetable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzcash_coffee_table"
     },
     {
         "title": "Kinzcash Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Kinzcashmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzcash_machine"
     },
     {
         "title": "Kinzcash Money Bag",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Kinzcashmoneybag.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzcash_money_bag"
     },
     {
         "title": "Kinzcash Side Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Kinzcashsidetable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzcash_side_table"
     },
     {
         "title": "Kinzcash Tile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Kinzcashtile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzcash_tile"
     },
     {
         "title": "Kinzcash Vault Flooring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Kinzcashvaultflooring.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzcash_vault_flooring"
     },
     {
         "title": "Kinzcash Vault Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Kinzcashvaultwallpaper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzcash_vault_wallpaper"
     },
     {
         "title": "Lucky Coin Candy Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Luckycoincandydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_coin_candy_dispenser"
     },
     {
         "title": "Lucky Coin Safe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Luckycoinsafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_coin_safe"
     },
     {
         "title": "Lucky Leprechaun Coin Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Luckyleprechauncoinpond.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lucky_leprechaun_coin_pond"
     },
     {
         "title": "Pirate's Treasure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Piratestreasure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pirate's_treasure"
     },
     {
         "title": "Playful Pot Of Gold",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Playfulpotofgold.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playful_pot_of_gold"
     },
     {
         "title": "Pot Of Gold Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Potofgoldpond.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pot_of_gold_pond"
     },
     {
         "title": "Pot Of Gold Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Potofgoldslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pot_of_gold_slide"
     },
     {
         "title": "Recovered Coins Side Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Recoveredcoinssidetable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "recovered_coins_side_table"
     },
     {
         "title": "Riches & Spoils Pedestal",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Riches%26spoilspedestal.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "riches_&_spoils_pedestal"
     },
     {
         "title": "Stacks Of Coins Side Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Stacksofcoinssidetable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stacks_of_coins_side_table"
     },
     {
         "title": "Sunken Treasure Trove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Sunkentreasuretrove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sunken_treasure_trove"
     },
     {
         "title": "Treasure Throne",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Treasurethrone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "treasure_throne"
     },
     {
         "title": "Wondrous Treasure Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Wondroustreasurebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wondrous_treasure_bed"
     }
 ]

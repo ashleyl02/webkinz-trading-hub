@@ -2,486 +2,601 @@
     {
         "title": "Arts and Crafts Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Artsandcraftshome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arts_and_crafts_home"
     },
     {
         "title": "Blacksmith Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Blacksmithshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blacksmith_shop"
     },
     {
         "title": "Blue Victorian Townhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Bluevictoriantownhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_victorian_townhouse"
     },
     {
         "title": "Cheerful Cocoa Cafe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Cheerfulcocoacafe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheerful_cocoa_cafe"
     },
     {
         "title": "Cheerful Cookie Factory",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Cheerfulcookiefactory.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheerful_cookie_factory"
     },
     {
         "title": "Cheerful Sweet Shoppe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Cheerfulsweetshoppe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cheerful_sweet_shoppe"
     },
     {
         "title": "Cheery Christmas Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Cheerychristmashome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheery_christmas_home"
     },
     {
         "title": "Colonial Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Colonialhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "colonial_home"
+    },
+    {
+        "title": "Country Cabin Home",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Countrycabinhome.png",
+        "is_tradeable": true,
+        "id": "country_cabin_home"
     },
     {
         "title": "Cozy Kinzville Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Cozykinzvillehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_kinzville_home"
     },
     {
         "title": "Cozy Ski Chalet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Cozyskichalet.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_ski_chalet"
     },
     {
         "title": "Craftsman Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Craftsmanhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "craftsman_home"
     },
     {
         "title": "Daisy's Diner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Daisysdiner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daisy's_diner"
     },
     {
         "title": "Darling Garland Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Darlinggarlandhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "darling_garland_home"
     },
     {
         "title": "Diner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Diner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diner"
     },
     {
         "title": "Enchanting Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Enchantinghome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanting_home"
     },
     {
         "title": "Fall Fest Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Fallfestbarn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_barn"
     },
     {
         "title": "Fashion Boutique",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Fashionboutique.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_boutique"
     },
     {
         "title": "Festive Brownstone",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Festivebrownstone.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_brownstone"
     },
     {
         "title": "Festive Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Festivehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_home"
     },
     {
         "title": "Festive Music Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Festivemusicshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_music_shop"
     },
     {
         "title": "Festive Victorian Townhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Festivevictoriantownhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_victorian_townhouse"
     },
     {
         "title": "Festive Wreath Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Festivewreathhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "festive_wreath_home"
     },
     {
         "title": "Fine Chocolatier Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Finechocolatiershop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fine_chocolatier_shop"
     },
     {
         "title": "Fine Clothing Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Fineclothingshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fine_clothing_shop"
     },
     {
         "title": "Frosted Window Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Frostedwindowhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frosted_window_home"
     },
     {
         "title": "Fruit Market Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Fruitmarketshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fruit_market_shop"
     },
     {
         "title": "General Store",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Generalstore.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "general_store"
     },
     {
         "title": "Gingerbread Holiday Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Gingerbreadholidayhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_holiday_home"
     },
     {
         "title": "Gothic Halloween Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Gothichalloweenhome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_home"
     },
     {
         "title": "Gourmet Food Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Gourmetfoodshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gourmet_food_shop"
     },
     {
         "title": "Green Victorian Townhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Greenvictoriantownhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_victorian_townhouse"
     },
     {
         "title": "Halloween Costume Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Halloweencostumeshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_costume_shop"
     },
     {
         "title": "Halloween Creepy House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Halloweencreepyhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_creepy_house"
     },
     {
         "title": "Halloween Green Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Halloweengreenhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_green_home"
     },
     {
         "title": "Halloween Orange Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Halloweenorangehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_orange_home"
     },
     {
         "title": "Halloween Purple Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Halloweenpurplehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_purple_home"
     },
     {
         "title": "Happy Holiday Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Happyholidayhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_holiday_home"
     },
     {
         "title": "Haunted House",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Hauntedhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_house"
     },
     {
         "title": "Holiday Lights Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Holidaylightshome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_lights_home"
     },
     {
         "title": "Garden Greenhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Gardengreenhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_greenhouse"
     },
     {
         "title": "Holiday Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Holidayhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_home"
     },
     {
         "title": "Holiday Light Up Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Holidaylightuphome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_light_up_home"
     },
     {
         "title": "Holiday Toy Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Holidaytoyshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_toy_shop"
     },
     {
         "title": "Holiday Wishes Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Holidaywisheshome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_wishes_home"
     },
     {
         "title": "KinzPost Office Building",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Kinzpostofficebuilding.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzpost_office_building"
     },
     {
         "title": "Kinzville Antiques Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Kinzvilleantiquesshop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_antiques_shop"
     },
     {
         "title": "Kinzville Arcade",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Kinzvillearcade.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_arcade"
     },
     {
         "title": "Kinzville Bakery",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Kinzvillebakery.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_bakery"
     },
     {
         "title": "Kinzville Cafe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Kinzvillecafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_cafe"
     },
     {
         "title": "Kinzville Dentist",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Kinzvilledentist.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_dentist"
     },
     {
         "title": "Kinzville Flower Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Kinzvilleflowershop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_flower_shop"
     },
     {
         "title": "Kinzville Grocery Store",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Kinzvillegrocerystore.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_grocery_store"
     },
     {
         "title": "Kinzville Library",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Kinzvillelibrary.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_library"
     },
     {
         "title": "Kinzville Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Kinzvillespa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_spa"
+    },
+    {
+        "title": "Kinzville Town Hall",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Kinzvilletownhall.png",
+        "is_tradeable": true,
+        "id": "kinzville_town_hall"
     },
     {
         "title": "Main Street Bank",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Mainstreetbank.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "main_street_bank"
     },
     {
         "title": "Main Street General Store",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Mainstreetgeneralstore.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "main_street_general_store"
     },
     {
         "title": "Main Street Inn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Mainstreetinn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "main_street_inn"
     },
     {
         "title": "Main Street Theater",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Mainstreettheater.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "main_street_theater"
     },
     {
         "title": "Mediterranean Blue Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Mediterraneanbluehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mediterranean_blue_home"
     },
     {
         "title": "Mediterranean White Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Mediterraneanwhitehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mediterranean_white_home"
     },
     {
         "title": "Merry Mistletoe Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Merrymistletoehome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "merry_mistletoe_home"
     },
     {
         "title": "Modern Teal Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Moderntealhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "modern_teal_home"
     },
     {
         "title": "Modern White Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Modernwhitehome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "modern_white_home"
     },
     {
         "title": "Modern Yellow Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Modernyellowhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "modern_yellow_home"
     },
     {
         "title": "Painted Sunflower Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Paintedsunflowercottage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "painted_sunflower_cottage"
     },
     {
         "title": "Peppermint Bed and Breakfast",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Peppermintbedandbreakfast.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_bed_and_breakfast"
     },
     {
         "title": "Peppermint Lane Caf\u00e9",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Peppermintlanecafe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_lane_caf\u00e9"
     },
     {
         "title": "Peppermint Music Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Peppermintmusicshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_music_shop"
     },
     {
         "title": "Peppermint Sweets Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Peppermintsweetsshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_sweets_shop"
     },
     {
         "title": "Peppermint Toy Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Pepperminttoyshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_toy_shop"
     },
     {
         "title": "Pizza Palace Restaurant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Pizzapalacerestaurant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pizza_palace_restaurant"
     },
     {
         "title": "Puppy Patrol Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Puppypatrolstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "puppy_patrol_station"
     },
     {
         "title": "Rooftop Patio Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Rooftoppatiohome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rooftop_patio_home"
     },
     {
         "title": "Sheriff's Office",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Sheriffsoffice.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sheriff's_office"
     },
     {
         "title": "Ski Rental Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Skirentalshop.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ski_rental_shop"
     },
     {
         "title": "Ski Resort Cafe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Skiresortcafe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ski_resort_cafe"
     },
     {
         "title": "Ski Resort Inn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Skiresortinn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ski_resort_inn"
     },
     {
         "title": "Small Town Bank",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Smalltownbank.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "small_town_bank"
     },
     {
         "title": "Smoothie Moves Diner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Smoothiemovesdiner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "smoothie_moves_diner"
     },
     {
         "title": "Snow Rescue Building",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Snowrescuebuilding.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snow_rescue_building"
     },
     {
         "title": "Southern Revival Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Southernrevivalhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "southern_revival_home"
     },
     {
         "title": "Southwestern Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Southwesternhome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "southwestern_home"
     },
     {
         "title": "Spring Greenhouse Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Springgreenhouseseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_greenhouse_seat"
     },
     {
         "title": "Sweetheart Bed & Breakfast",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Sweetheartbed%26breakfast.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_bed_&_breakfast"
     },
     {
         "title": "Sweetheart Cafe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Sweetheartcafe.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_cafe"
     },
     {
         "title": "Sweetheart Flower Shop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Sweetheartflowershop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_flower_shop"
     },
     {
         "title": "Sweetheart Theater",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/89/Sweethearttheater.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_theater"
     },
     {
         "title": "Sweet Holiday Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Sweetholidayhome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweet_holiday_home"
     },
     {
         "title": "Tall Toadstool Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Talltoadstoolhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tall_toadstool_home"
     },
     {
         "title": "Teapot Greenhouse Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Teapotgreenhouseseat.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teapot_greenhouse_seat"
     },
     {
         "title": "Tender Tidings Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Tendertidingshome.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tender_tidings_home"
     },
     {
         "title": "Tiny Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Tinyhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiny_home"
     },
     {
         "title": "Toy Store",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Toystore.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toy_store"
     },
     {
         "title": "Tudor Home",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Tudorhome.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tudor_home"
+    },
+    {
+        "title": "Verandah Wall Home",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Verandahwallhome.png",
+        "is_tradeable": true,
+        "id": "verandah_wall_home"
     },
     {
         "title": "Victorian Townhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Victoriantownhouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "victorian_townhouse"
     },
     {
         "title": "Webkinz Newz Building",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Webkinznewzbuilding.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_newz_building"
     },
     {
         "title": "Wild West Restaurant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Wildwestrestaurant.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_west_restaurant"
     }
 ]

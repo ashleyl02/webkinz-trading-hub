@@ -2,96 +2,115 @@
     {
         "title": "Christmas Eve Nook",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Christmasevenook.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_eve_nook"
     },
     {
         "title": "Comfy Corner Hideaway Stairs",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Comfycornerhideawaystairs.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "comfy_corner_hideaway_stairs"
     },
     {
         "title": "Fabulous Staircase slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Fabulousstaircaseslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fabulous_staircase_slide"
     },
     {
         "title": "Flashy Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Flashystaircase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "flashy_staircase"
     },
     {
         "title": "Gingerbread Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Gingerbreadstaircase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerbread_staircase"
     },
     {
         "title": "Grand Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Grandstaircaseslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grand_staircase_slide"
     },
     {
         "title": "Halloween Ball Balcony",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Halloweenballbalcony.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "halloween_ball_balcony"
     },
     {
         "title": "Nightmare Stairs",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Nightmarestairs.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nightmare_stairs"
     },
     {
         "title": "Pretty Pine Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Prettypinestaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pine_staircase"
     },
     {
         "title": "Rickety Rotten Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Ricketyrottenstaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rickety_rotten_staircase"
     },
     {
         "title": "Slippery Holiday Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Slipperyholidaystaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slippery_holiday_staircase"
     },
     {
         "title": "Spiral Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Spiralstaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spiral_staircase"
     },
     {
         "title": "Spy Lair Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Spylairstaircase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spy_lair_staircase"
     },
     {
         "title": "Starry Slumber Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Starryslumberhideaway.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "starry_slumber_hideaway"
     },
     {
         "title": "Tinkerpunk Spiral Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Tinkerpunkspiralstaircase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tinkerpunk_spiral_staircase"
     },
     {
         "title": "Tricky Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Trickystaircaseslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tricky_staircase_slide"
     },
     {
         "title": "Winter Chill Hideaway Stairs",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Winterchillhideawaystairs.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_chill_hideaway_stairs"
     },
     {
         "title": "Winterfest Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Winterfeststaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_staircase"
     },
     {
         "title": "Under the Stairs Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Underthestairshideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "under_the_stairs_hideaway"
     }
 ]

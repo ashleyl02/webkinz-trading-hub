@@ -2,216 +2,259 @@
     {
         "title": "Bee Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Beeballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bee_balloons"
     },
     {
         "title": "Blue, Orange Yellow Party Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Blueorangeyellowpartyballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue,_orange_yellow_party_balloons"
     },
     {
         "title": "Blue Welcome Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Bluewelcomeballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_welcome_balloon"
     },
     {
         "title": "Bouquet of Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Bouquetofballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouquet_of_balloons"
     },
     {
         "title": "Candy Cane Balloon Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Candycaneballooncolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_balloon_column"
     },
     {
         "title": "Celebration Balloon Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Celebrationballoonbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_balloon_bouquet"
     },
     {
         "title": "Celebration Balloon Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Celebrationballooncolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_balloon_column"
     },
     {
         "title": "Celebration Bunch of Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Celebrationbunchofballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebration_bunch_of_balloons"
     },
     {
         "title": "Christmas Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Christmasballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_balloons"
     },
     {
         "title": "Circus Dining Chair",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Circusdiningchair.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "circus_dining_chair"
     },
     {
         "title": "Deluxe Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Deluxeballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "deluxe_balloon"
     },
     {
         "title": "Fall Fest Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Fallfestballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_balloons"
     },
     {
         "title": "Floating School Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Floatingschooldesk.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "floating_school_desk"
     },
     {
         "title": "Goo-Goo Berry Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Googooberryballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goo-goo_berry_balloons"
     },
     {
         "title": "Green Welcome Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Greenwelcomeballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_welcome_balloon"
     },
     {
         "title": "Happy Birthday Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Happybirthdayballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "happy_birthday_balloons"
     },
     {
         "title": "Happy Birthday Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Happybirthdaybouquet.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "happy_birthday_bouquet"
     },
     {
         "title": "Hover Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Hoverswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hover_swing"
     },
     {
         "title": "Kiwi Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Kiwiballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kiwi_balloons"
     },
     {
         "title": "Light Blue Balloon Darts Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Lightblueballoondartsballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "light_blue_balloon_darts_balloon"
     },
     {
         "title": "Mayoral Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Mayoralballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mayoral_balloons"
     },
     {
         "title": "Monkey and Monkey Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Monkeyandmonkeyballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "monkey_and_monkey_balloons"
     },
     {
         "title": "Orange Balloon Darts Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Orangeballoondartsballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_balloon_darts_balloon"
     },
     {
         "title": "Party Time Banner",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Partytimebanner.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "party_time_banner"
     },
     {
         "title": "Pixie Pod Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Pixiepodballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pixie_pod_balloons"
     },
     {
         "title": "Polarberry Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Polarberryballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polarberry_balloons"
     },
     {
         "title": "Purple Balloon Darts Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Purpleballoondartsballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_balloon_darts_balloon"
     },
     {
         "title": "Red Welcome Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Redwelcomeballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_welcome_balloon"
     },
     {
         "title": "Sea Creature Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Seacreatureballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sea_creature_balloons"
     },
     {
         "title": "Shiny Party Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Shinypartyballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shiny_party_balloons"
     },
     {
         "title": "Spooky Bunch of Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Spookybunchofballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spooky_bunch_of_balloons"
     },
     {
         "title": "Spotted Frog Pattern Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Spottedfrogpatternballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spotted_frog_pattern_balloon"
     },
     {
         "title": "Spring Fling Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Springflingballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_fling_balloons"
     },
     {
         "title": "Sweetheart Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Sweetheartballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_balloons"
     },
     {
         "title": "Wacky Bunch of Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Wackybunchofballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_bunch_of_balloons"
     },
     {
         "title": "Webkinz Cares Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Webkinzcaresballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_cares_balloon"
     },
     {
         "title": "Webkinz Day Celebration Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Webkinzdaycelebrationtree.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_day_celebration_tree"
     },
     {
         "title": "Winterfest Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Winterfestballoons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_balloons"
     },
     {
         "title": "Yard Sale Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Yardsaletable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "yard_sale_table"
     },
     {
         "title": "Year 20 Balloons",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Year20balloons.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_balloons"
     },
     {
         "title": "Year 20 Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Year20column.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_column"
     },
     {
         "title": "Yellow Welcome Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Yellowwelcomeballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_welcome_balloon"
     },
     {
         "title": "Zum Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Zumballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zum_balloon"
     }
 ]

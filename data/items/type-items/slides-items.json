@@ -2,661 +2,793 @@
     {
         "title": "Acorn Stash Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Acornstashslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "acorn_stash_slide"
     },
     {
         "title": "Autumn Tree Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3c/Autumntreeslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_tree_slide"
     },
     {
         "title": "Autumn Wood Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Autumnwoodslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_wood_slide"
     },
     {
         "title": "Aztec Temple Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Aztectempleslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "aztec_temple_slide"
     },
     {
         "title": "Ball Pit Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Ballpitslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ball_pit_slide"
     },
     {
         "title": "Bamboo Chute Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Bamboochuteslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bamboo_chute_slide"
     },
     {
         "title": "Barnyard Plum Tree Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Barnyardplumtreeslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "barnyard_plum_tree_slide"
     },
     {
         "title": "Bean Stalk Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Beanstalkslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bean_stalk_slide"
     },
     {
         "title": "Big Pile of KinzCash Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Bigpileofkinzcashslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_pile_of_kinzcash_slide"
     },
     {
         "title": "Blue Hillside Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Bluehillsideslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_hillside_slide"
     },
     {
         "title": "Blue Poinsettia Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Bluepoinsettiaslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_poinsettia_slide"
     },
     {
         "title": "Boys Only Treehouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Boysonlytreehouse.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "boys_only_treehouse"
     },
     {
         "title": "Brontosaurus Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Brontosaurusslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "brontosaurus_slide"
     },
     {
         "title": "Build-a-Haunted Castle Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Buildahauntedcastleslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "build-a-haunted_castle_slide"
     },
     {
         "title": "Build-a-Snow Fort Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Buildasnowfortslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "build-a-snow_fort_slide"
     },
     {
         "title": "Burrowing Cliffside Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Burrowingcliffsideslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "burrowing_cliffside_slide"
     },
     {
         "title": "Candy Cane Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Candycaneslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "candy_cane_slide"
     },
     {
         "title": "Caramel Soup Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Caramelsoupslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "caramel_soup_slide"
     },
     {
         "title": "Carnival Fun Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Carnivalfunslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carnival_fun_slide"
     },
     {
         "title": "Carnival Spiral Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Carnivalspiralslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carnival_spiral_slide"
     },
     {
         "title": "Castle Tower Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Castletowerslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "castle_tower_slide"
     },
     {
         "title": "Charming Ruins Spiral Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Charmingruinsspiralslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charming_ruins_spiral_slide"
     },
     {
         "title": "Chocolate Playground Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Chocolateplaygroundslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_playground_slide"
     },
     {
         "title": "City Street Slide Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Citystreetslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "city_street_slide_slide"
     },
     {
         "title": "Crisp Autumn Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Crispautumnslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crisp_autumn_slide"
     },
     {
         "title": "Cruise Ship Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Cruiseshipwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cruise_ship_water_slide"
     },
     {
         "title": "Cute Jungle Gym Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Cutejunglegymslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_jungle_gym_slide"
     },
     {
         "title": "Cute Octopus Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Cuteoctopusslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_octopus_slide"
     },
     {
         "title": "Daring Den Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fc/Daringdenslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daring_den_slide"
     },
     {
         "title": "Dino Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Dinoslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dino_slide"
     },
     {
         "title": "Dragon Hero Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Dragonheroslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_hero_slide"
     },
     {
         "title": "Fabulous Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Fabulousstaircaseslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fabulous_staircase_slide"
     },
     {
         "title": "Fall Fair Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Fallfairslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fair_slide"
     },
     {
         "title": "Fantasy Stable Hayloft Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Fantasystablehayloftslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fantasy_stable_hayloft_slide"
     },
     {
         "title": "Floating Dock Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Floatingdockslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "floating_dock_slide"
     },
     {
         "title": "Fly 90s Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Fly90sstaircaseslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fly_90s_staircase_slide"
     },
     {
         "title": "Frozen Fun Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Frozenfunslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frozen_fun_slide"
     },
     {
         "title": "Frozen River Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Frozenriverslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frozen_river_slide"
     },
     {
         "title": "Gem Carved Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Gemcarvedslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gem_carved_slide"
     },
     {
         "title": "Getaway Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Getawayslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "getaway_slide"
     },
     {
         "title": "Gingerbread Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Gingerbreadslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerbread_slide"
     },
     {
         "title": "Glass Slipper Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Glassslipperslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glass_slipper_slide"
     },
     {
         "title": "Golden Gorilla Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Goldengorillaslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_gorilla_slide"
     },
     {
         "title": "Golden Glide Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Goldenglidewaterslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_glide_water_slide"
     },
     {
         "title": "Grand Christmas Tree Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Grandchristmastreeslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grand_christmas_tree_slide"
     },
     {
         "title": "Grand Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Grandstaircaseslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grand_staircase_slide"
     },
     {
         "title": "Gum Fall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Gumfallslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gum_fall_slide"
     },
     {
         "title": "Half-Pipe",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Halfpipe.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "half-pipe"
     },
     {
         "title": "Holiday Spirit Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Holidayspiritslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_spirit_slide"
     },
     {
         "title": "Holiday Tree Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Holidaytreeslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_tree_slide"
     },
     {
         "title": "Iceberg Slider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Icebergslider.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "iceberg_slider"
     },
     {
         "title": "Ice Cream Swirl Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Icecreamswirlslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ice_cream_swirl_slide"
     },
     {
         "title": "Icy Castle Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Icycastleslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icy_castle_slide"
     },
     {
         "title": "Inflatable Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Inflatableslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "inflatable_slide"
     },
     {
         "title": "Lakeside Floating Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Lakesidefloatingslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lakeside_floating_slide"
     },
     {
         "title": "Lollipop Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Lollipopslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lollipop_slide"
     },
     {
         "title": "Long Necked Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Longneckedslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "long_necked_slide"
     },
     {
         "title": "Love Dino Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Lovedinoslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "love_dino_slide"
     },
     {
         "title": "Mad Hatter Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Madhatterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mad_hatter_slide"
     },
     {
         "title": "Magic Forest Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/52/Magicforestslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_forest_slide"
     },
     {
         "title": "Majestic Castle Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Majesticcastleslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "majestic_castle_slide"
     },
     {
         "title": "Maple Syrup Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Maplesyrupslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "maple_syrup_slide"
     },
     {
         "title": "Melted Chocolate Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Meltedchocolateslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "melted_chocolate_slide"
     },
     {
         "title": "Mermaid Princess Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Mermaidprincessslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mermaid_princess_slide"
     },
     {
         "title": "Millie's Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Milliesslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "millie's_slide"
     },
     {
         "title": "Nautical Navy Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Nauticalnavyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nautical_navy_slide"
     },
     {
         "title": "Northern Trails River Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Northerntrailsriverslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "northern_trails_river_slide"
     },
     {
         "title": "Orange Hillside Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Orangehillsideslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_hillside_slide"
     },
     {
         "title": "Outback Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Outbackslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "outback_slide"
     },
     {
         "title": "Party Hat Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Partyhatslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "party_hat_slide"
     },
     {
         "title": "Peppermint Clock Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Peppermintclockslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_clock_slide"
     },
     {
         "title": "Peppermint Swirl Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Peppermintswirlslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peppermint_swirl_slide"
     },
     {
         "title": "Pink Mermaid Waterslide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Pinkmermaidwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pink_mermaid_waterslide"
     },
     {
         "title": "Playful Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Playfulslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playful_slide"
     },
     {
         "title": "Playground Long Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f0/Playgroundlongslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playground_long_slide"
     },
     {
         "title": "Playground Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Playgroundslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "playground_slide"
     },
     {
         "title": "Playground Tube Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Playgroundtubeslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "playground_tube_slide"
     },
     {
         "title": "Poinsettia Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Poinsettiaslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "poinsettia_slide"
     },
     {
         "title": "Pool Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Poolwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pool_water_slide"
     },
     {
         "title": "Pot of Gold Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Potofgoldslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pot_of_gold_slide"
     },
     {
         "title": "Prehistoric Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Prehistoricslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "prehistoric_slide"
     },
     {
         "title": "Puppy Patrol Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Puppypatrolslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "puppy_patrol_slide"
     },
     {
         "title": "Purple Frost Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Purplefrostslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_frost_slide"
     },
     {
         "title": "Purple Hillside Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Purplehillsideslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_hillside_slide"
     },
     {
         "title": "Quilted Christmas Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Quiltedchristmasslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_christmas_slide"
     },
     {
         "title": "Rainbow Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Rainbowslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_slide"
     },
     {
         "title": "Rainbow Tower Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Rainbowtowerslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_tower_slide"
     },
     {
         "title": "Raziel Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Razielslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "raziel_slide"
     },
     {
         "title": "Rocky Waterfall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Rockywaterfallslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rocky_waterfall_slide"
     },
     {
         "title": "Sand Dune Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Sandduneslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sand_dune_slide"
     },
     {
         "title": "SantaKinz Fireplace Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Santakinzfireplaceslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_fireplace_slide"
     },
     {
         "title": "SantaKinz Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Santakinzslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_slide"
     },
     {
         "title": "Sassy Seafaring Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Sassyseafaringslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sassy_seafaring_slide"
     },
     {
         "title": "Saxophone Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Saxophoneslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "saxophone_slide"
     },
     {
         "title": "Secluded Garden Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Secludedgardenslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_slide"
     },
     {
         "title": "Shadowy Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Shadowyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shadowy_slide"
     },
     {
         "title": "Shooting Star Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Shootingstarslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "shooting_star_slide"
     },
     {
         "title": "Silo Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Siloslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silo_slide"
     },
     {
         "title": "Slime Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Slimeslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slime_slide"
     },
     {
         "title": "Slippery Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Slipperyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slippery_slide"
     },
     {
         "title": "Slippery Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Slipperywaterslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slippery_water_slide"
     },
     {
         "title": "Sly Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Slyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sly_slide"
     },
     {
         "title": "Snow Fort Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Snowfortslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snow_fort_slide"
     },
     {
         "title": "Snow Saucer Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Snowsaucerslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "snow_saucer_slide"
     },
     {
         "title": "Spiral Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Spiralwaterslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spiral_water_slide"
     },
     {
         "title": "Spot of Tea Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Spotofteaslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spot_of_tea_slide"
     },
     {
         "title": "Spring Celebration Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Springcelebrationslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_slide"
     },
     {
         "title": "Spring Fling Fun Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Springflingfunslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_fling_fun_slide"
     },
     {
         "title": "Stardust Slider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Stardustslider.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stardust_slider"
     },
     {
         "title": "Sunrise Ice Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Sunriseiceslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunrise_ice_slide"
     },
     {
         "title": "Sweetheart Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Sweetheartslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sweetheart_slide"
     },
     {
         "title": "Teddy Bear Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Teddybearslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teddy_bear_slide"
     },
     {
         "title": "Tender Tidings Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Tendertidingsslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tender_tidings_slide"
     },
     {
         "title": "Tiki Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Tikiwaterslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiki_water_slide"
     },
     {
         "title": "Tiger Tiger Stone Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Tigertigerstoneslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiger_tiger_stone_slide"
     },
     {
         "title": "Toothpaste Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Toothpasteslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toothpaste_slide"
     },
     {
         "title": "Treetop Winding Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Treetopwindingwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "treetop_winding_water_slide"
     },
     {
         "title": "Tricky Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Trickystaircaseslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tricky_staircase_slide"
     },
     {
         "title": "Twirly Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Twirlyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "twirly_slide"
     },
     {
         "title": "Tyrannical Rex Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Tyrannicalrexslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tyrannical_rex_slide"
     },
     {
         "title": "Underground Playground Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Undergroundplaygroundslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "underground_playground_slide"
     },
     {
         "title": "Underwater Ruins Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Underwaterruinsslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "underwater_ruins_slide"
     },
     {
         "title": "Violet Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Violetslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "violet_slide"
     },
     {
         "title": "Wacky Slippy Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Wackyslippyslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_slippy_slide"
     },
     {
         "title": "Waterfall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Waterfallslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waterfall_slide"
     },
     {
         "title": "Water Park Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Waterparkslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "water_park_slide"
     },
     {
         "title": "Webkinz Celebration Cake Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Webkinzcelebrationcakeslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_celebration_cake_slide"
     },
     {
         "title": "Wild Ride Ice Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Wildrideiceslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_ride_ice_slide"
     },
     {
         "title": "Wild Water Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Wildwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_water_slide"
     },
     {
         "title": "Wondrous Waterslide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Wondrouswaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wondrous_waterslide"
     },
     {
         "title": "World of Zingoz Waterslide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Worldofzingozwaterslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "world_of_zingoz_waterslide"
     },
     {
         "title": "WOW Soda Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Wowsodaslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wow_soda_slide"
     }
 ]

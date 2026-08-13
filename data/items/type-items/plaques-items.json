@@ -2,156 +2,187 @@
     {
         "title": "Adventure Bravery Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Adventurebraveryplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_bravery_plaque"
     },
     {
         "title": "Adventure Camping Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Adventurecampingplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_camping_plaque"
     },
     {
         "title": "Adventure Clean Up Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/07/Adventurecleanupplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_clean_up_plaque"
     },
     {
         "title": "Adventure Community Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Adventurecommunityplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_community_plaque"
     },
     {
         "title": "Adventure Cooking Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Adventurecookingplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_cooking_plaque"
     },
     {
         "title": "Adventure Earth Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Adventureearthplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_earth_plaque"
     },
     {
         "title": "Adventure First Aid Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Adventurefirstaidplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_first_aid_plaque"
     },
     {
         "title": "Adventure Fitness Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Adventurefitnessplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_fitness_plaque"
     },
     {
         "title": "Adventure Friendship Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Adventurefriendshipplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_friendship_plaque"
     },
     {
         "title": "Adventure Nature Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Adventurenatureplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_nature_plaque"
     },
     {
         "title": "Adventure Scouts Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Adventurescoutsplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_scouts_plaque"
     },
     {
         "title": "Adventure Water Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Adventurewaterplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_water_plaque"
     },
     {
         "title": "Aquarius Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Aquariussymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aquarius_symbol_wall_decoration"
     },
     {
         "title": "Aries Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Ariessymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "aries_symbol_wall_decoration"
     },
     {
         "title": "Cancer Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Cancersymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cancer_symbol_wall_decoration"
     },
     {
         "title": "Capricorn Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Capricornsymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "capricorn_symbol_wall_decoration"
     },
     {
         "title": "Commemorative Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Commemorativeplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "commemorative_plaque"
     },
     {
         "title": "Employee of the Month Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Employeeofthemonthplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "employee_of_the_month_plaque"
     },
     {
         "title": "Gemini Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Geminisymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gemini_symbol_wall_decoration"
     },
     {
         "title": "Kinzville Academy Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Kinzvilleacademyplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_plaque"
     },
     {
         "title": "Leo Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Leosymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "leo_symbol_wall_decoration"
     },
     {
         "title": "Libra Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Librasymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "libra_symbol_wall_decoration"
     },
     {
         "title": "Magical Forest Key Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Magicalforestkeyplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magical_forest_key_plaque"
     },
     {
         "title": "Noble Elk Wall Plaque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Nobleelkwallplaque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "noble_elk_wall_plaque"
     },
     {
         "title": "Pisces Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Piscessymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pisces_symbol_wall_decoration"
     },
     {
         "title": "Ribbon Cutting Scissors",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Ribboncuttingscissors.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ribbon_cutting_scissors"
     },
     {
         "title": "Sagittarius Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Sagittariussymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sagittarius_symbol_wall_decoration"
     },
     {
         "title": "Scorpio Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Scorpiosymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scorpio_symbol_wall_decoration"
     },
     {
         "title": "Souvenir License Plate",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/ff/Souvenirlicenseplate.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "souvenir_license_plate"
     },
     {
         "title": "Taurus Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Taurussymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "taurus_symbol_wall_decoration"
     },
     {
         "title": "Virgo Symbol Wall Decoration",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Virgosymbolwalldecoration.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "virgo_symbol_wall_decoration"
     }
 ]

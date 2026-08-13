@@ -2,276 +2,331 @@
     {
         "title": "Autumn Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Autumnwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_waterfall"
     },
     {
         "title": "Autumn Waterfall Shower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Autumnwaterfallshower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_waterfall_shower"
     },
     {
         "title": "Blossoming Waterfall Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Blossomingwaterfallfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blossoming_waterfall_fountain"
     },
     {
         "title": "Blushing Rushing Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Blushingrushingwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blushing_rushing_waterfall"
     },
     {
         "title": "Charming Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Charmingwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charming_waterfall"
     },
     {
         "title": "Chilly Crystal Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Chillycrystalwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chilly_crystal_waterfall"
     },
     {
         "title": "Chocolate Spa Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Chocolatespawaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_spa_waterfall"
     },
     {
         "title": "Chocolate Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Chocolatewaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_waterfall"
     },
     {
         "title": "Collector's Paradise Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Collectorsparadisewaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "collector's_paradise_waterfall"
     },
     {
         "title": "Conservatory Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Conservatorywaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "conservatory_waterfall"
     },
     {
         "title": "Cool Cave Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Coolcavewaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cool_cave_waterfall"
     },
     {
         "title": "Crystal Falls",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Crystalfalls.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crystal_falls"
     },
     {
         "title": "Daredevil Falls Ride",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Daredevilfallsride.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "daredevil_falls_ride"
     },
     {
         "title": "Dragon Hero Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Dragonheroslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dragon_hero_slide"
     },
     {
         "title": "Fairy Den Cascading Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Fairydencascadingwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_cascading_waterfall"
     },
     {
         "title": "Fall Mosaic Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Fallmosaicwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fall_mosaic_waterfall"
     },
     {
         "title": "Fall Waterfall Oasis",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Fallwaterfalloasis.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_waterfall_oasis"
     },
     {
         "title": "Floral Spring Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Floralspringwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_spring_waterfall"
     },
     {
         "title": "Freaky Forest Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Freakyforestwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "freaky_forest_waterfall"
     },
     {
         "title": "Fresh Waterfalls",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Freshwaterfalls.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_waterfalls"
     },
     {
         "title": "Fresh Water Waterfall Wall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Freshwaterwaterfallwall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_water_waterfall_wall"
     },
     {
         "title": "Golden Honey Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Goldenhoneywaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_honey_waterfall"
     },
     {
         "title": "Grey Owl Wonderful Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d0/Greyowlwonderfulwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grey_owl_wonderful_waterfall"
     },
     {
         "title": "Hot Springs Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Hotspringswaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hot_springs_waterfall"
     },
     {
         "title": "Kinzville High WaterfallKinzville Map Item",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Kinzvillehighwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_high_waterfallkinzville_map_item"
     },
     {
         "title": "Large Garden Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Largegardenwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "large_garden_waterfall"
     },
     {
         "title": "Lava Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Lavawaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lava_waterfall"
     },
     {
         "title": "Majestic Waterfall Flooring",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Majesticwaterfallflooring.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "majestic_waterfall_flooring"
     },
     {
         "title": "Majestic Waterfall Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Majesticwaterfallwallpaper.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "majestic_waterfall_wallpaper"
     },
     {
         "title": "Mod Patio Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Modpatiowaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mod_patio_waterfall"
     },
     {
         "title": "Moonlit Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Moonlitwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "moonlit_waterfall"
     },
     {
         "title": "Mosaic Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Mosaicwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mosaic_waterfall"
     },
     {
         "title": "Orchid Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Orchidwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orchid_waterfall"
     },
     {
         "title": "Pine Cone Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Pineconewaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pine_cone_waterfall"
     },
     {
         "title": "Rainbow Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c3/Rainbowwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_waterfall"
     },
     {
         "title": "Red Granite Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Redgranitewaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_granite_waterfall"
     },
     {
         "title": "Rocky Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Rockywaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rocky_waterfall"
     },
     {
         "title": "Rocky Waterfall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Rockywaterfallslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rocky_waterfall_slide"
     },
     {
         "title": "Snowy Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Snowywaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowy_waterfall"
     },
     {
         "title": "Spring Oasis Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Springoasiswaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_oasis_waterfall"
     },
     {
         "title": "Summer Waterfall Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Summerwaterfallpool.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_waterfall_pool"
     },
     {
         "title": "Tea Cup Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Teacupwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tea_cup_waterfall"
     },
     {
         "title": "Tranquil Tiered Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Tranquiltieredwaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tranquil_tiered_waterfall"
     },
     {
         "title": "Water Dog Falls",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Waterdogfalls.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "water_dog_falls"
     },
     {
         "title": "Waterfall Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Waterfallbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waterfall_bed"
     },
     {
         "title": "Waterfall Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Waterfallhideaway.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "waterfall_hideaway"
     },
     {
         "title": "Waterfall Room Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Waterfallroomdivider.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "waterfall_room_divider"
     },
     {
         "title": "Waterfall Oasis",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Waterfalloasis.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "waterfall_oasis"
     },
     {
         "title": "Waterfall Shower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Waterfallshower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "waterfall_shower"
     },
     {
         "title": "Waterfall Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Waterfallslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "waterfall_slide"
     },
     {
         "title": "Water Sign Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Watersignwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "water_sign_waterfall"
     },
     {
         "title": "Wellness Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Wellnesswaterfall.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wellness_waterfall"
     },
     {
         "title": "Wellness Waterfall Divider",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Wellnesswaterfalldivider.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wellness_waterfall_divider"
     },
     {
         "title": "White Chocolate Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Whitechocolatewaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_chocolate_waterfall"
     },
     {
         "title": "Winter Waterfall",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Winterwaterfall.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_waterfall"
     }
 ]

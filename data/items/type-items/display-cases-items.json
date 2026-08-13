@@ -2,216 +2,259 @@
     {
         "title": "Artifact Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Artifactdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "artifact_display_case"
     },
     {
         "title": "Bird Cage Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Birdcagedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bird_cage_display_case"
     },
     {
         "title": "DIY Ballerina Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Diyballerinadisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_ballerina_display_case"
     },
     {
         "title": "DIY Beach House Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Diybeachhousedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_beach_house_display_case"
     },
     {
         "title": "DIY Black Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Diyblackdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_black_display_case"
     },
     {
         "title": "DIY Blue Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Diybluedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_blue_display_case"
     },
     {
         "title": "DIY Brown Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Diybrowndisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_brown_display_case"
     },
     {
         "title": "DIY Cafe Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Diycafedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_cafe_display_case"
     },
     {
         "title": "DIY CampKinz Cabin Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Diycampkinzcabindisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_campkinz_cabin_display_case"
     },
     {
         "title": "DIY City Styling Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Diycitystylingdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_city_styling_display_case"
     },
     {
         "title": "DIY Creative Studio Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Diycreativestudiodisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_creative_studio_display_case"
     },
     {
         "title": "DIY Crimson Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Diycrimsondisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_crimson_display_case"
     },
     {
         "title": "DIY Deep Purple Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Diydeeppurpledisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_deep_purple_display_case"
     },
     {
         "title": "DIY Diner Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Diydinerdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_diner_display_case"
     },
     {
         "title": "DIY Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Diydisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_display_case"
     },
     {
         "title": "DIY Forest Green Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Diyforestgreendisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_forest_green_display_case"
     },
     {
         "title": "DIY Friendly Froggy Cottage Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Diyfriendlyfroggycottagedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_friendly_froggy_cottage_display_case"
     },
     {
         "title": "DIY Gray Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Diygraydisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_gray_display_case"
     },
     {
         "title": "DIY Green Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Diygreendisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_green_display_case"
     },
     {
         "title": "DIY Light Coral Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Diylightcoraldisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_light_coral_display_case"
     },
     {
         "title": "DIY Light Sea Green Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Diylightseagreendisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_light_sea_green_display_case"
     },
     {
         "title": "DIY Light Steel Blue Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Diylightsteelbluedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_light_steel_blue_display_case"
     },
     {
         "title": "DIY Magenta Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Diymagentadisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_magenta_display_case"
     },
     {
         "title": "DIY Medieval Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Diymedievaldisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_medieval_display_case"
     },
     {
         "title": "DIY Mega Modern Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Diymegamoderndisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_mega_modern_display_case"
     },
     {
         "title": "DIY Neo Gothic Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Diyneogothicdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_neo_gothic_display_case"
     },
     {
         "title": "DIY Orange Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Diyorangedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_orange_display_case"
     },
     {
         "title": "DIY Powder Blue Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Diypowderbluedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_powder_blue_display_case"
     },
     {
         "title": "DIY Purple Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Diypurpledisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_purple_display_case"
     },
     {
         "title": "DIY Red Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Diyreddisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_red_display_case"
     },
     {
         "title": "DIY Regency Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Diyregencydisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_regency_display_case"
     },
     {
         "title": "DIY Royal Blue Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Diyroyalbluedisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_royal_blue_display_case"
     },
     {
         "title": "DIY Sweet 16 Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Diysweet16displaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_sweet_16_display_case"
     },
     {
         "title": "DIY Wizard Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Diywizarddisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_wizard_display_case"
     },
     {
         "title": "DIY Yellow Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Diyyellowdisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "diy_yellow_display_case"
     },
     {
         "title": "Glass Leprechaun Display Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Glassleprechaundisplaycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glass_leprechaun_display_case"
     },
     {
         "title": "Glass Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Glasstrophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glass_trophy_case"
     },
     {
         "title": "Gold Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Goldtrophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_trophy_case"
     },
     {
         "title": "Kinzville Academy Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Kinzvilleacademytrophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_academy_trophy_case"
     },
     {
         "title": "Mega Modern Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Megamoderntrophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mega_modern_trophy_case"
     },
     {
         "title": "Prima Ballerina Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Primaballerinatrophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "prima_ballerina_trophy_case"
     },
     {
         "title": "Trophy Case",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Trophycase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trophy_case"
     },
     {
         "title": "Webkinz Sceptre of Wonder",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Webkinzsceptreofwonder.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_sceptre_of_wonder"
     }
 ]

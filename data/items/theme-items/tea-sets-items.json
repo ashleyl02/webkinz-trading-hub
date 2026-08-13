@@ -2,246 +2,295 @@
     {
         "title": "Berry Farm Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Berryfarmteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_farm_tea_set"
     },
     {
         "title": "Book Nook Tea Tray",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Booknookteatray.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "book_nook_tea_tray"
     },
     {
         "title": "CampKinz Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Campkinzteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "campkinz_tea_set"
     },
     {
         "title": "Celebrate Spring Teacup",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Celebratespringteacup.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebrate_spring_teacup"
     },
     {
         "title": "Celebrate Spring Teapot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Celebratespringteapot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "celebrate_spring_teapot"
     },
     {
         "title": "Charming Tea Cart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Charmingteacart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "charming_tea_cart"
     },
     {
         "title": "City Styling Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Citystylingteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "city_styling_tea_set"
     },
     {
         "title": "Condo Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Condoteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "condo_tea_set"
     },
     {
         "title": "Emerald Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Emeraldteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "emerald_tea_set"
     },
     {
         "title": "Fancy Tea Service",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Fancyteaservice.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_tea_service"
     },
     {
         "title": "Fantasy Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Fantasyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fantasy_tea_set"
     },
     {
         "title": "Floral Tea Cup",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Floralteacup.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_tea_cup"
     },
     {
         "title": "Floral Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Floralteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_tea_set"
     },
     {
         "title": "Friendly Froggy Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Friendlyfroggyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_froggy_tea_set"
     },
     {
         "title": "High Class Tea Trolley",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Highclassteatrolley.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "high_class_tea_trolley"
     },
     {
         "title": "Ichiban Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Ichibanteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ichiban_tea_set"
     },
     {
         "title": "Icy North Tea Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Icynorthteadispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "icy_north_tea_dispenser"
     },
     {
         "title": "Jasmine Tea Serving Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Jasmineteaservingstation.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jasmine_tea_serving_station"
     },
     {
         "title": "Jumbleberry Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Jumbleberryteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jumbleberry_tea_set"
     },
     {
         "title": "Kids Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Kidsteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kids_tea_set"
     },
     {
         "title": "Mad Hatter Tea Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Madhatterteatable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mad_hatter_tea_table"
     },
     {
         "title": "Medieval Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Medievalteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "medieval_tea_set"
     },
     {
         "title": "Ming Tea Trolley",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Mingteatrolley.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ming_tea_trolley"
     },
     {
         "title": "Neo Gothic Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Neogothicteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neo_gothic_tea_set"
     },
     {
         "title": "Ornate Chai Serving Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Ornatechaiservingtable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ornate_chai_serving_table"
     },
     {
         "title": "Peppermint Tea Cup",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Peppermintteacup.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peppermint_tea_cup"
     },
     {
         "title": "Peppermint Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Peppermintteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peppermint_tea_set"
     },
     {
         "title": "Petal Tea Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Petalteapot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "petal_tea_pot"
     },
     {
         "title": "Pink Floral Tea Cup",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Pinkfloralteacup.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_floral_tea_cup"
     },
     {
         "title": "Pink Floral Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Pinkfloralteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_floral_tea_set"
     },
     {
         "title": "Pirate Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Pirateteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pirate_tea_set"
     },
     {
         "title": "Porcelain Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Porcelainteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "porcelain_tea_set"
     },
     {
         "title": "Regency Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Regencyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regency_tea_set"
     },
     {
         "title": "Royal Red Chai Tea Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/41/Royalredchaiteadispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "royal_red_chai_tea_dispenser"
     },
     {
         "title": "Spotted Tea Trolley",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Spottedteatrolley.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spotted_tea_trolley"
     },
     {
         "title": "Spring Tea Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Springteapot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_tea_pot"
     },
     {
         "title": "Storybook Tea Tray Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8a/Storybookteatraydispenser.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "storybook_tea_tray_dispenser"
     },
     {
         "title": "Stratospheric Tea Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Stratosphericteapot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stratospheric_tea_pot"
     },
     {
         "title": "Tasteful and Tasty Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Tastefulandtastyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tasteful_and_tasty_tea_set"
     },
     {
         "title": "Tea for Two Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Teafortwotable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tea_for_two_table"
     },
     {
         "title": "Tea Party Buffet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Teapartybuffet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tea_party_buffet"
     },
     {
         "title": "Tea Party Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Teapartyset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tea_party_set"
     },
     {
         "title": "Tea Party Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Teapartytable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tea_party_table"
     },
     {
         "title": "Toadstool Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Toadstoolteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "toadstool_tea_set"
     },
     {
         "title": "Victorian Garden Tea Cart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Victoriangardenteacart.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "victorian_garden_tea_cart"
     },
     {
         "title": "Wacky Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Wackyteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_tea_set"
     },
     {
         "title": "Winterfest Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Winterfestteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_tea_set"
     },
     {
         "title": "Wizard Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Wizardteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wizard_tea_set"
     },
     {
         "title": "Zumwhere Tea Set",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Zumwhereteaset.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zumwhere_tea_set"
     }
 ]

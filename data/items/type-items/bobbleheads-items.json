@@ -2,91 +2,109 @@
     {
         "title": "Alyssa Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Alyssabobblehead.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "alyssa_bobblehead"
     },
     {
         "title": "Bobblehead Arte",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Bobbleheadarte.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bobblehead_arte"
     },
     {
         "title": "Bratty Zum Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Brattyzumbobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bratty_zum_bobblehead"
     },
     {
         "title": "Cowabelle Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Cowabellebobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cowabelle_bobblehead_toy"
     },
     {
         "title": "Dr. Quack Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Drquackbobblehead.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dr._quack_bobblehead"
     },
     {
         "title": "Fish King Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Fishkingbobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fish_king_bobblehead_toy"
     },
     {
         "title": "Island Bunny Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Islandbunnybobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "island_bunny_bobblehead"
     },
     {
         "title": "Mayor Dr. Quack Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Mayordrquackbobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mayor_dr._quack_bobblehead"
     },
     {
         "title": "Mermaid Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Mermaidbobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermaid_bobblehead"
     },
     {
         "title": "Molly Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Mollybobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "molly_bobblehead_toy"
     },
     {
         "title": "Nafaria Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Nafariabobblehead.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "nafaria_bobblehead"
     },
     {
         "title": "Nibbles Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Nibblesbobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nibbles_bobblehead_toy"
     },
     {
         "title": "Plumpy Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Plumpybobblehead.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "plumpy_bobblehead"
     },
     {
         "title": "Pug Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Pugbobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pug_bobblehead"
     },
     {
         "title": "Reindeer Bobblehead",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Reindeerbobblehead.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "reindeer_bobblehead"
     },
     {
         "title": "Roberta Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Robertabobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "roberta_bobblehead_toy"
     },
     {
         "title": "Salley Cat Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Salleycatbobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "salley_cat_bobblehead_toy"
     },
     {
         "title": "Sparky Bobblehead Toy",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/Sparkybobbleheadtoy.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sparky_bobblehead_toy"
     }
 ]

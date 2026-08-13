@@ -2,326 +2,391 @@
     {
         "title": "Autumn Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Autumngazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_gazebo"
     },
     {
         "title": "Autumn Patio Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Autumnpatiogazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "autumn_patio_gazebo"
     },
     {
         "title": "Backyard Stained Glass Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Backyardstainedglassgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backyard_stained_glass_gazebo"
     },
     {
         "title": "Beachside Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Beachsidegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beachside_gazebo"
     },
     {
         "title": "Brilliant Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Brilliantgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "brilliant_gazebo"
     },
     {
         "title": "Carved Pumpkin Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Carvedpumpkingazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carved_pumpkin_gazebo"
     },
     {
         "title": "Catnip Canopy Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Catnipcanopygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "catnip_canopy_gazebo"
     },
     {
         "title": "Christmas Caroler Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Christmascarolergazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "christmas_caroler_gazebo"
     },
     {
         "title": "Country Garden Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Countrygardengazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "country_garden_gazebo"
     },
     {
         "title": "Countryside Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Countrysidegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "countryside_gazebo"
     },
     {
         "title": "Cozy Cottage Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Cozycottagegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_cottage_gazebo"
     },
     {
         "title": "Creepy Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Creepygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "creepy_gazebo"
     },
     {
         "title": "Daffodil Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Daffodilgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "daffodil_gazebo"
     },
     {
         "title": "Dreamy Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Dreamygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dreamy_gazebo"
     },
     {
         "title": "Elf Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d4/Elfgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "elf_gazebo"
     },
     {
         "title": "Enchanted Pond Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Enchantedpondgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "enchanted_pond_gazebo"
     },
     {
         "title": "Fairy Den Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Fairydengazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_gazebo"
     },
     {
         "title": "Fairykinz Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8f/Fairykinzgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairykinz_gazebo"
     },
     {
         "title": "Festive Gift Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Festivegiftgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "festive_gift_gazebo"
     },
     {
         "title": "Garden Party Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Gardenpartygazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_party_gazebo"
     },
     {
         "title": "Gazebo Summerhouse",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Gazebosummerhouse.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gazebo_summerhouse"
     },
     {
         "title": "Gazing Gazebo Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Gazinggazeboseat.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gazing_gazebo_seat"
     },
     {
         "title": "Gerbera Daisy Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Gerberadaisygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gerbera_daisy_gazebo"
     },
     {
         "title": "Ghastly Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Ghastlygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ghastly_gazebo"
     },
     {
         "title": "Glittering Gold Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Glitteringgoldgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glittering_gold_gazebo"
     },
     {
         "title": "Greenhouse Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Greenhousegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "greenhouse_gazebo"
     },
     {
         "title": "Happy New Year Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Happynewyeargazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "happy_new_year_gazebo"
     },
     {
         "title": "Holidays Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Holidaysgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holidays_gazebo"
     },
     {
         "title": "Holly Days Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Hollydaysgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holly_days_gazebo"
     },
     {
         "title": "Hot Tub Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Hottubgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hot_tub_gazebo"
     },
     {
         "title": "Ice Cream Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Icecreamgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_cream_gazebo"
     },
     {
         "title": "Icicle Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Iciclegazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "icicle_gazebo"
     },
     {
         "title": "Icing on the Cake Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Icingonthecakegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "icing_on_the_cake_gazebo"
     },
     {
         "title": "Lantern Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Lanterngazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lantern_gazebo"
     },
     {
         "title": "Lavish Carriage Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Lavishcarriagegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lavish_carriage_gazebo"
     },
     {
         "title": "Merry Mistletoe Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Merrymistletoegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "merry_mistletoe_gazebo"
     },
     {
         "title": "Monarch Stained Glass Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Monarchstainedglassgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "monarch_stained_glass_gazebo"
     },
     {
         "title": "Oak Tree Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2e/Oaktreegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "oak_tree_gazebo"
     },
     {
         "title": "Peppermint Lane Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Peppermintlanegazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_lane_gazebo"
     },
     {
         "title": "Purple Frost Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Purplefrostgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_frost_gazebo"
     },
     {
         "title": "Rainy Escape Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Rainyescapegazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "rainy_escape_gazebo"
     },
     {
         "title": "Red Granite Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Redgranitegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_granite_gazebo"
     },
     {
         "title": "Red Lantern Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Redlanterngazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_lantern_gazebo"
     },
     {
         "title": "SantaKinz Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Santakinzgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_gazebo"
     },
     {
         "title": "Spaniel Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Spanielgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spaniel_gazebo"
     },
     {
         "title": "Sparkling Diamond Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Sparklingdiamondgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sparkling_diamond_gazebo"
     },
     {
         "title": "Special Celebration Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Specialcelebrationgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "special_celebration_gazebo"
     },
     {
         "title": "Spring Daisy Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Springdaisygazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_daisy_gazebo"
     },
     {
         "title": "Spring Gazebo Seat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/72/Springgazeboseat.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_gazebo_seat"
     },
     {
         "title": "Spring Owl Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Springowlgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_owl_gazebo"
     },
     {
         "title": "Spring Stone Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Springstonegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_stone_gazebo"
     },
     {
         "title": "Stained Glass Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Stainedglassgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stained_glass_gazebo"
     },
     {
         "title": "Starfish Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fd/Starfishgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starfish_gazebo"
     },
     {
         "title": "Stone Mosaic Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Stonemosaicgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stone_mosaic_gazebo"
     },
     {
         "title": "Stylish Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Stylishgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stylish_gazebo"
     },
     {
         "title": "Tiger Lily Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Tigerlilygazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tiger_lily_gazebo"
     },
     {
         "title": "Tranquility Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Tranquilitygazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tranquility_gazebo"
     },
     {
         "title": "Twinkle Light Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Twinklelightgazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "twinkle_light_gazebo"
     },
     {
         "title": "Valentine Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Valentinegazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "valentine_gazebo"
     },
     {
         "title": "Violet Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Violetgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "violet_gazebo"
     },
     {
         "title": "Wildflower Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Wildflowergazebo.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wildflower_gazebo"
     },
     {
         "title": "Winter Ice Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Wintericegazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_ice_gazebo"
     },
     {
         "title": "Wisteria Patio Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Wisteriapatiogazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wisteria_patio_gazebo"
     },
     {
         "title": "Woodland Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Woodlandgazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "woodland_gazebo"
     },
     {
         "title": "Zen Garden Gazebo",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Zengardengazebo.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zen_garden_gazebo"
     }
 ]

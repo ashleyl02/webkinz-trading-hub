@@ -2,71 +2,85 @@
     {
         "title": "Ball Pit Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Ballpitslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ball_pit_slide"
     },
     {
         "title": "Balls of Yarn Peek and Find",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Ballsofyarnpeekandfind.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "balls_of_yarn_peek_and_find"
     },
     {
         "title": "Chocolate Playground Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Chocolateplaygroundballpit.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chocolate_playground_ball_pit"
     },
     {
         "title": "Goo Goo Berry Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Googooberryballpit.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goo_goo_berry_ball_pit"
     },
     {
         "title": "Gumball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Gumballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gumball_pit"
     },
     {
         "title": "Holiday Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Holidayballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_ball_pit"
     },
     {
         "title": "Mini Egg Play Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Minieggplaypit.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mini_egg_play_pit"
     },
     {
         "title": "Mosh Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b9/Moshballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mosh_ball_pit"
     },
     {
         "title": "Playful Pup Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Playfulpupballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "playful_pup_ball_pit"
     },
     {
         "title": "Playland Ball Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Playlandballpool.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "playland_ball_pool"
     },
     {
         "title": "Quilted Christmas Ball Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Quiltedchristmasballpool.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "quilted_christmas_ball_pool"
     },
     {
         "title": "The Zingoz Zangoz Bouncer!",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Thezingozzangozbouncer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "the_zingoz_zangoz_bouncer!"
     },
     {
         "title": "Winter Raccoon Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Winterraccoonballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_raccoon_ball_pit"
     },
     {
         "title": "Zummies Ball Pit",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Zummiesballpit.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zummies_ball_pit"
     }
 ]

@@ -2,96 +2,115 @@
     {
         "title": "Castle Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Castledoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "castle_door"
     },
     {
         "title": "Dark Queen Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Darkqueendoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_queen_door"
     },
     {
         "title": "Fabulous Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Fabulousstaircaseslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fabulous_staircase_slide"
     },
     {
         "title": "Fangtastic Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Fangtasticdoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fangtastic_door"
     },
     {
         "title": "Fly 90s Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Fly90sstaircaseslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fly_90s_staircase_slide"
     },
     {
         "title": "Gingerbread Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Gingerbreadstaircase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerbread_staircase"
     },
     {
         "title": "Goblin Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Goblindoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "goblin_door"
     },
     {
         "title": "Grand Staircase Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Grandstaircaseslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grand_staircase_slide"
     },
     {
         "title": "Halloween Front Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Halloweenfrontdoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "halloween_front_door"
     },
     {
         "title": "Pretty Pine Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Prettypinestaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pine_staircase"
     },
     {
         "title": "Slippery Holiday Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Slipperyholidaystaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slippery_holiday_staircase"
     },
     {
         "title": "Spring Celebration Decorated Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Springcelebrationdecorateddoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_celebration_decorated_door"
     },
     {
         "title": "Thanksgiving Decorated Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Thanksgivingdecorateddoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "thanksgiving_decorated_door"
     },
     {
         "title": "Toxic Treats Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Toxictreatsdoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toxic_treats_door"
     },
     {
         "title": "Trick or Treat Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Trickortreatdoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "trick_or_treat_door"
     },
     {
         "title": "Valentine Decorated Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Valentinedecorateddoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "valentine_decorated_door"
     },
     {
         "title": "Winter Chill Hideaway Stairs",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Winterchillhideawaystairs.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "winter_chill_hideaway_stairs"
     },
     {
         "title": "Winterfest Staircase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Winterfeststaircase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_staircase"
     },
     {
         "title": "Zombie Halloween Door",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/92/Zombiehalloweendoor.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "zombie_halloween_door"
     }
 ]

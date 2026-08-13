@@ -2,136 +2,163 @@
     {
         "title": "Ancient Clay Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Ancientclaypot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ancient_clay_pot"
     },
     {
         "title": "Ancient Vase Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Ancientvasefridge.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ancient_vase_fridge"
     },
     {
         "title": "Antique Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Antiquevase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_vase"
     },
     {
         "title": "Antique Western Brass Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Antiquewesternbrassvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_western_brass_vase"
     },
     {
         "title": "Blue Minaret Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Blueminaretvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_minaret_vase"
     },
     {
         "title": "Citrus Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Citrusvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "citrus_vase"
     },
     {
         "title": "Classic Villa Urn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Classicvillaurn.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "classic_villa_urn"
     },
     {
         "title": "Colossal Versailles Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Colossalversaillesvase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "colossal_versailles_vase"
     },
     {
         "title": "Crushing Wave Vase Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Crushingwavevasefridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crushing_wave_vase_fridge"
     },
     {
         "title": "Dried Jumbleberry Display",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Driedjumbleberrydisplay.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dried_jumbleberry_display"
     },
     {
         "title": "Egyptian Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Egyptianvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "egyptian_vase"
     },
     {
         "title": "Fall Fest Pinecone Arrangement",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Fallfestpineconearrangement.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_pinecone_arrangement"
     },
     {
         "title": "Fancy Frozen Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Fancyfrozenvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_frozen_vase"
     },
     {
         "title": "Ghostly Urn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Ghostlyurn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ghostly_urn"
     },
     {
         "title": "Gigantic Versailles Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Giganticversaillesvase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gigantic_versailles_vase"
     },
     {
         "title": "Glass Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Glassvase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "glass_vase"
     },
     {
         "title": "Golden Oil Lamp of Persia",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Goldenoillampofpersia.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_oil_lamp_of_persia"
     },
     {
         "title": "Green Ornament Display Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Greenornamentdisplaydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_ornament_display_dispenser"
     },
     {
         "title": "Helping Paws Club Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Helpingpawsclubvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_vase"
     },
     {
         "title": "Imperial Urn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Imperialurn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "imperial_urn"
     },
     {
         "title": "Ming Vase Panda Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Mingvasepandafridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ming_vase_panda_fridge"
     },
     {
         "title": "Olympus Urn Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Olympusurnfridge.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_urn_fridge"
     },
     {
         "title": "Red Ornament Display Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Redornamentdisplaydispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_ornament_display_dispenser"
     },
     {
         "title": "Royal Red Vase Fridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Royalredvasefridge.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "royal_red_vase_fridge"
     },
     {
         "title": "Sculpted Glass Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Sculptedglassvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sculpted_glass_vase"
     },
     {
         "title": "Tile Towers Clay Pot",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Tiletowersclaypot.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tile_towers_clay_pot"
     },
     {
         "title": "WKF Glass Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Wkfglassvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wkf_glass_vase"
     }
 ]

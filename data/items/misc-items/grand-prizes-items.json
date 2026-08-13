@@ -2,251 +2,301 @@
     {
         "title": "2020 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/2020milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2020_milk_chocolate_cottage"
     },
     {
         "title": "2020 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/2020whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2020_white_chocolate_cottage"
     },
     {
         "title": "2021 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/2021milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2021_milk_chocolate_cottage"
     },
     {
         "title": "2021 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/2021whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2021_white_chocolate_cottage"
     },
     {
         "title": "2022 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/37/2022milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2022_milk_chocolate_cottage"
     },
     {
         "title": "2022 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/2022whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2022_white_chocolate_cottage"
     },
     {
         "title": "2023 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/2023milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2023_milk_chocolate_cottage"
     },
     {
         "title": "2023 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/2023whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2023_white_chocolate_cottage"
     },
     {
         "title": "2024 Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/2024milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2024_milk_chocolate_cottage"
     },
     {
         "title": "2024 White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/2024whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "2024_white_chocolate_cottage"
     },
     {
         "title": "Adventure Scouts Snowmobile",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Adventurescoutssnowmobile.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "adventure_scouts_snowmobile"
     },
     {
         "title": "Apple Cider Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Appleciderdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_cider_dispenser"
     },
     {
         "title": "Apple Farm Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Applefarmbarn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_farm_barn"
     },
     {
         "title": "Autumn Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Autumnhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_hot_air_balloon"
     },
     {
         "title": "Autumn Leaf Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Autumnleafbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "autumn_leaf_bed"
     },
     {
         "title": "Beach House Bunk Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dd/Beachhousebunkbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_house_bunk_bed"
     },
     {
         "title": "Countryside Creek Bridge",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f2/Countrysidecreekbridge.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "countryside_creek_bridge"
     },
     {
         "title": "Crafting Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Craftingstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crafting_station"
     },
     {
         "title": "Easter Basket Hammock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Easterbaskethammock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "easter_basket_hammock"
     },
     {
         "title": "Enchanted Garden Cascading Fountain",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Enchantedgardencascadingfountain.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_garden_cascading_fountain"
     },
     {
         "title": "Enchanted Garden Water Wheel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7d/Enchantedgardenwaterwheel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "enchanted_garden_water_wheel"
     },
     {
         "title": "Fall Fest Barn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Fallfestbarn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_barn"
     },
     {
         "title": "Fall Fest Food Truck Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/34/Fallfestfoodtruckdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_fest_food_truck_dispenser"
     },
     {
         "title": "Fall Log Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Fallloghideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_log_hideaway"
     },
     {
         "title": "Fancy Frozen Piano",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1f/Fancyfrozenpiano.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fancy_frozen_piano"
     },
     {
         "title": "Giant Oak Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Giantoaktree.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "giant_oak_tree"
     },
     {
         "title": "Hotel Pool",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Hotelpool.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hotel_pool"
     },
     {
         "title": "Iceman Blues Jukebox",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Icemanbluesjukebox.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "iceman_blues_jukebox"
     },
     {
         "title": "Kinzville Bakery",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Kinzvillebakery.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_bakery"
     },
     {
         "title": "Kinzville Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Kinzvillespa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_spa"
     },
     {
         "title": "Main Street Inn",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Mainstreetinn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "main_street_inn"
     },
     {
         "title": "Milk Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Milkchocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "milk_chocolate_cottage"
     },
     {
         "title": "Orchard Apple Tree",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Orchardappletree.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orchard_apple_tree"
     },
     {
         "title": "Potted Corn Plant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Pottedcornplant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "potted_corn_plant"
     },
     {
         "title": "Pumpkin Coach Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Pumpkincoachbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pumpkin_coach_bed"
     },
     {
         "title": "Rescue Team ATV",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Rescueteamatv.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rescue_team_atv"
     },
     {
         "title": "Royal Ice Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Royalicebed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "royal_ice_bed"
     },
     {
         "title": "Royal Ice Sleigh",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Royalicesleigh.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "royal_ice_sleigh"
     },
     {
         "title": "Ski Slopes Wallpaper",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Skislopeswallpaper.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ski_slopes_wallpaper"
     },
     {
         "title": "Snow Fort Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/94/Snowfortslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snow_fort_slide"
     },
     {
         "title": "Spring Celebration Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Springcelebrationclocktower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_clock_tower"
     },
     {
         "title": "Spring Celebration Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Springcelebrationslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_slide"
     },
     {
         "title": "Weathered Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Weatheredhotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_hot_air_balloon"
     },
     {
         "title": "Weathered Stone Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Weatheredstonecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_stone_cottage"
     },
     {
         "title": "Weathered Windmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Weatheredwindmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "weathered_windmill"
     },
     {
         "title": "White Chocolate Cottage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Whitechocolatecottage.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_chocolate_cottage"
     },
     {
         "title": "White Lamp Post",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Whitelamppost.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_lamp_post"
     },
     {
         "title": "Winterfest Bunk Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Winterfestbunkbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_bunk_bed"
     },
     {
         "title": "Winterfest Food Truck Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/63/Winterfestfoodtruckdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_food_truck_dispenser"
     },
     {
         "title": "Winterfest Hot Air Balloon",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Winterfesthotairballoon.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_hot_air_balloon"
     }
 ]

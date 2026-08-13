@@ -2,76 +2,91 @@
     {
         "title": "Blue Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Bluetoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_toadstool_slide"
     },
     {
         "title": "Cozy Log Hideaway",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Cozyloghideaway.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_log_hideaway"
     },
     {
         "title": "Fall Branch Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Fallbranchbench.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_branch_bench"
     },
     {
         "title": "Goblin Toadstool Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Goblintoadstoolbench.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goblin_toadstool_bench"
     },
     {
         "title": "Haunted Hollow Log",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Hauntedhollowlog.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "haunted_hollow_log"
     },
     {
         "title": "Hidden Log Den",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Hiddenlogden.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hidden_log_den"
     },
     {
         "title": "Hollow Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Hollowbench.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hollow_bench"
     },
     {
         "title": "Kinzville Park Log Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Kinzvilleparklogbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_park_log_bench"
     },
     {
         "title": "Lovely Log Bed",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Lovelylogbed.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_log_bed"
     },
     {
         "title": "Lovely Log Couch",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Lovelylogcouch.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_log_couch"
     },
     {
         "title": "Orange Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Orangetoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_toadstool_slide"
     },
     {
         "title": "Peaceful Forest Log Lounger",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/96/Peacefulforestloglounger.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "peaceful_forest_log_lounger"
     },
     {
         "title": "Purple Toadstool Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6e/Purpletoadstoolslide.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_toadstool_slide"
     },
     {
         "title": "Toadstool Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Toadstoolbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "toadstool_bench"
     },
     {
         "title": "Wildflower Witch Bench",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Wildflowerwitchbench.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wildflower_witch_bench"
     }
 ]

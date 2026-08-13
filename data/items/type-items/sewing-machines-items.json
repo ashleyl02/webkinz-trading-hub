@@ -2,36 +2,43 @@
     {
         "title": "Classic Sewing Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Classicsewingmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "classic_sewing_machine"
     },
     {
         "title": "Cute Quilting Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Cutequiltingtable.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_quilting_table"
     },
     {
         "title": "Fashion Sewing Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Fashionsewingmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fashion_sewing_machine"
     },
     {
         "title": "Fashion Show Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Fashionshowstation.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fashion_show_station"
     },
     {
         "title": "Green Sewing Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7f/Greensewingmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_sewing_machine"
     },
     {
         "title": "Pretty Patterns Sewing Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Prettypatternssewingmachine.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pretty_patterns_sewing_machine"
     },
     {
         "title": "Sewing Club Sewing Machine",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Sewingclubsewingmachine.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sewing_club_sewing_machine"
     }
 ]

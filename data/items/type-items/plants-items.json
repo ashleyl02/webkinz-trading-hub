@@ -2,246 +2,295 @@
     {
         "title": "A+ Teacher's Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/A%2Bteachersbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "a+_teacher's_bouquet"
     },
     {
         "title": "Beautiful Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Beautifulbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beautiful_bouquet"
     },
     {
         "title": "Be My Valentine Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Bemyvalentinebouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "be_my_valentine_bouquet"
     },
     {
         "title": "Bouquet of Lilies",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Bouquetoflilies.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouquet_of_lilies"
     },
     {
         "title": "Bouquet of Marigolds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Bouquetofmarigolds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouquet_of_marigolds"
     },
     {
         "title": "Bouquet of Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Bouquetofroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bouquet_of_roses"
     },
     {
         "title": "Chocolate Tulip Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Chocolatetulipbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chocolate_tulip_bouquet"
     },
     {
         "title": "Dried Flowers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/14/Driedflowers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dried_flowers"
     },
     {
         "title": "Flower Cub Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Flowercubvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flower_cub_vase"
     },
     {
         "title": "Flower Shop Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Flowershopbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flower_shop_bouquet"
     },
     {
         "title": "Forever You Rose",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3a/Foreveryourose.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "forever_you_rose"
     },
     {
         "title": "Fresh Cut Flowers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Freshcutflowers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_cut_flowers"
     },
     {
         "title": "Fresh Cut Tulips",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a9/Freshcuttulips.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_cut_tulips"
     },
     {
         "title": "Fresh Tulips from the Garden",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Freshtulipsfromthegarden.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_tulips_from_the_garden"
     },
     {
         "title": "Fresh Wildflowers from the Garden",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Freshwildflowersfromthegarden.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fresh_wildflowers_from_the_garden"
     },
     {
         "title": "Glowing Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Glowingvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glowing_vase"
     },
     {
         "title": "Golden Base Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Goldenbasevase.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "golden_base_vase"
     },
     {
         "title": "Goo-Goo Berry Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f3/Googooberrybouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goo-goo_berry_bouquet"
     },
     {
         "title": "Gothic Halloween Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Gothichalloweenbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gothic_halloween_bouquet"
     },
     {
         "title": "Heart's Desire Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Heartsdesireroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "heart's_desire_roses"
     },
     {
         "title": "Helping Paws Club Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Helpingpawsclubbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "helping_paws_club_bouquet"
     },
     {
         "title": "Jar of Flowers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Jarofflowers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jar_of_flowers"
     },
     {
         "title": "Light Pink Rose in Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/db/Lightpinkroseincrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "light_pink_rose_in_crystal_vase"
     },
     {
         "title": "Lovely Caring Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/36/Lovelycaringbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_caring_bouquet"
     },
     {
         "title": "Milk Can Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Milkcanvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "milk_can_vase"
     },
     {
         "title": "Mother's Day Floral Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Mothersdayfloralbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mother's_day_floral_bouquet"
     },
     {
         "title": "Mother's Day Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Mothersdayvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mother's_day_vase"
     },
     {
         "title": "Neo Gothic Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Neogothicroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neo_gothic_roses"
     },
     {
         "title": "Neo Gothic Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4b/Neogothicvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neo_gothic_vase"
     },
     {
         "title": "Pink Hydrangeas",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Pinkhydrangeas.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_hydrangeas"
     },
     {
         "title": "Pink Rose in a Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Pinkroseinacrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_rose_in_a_crystal_vase"
     },
     {
         "title": "Polarberry Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9b/Polarberrybouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polarberry_bouquet"
     },
     {
         "title": "Pretty Pink Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/19/Prettypinkroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pretty_pink_roses"
     },
     {
         "title": "Purple Rose in Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Purpleroseincrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "purple_rose_in_crystal_vase"
     },
     {
         "title": "Rainbow Flowers",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3f/Rainbowflowers.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rainbow_flowers"
     },
     {
         "title": "Red Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Redroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_roses"
     },
     {
         "title": "Red Rose in Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Redroseincrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_rose_in_crystal_vase"
     },
     {
         "title": "Spring Egg Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Springeggbouquet.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spring_egg_bouquet"
     },
     {
         "title": "Sweetheart Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Sweetheartbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_bouquet"
     },
     {
         "title": "Sweetheart Roses",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Sweetheartroses.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweetheart_roses"
     },
     {
         "title": "Synthosphane Floor Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Synthosphanefloorvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "synthosphane_floor_vase"
     },
     {
         "title": "Tea Pot Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Teapotvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tea_pot_vase"
     },
     {
         "title": "Valentine's Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Valentinesbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "valentine's_bouquet"
     },
     {
         "title": "Vase of Pink Petunias",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Vaseofpinkpetunias.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "vase_of_pink_petunias"
     },
     {
         "title": "Watering Can Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Wateringcanbouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "watering_can_bouquet"
     },
     {
         "title": "White Rose in Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Whiteroseincrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_rose_in_crystal_vase"
     },
     {
         "title": "Year 20 Bouquet",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Year20bouquet.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_bouquet"
     },
     {
         "title": "Year 20 Centerpiece",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Year20centerpiece.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "year_20_centerpiece"
     },
     {
         "title": "Yellow Rose in Crystal Vase",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Yellowroseincrystalvase.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_rose_in_crystal_vase"
     }
 ]

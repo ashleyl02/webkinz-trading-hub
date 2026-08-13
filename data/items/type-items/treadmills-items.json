@@ -2,71 +2,85 @@
     {
         "title": "Beautiful Blush Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Beautifulblushtreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beautiful_blush_treadmill"
     },
     {
         "title": "Canopy Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Canopytreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "canopy_treadmill"
     },
     {
         "title": "Dashin' Dachshund Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Dashindachshundtreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dashin'_dachshund_treadmill"
     },
     {
         "title": "Frozen Tundra Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Frozentundratreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "frozen_tundra_treadmill"
     },
     {
         "title": "Fun to Run Yarn Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Funtorunyarnball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fun_to_run_yarn_ball"
     },
     {
         "title": "Grassland Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Grasslandtreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grassland_treadmill"
     },
     {
         "title": "Racetrack Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Racetracktreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "racetrack_treadmill"
     },
     {
         "title": "Retriever Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Retrievertreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "retriever_treadmill"
     },
     {
         "title": "Space Runner Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Spacerunnertreadmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "space_runner_treadmill"
     },
     {
         "title": "Speed Class Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Speedclasstreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "speed_class_treadmill"
     },
     {
         "title": "Tea Cup Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Teacuptreadmill.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tea_cup_treadmill"
     },
     {
         "title": "Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Treadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "treadmill"
     },
     {
         "title": "Underwater Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Underwatertreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "underwater_treadmill"
     },
     {
         "title": "Water Treadmill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Watertreadmill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "water_treadmill"
     }
 ]

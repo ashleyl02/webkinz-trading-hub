@@ -2,151 +2,181 @@
     {
         "title": "Bold Blue Wall Panel A",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Boldbluewallpanela.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bold_blue_wall_panel_a"
     },
     {
         "title": "Bold Blue Wall Panel B",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Boldbluewallpanelb.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bold_blue_wall_panel_b"
     },
     {
         "title": "Bold Blue Wall Panel C",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Boldbluewallpanelc.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bold_blue_wall_panel_c"
     },
     {
         "title": "Bold Blue Wall Panel D",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Boldbluewallpaneld.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bold_blue_wall_panel_d"
     },
     {
         "title": "Bold Blue Wall Panel E",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Boldbluewallpanele.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bold_blue_wall_panel_e"
     },
     {
         "title": "Cityscape View Panel 1",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Cityscapeviewpanel1.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cityscape_view_panel_1"
     },
     {
         "title": "Cityscape View Panel 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Cityscapeviewpanel2.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cityscape_view_panel_2"
     },
     {
         "title": "Cityscape View Panel 3",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/dc/Cityscapeviewpanel3.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cityscape_view_panel_3"
     },
     {
         "title": "Cityscape View Panel 4",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Cityscapeviewpanel4.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cityscape_view_panel_4"
     },
     {
         "title": "Cityscape View Panel 5",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/12/Cityscapeviewpanel5.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cityscape_view_panel_5"
     },
     {
         "title": "Fireworks Wall Panel 1",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Fireworkswallpanel1.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fireworks_wall_panel_1"
     },
     {
         "title": "Fireworks Wall Panel 2",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7e/Fireworkswallpanel2.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fireworks_wall_panel_2"
     },
     {
         "title": "Fireworks Wall Panel 3",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Fireworkswallpanel3.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fireworks_wall_panel_3"
     },
     {
         "title": "Fireworks Wall Panel 4",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Fireworkswallpanel4.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fireworks_wall_panel_4"
     },
     {
         "title": "Fireworks Wall Panel 5",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Fireworkswallpanel5.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fireworks_wall_panel_5"
     },
     {
         "title": "Googles Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Googleswallpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "googles_wall_panel"
     },
     {
         "title": "Gorilla Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Gorillawallpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gorilla_wall_panel"
     },
     {
         "title": "Mellow Yellow Wall Panel A",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Mellowyellowwallpanela.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mellow_yellow_wall_panel_a"
     },
     {
         "title": "Mellow Yellow Wall Panel B",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Mellowyellowwallpanelb.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mellow_yellow_wall_panel_b"
     },
     {
         "title": "Mellow Yellow Wall Panel C",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Mellowyellowwallpanelc.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mellow_yellow_wall_panel_c"
     },
     {
         "title": "Mellow Yellow Wall Panel D",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Mellowyellowwallpaneld.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mellow_yellow_wall_panel_d"
     },
     {
         "title": "Mellow Yellow Wall Panel E",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Mellowyellowwallpanele.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mellow_yellow_wall_panel_e"
     },
     {
         "title": "Orange Butterfly Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Orangebutterflywallpanel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_butterfly_wall_panel"
     },
     {
         "title": "Pug Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ce/Pugwallpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pug_wall_panel"
     },
     {
         "title": "Stuttered Sunrises Panels",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Stutteredsunrisespanels.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stuttered_sunrises_panels"
     },
     {
         "title": "Tiger Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Tigerwallpanel.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiger_wall_panel"
     },
     {
         "title": "Walrus Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Walruswallpanel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "walrus_wall_panel"
     },
     {
         "title": "Wild Savannah Wall Print",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ab/Wildsavannahwallprint.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wild_savannah_wall_print"
     },
     {
         "title": "Winterfest Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Winterfestwallpanel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winterfest_wall_panel"
     },
     {
         "title": "Yellow Butterfly Wall Panel",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/53/Yellowbutterflywallpanel.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_butterfly_wall_panel"
     }
 ]

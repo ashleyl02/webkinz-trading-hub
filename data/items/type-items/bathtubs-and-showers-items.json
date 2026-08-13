@@ -2,646 +2,781 @@
     {
         "title": "Ancient Civilization Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Ancientcivilizationbath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ancient_civilization_bath"
     },
     {
         "title": "Arctic Tusk Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Arctictusktub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arctic_tusk_tub"
     },
     {
         "title": "Athletic Soaking Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Athleticsoakingtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "athletic_soaking_tub"
+    },
+    {
+        "title": "Autumn Leaf Bathtub",
+        "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Autumnleafbathtub.png",
+        "is_tradeable": true,
+        "id": "autumn_leaf_bathtub"
     },
     {
         "title": "Awesome Avocado Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Awesomeavocadospa.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "awesome_avocado_spa"
     },
     {
         "title": "Backyard Living Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Backyardlivinghottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backyard_living_hot_tub"
     },
     {
         "title": "Barrel Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Barrelhottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "barrel_hot_tub"
     },
     {
         "title": "Bell Pepper Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Bellpepperbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bell_pepper_bathtub"
     },
     {
         "title": "Berry Blast Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Berryblastbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "berry_blast_bath"
     },
     {
         "title": "Birdbath Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Birdbathspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "birdbath_spa"
     },
     {
         "title": "Bloomin Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Bloominbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bloomin_bathtub"
     },
     {
         "title": "Blue Avenue Clawfoot Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Blueavenueclawfootbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_avenue_clawfoot_bathtub"
     },
     {
         "title": "Blue Hearts Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7b/Blueheartsbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blue_hearts_bathtub"
     },
     {
         "title": "Blueberry Bubble Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Blueberrybubblebath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blueberry_bubble_bath"
     },
     {
         "title": "Breezy Banana Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Breezybananabath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "breezy_banana_bath"
     },
     {
         "title": "Bubblegum Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Bubblegumbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubblegum_bathtub"
     },
     {
         "title": "Bubbly Blue Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Bubblybluebathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bubbly_blue_bathtub"
     },
     {
         "title": "Buttercup Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Buttercupbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "buttercup_bathtub"
     },
     {
         "title": "Calm Hearts Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a1/Calmheartsbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "calm_hearts_bathtub"
     },
     {
         "title": "Chalet Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Chaletbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chalet_bathtub"
     },
     {
         "title": "Charm Forest Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Charmforestbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charm_forest_bathtub"
     },
     {
         "title": "Clawfoot Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Clawfootbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clawfoot_bathtub"
     },
     {
         "title": "Clean Kitty Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/43/Cleankittybathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clean_kitty_bathtub"
     },
     {
         "title": "Cloudy Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cb/Cloudybathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cloudy_bathtub"
     },
     {
         "title": "Coconut Milk Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Coconutmilkbath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "coconut_milk_bath"
     },
     {
         "title": "Comfy Corner Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Comfycornerbath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "comfy_corner_bath"
     },
     {
         "title": "Cozy Winter Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/85/Cozywinterspa.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cozy_winter_spa"
     },
     {
         "title": "Cup of Cocoa Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Cupofcocoatub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cup_of_cocoa_tub"
     },
     {
         "title": "Cute Kiwi Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Cutekiwibathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cute_kiwi_bathtub"
     },
     {
         "title": "Cute Valentine Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Cutevalentinehottub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cute_valentine_hot_tub"
     },
     {
         "title": "Dancing Dasher Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d7/Dancingdasherbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dancing_dasher_bath"
     },
     {
         "title": "Day Outdoors Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Dayoutdoorsbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "day_outdoors_bathtub"
     },
     {
         "title": "Divine Dream Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Divinedreambath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "divine_dream_bath"
     },
     {
         "title": "Dogbeard's Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Dogbeardsbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "dogbeard's_bathtub"
     },
     {
         "title": "Dragon Hero Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/28/Dragonherobathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dragon_hero_bathtub"
     },
     {
         "title": "Fairykinz Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Fairykinzbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairykinz_bathtub"
     },
     {
         "title": "Fall Floral Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Fallfloralspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fall_floral_spa"
     },
     {
         "title": "Fantasy Stable Wheelbarrow Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Fantasystablewheelbarrowbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fantasy_stable_wheelbarrow_bathtub"
     },
     {
         "title": "Festive Wreath Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Festivewreathhottub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "festive_wreath_hot_tub"
     },
     {
         "title": "Fiesta Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ed/Fiestabathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fiesta_bathtub"
     },
     {
         "title": "Fire Fawn Hot tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Firefawnhottub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fire_fawn_hot_tub"
     },
     {
         "title": "Fine Perfume Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/70/Fineperfumebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fine_perfume_bath"
     },
     {
         "title": "Flop N'Slop Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Flopnslopbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "flop_n'slop_bathtub"
     },
     {
         "title": "Fluffy White Bubble Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Fluffywhitebubblebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fluffy_white_bubble_bath"
     },
     {
         "title": "Football Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/69/Footballtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "football_tub"
     },
     {
         "title": "Frosty Blue Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Frostybluespa.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "frosty_blue_spa"
     },
     {
         "title": "Funky Girl Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Funkygirlbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "funky_girl_bathtub"
     },
     {
         "title": "Garden Oasis Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Gardenoasishottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_oasis_hot_tub"
     },
     {
         "title": "Gardenia Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Gardeniatub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gardenia_tub"
     },
     {
         "title": "Golden Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Goldenbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_bathtub"
     },
     {
         "title": "Golden Ginkgo Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Goldenginkgobathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_ginkgo_bathtub"
     },
     {
         "title": "Golden Tiered Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Goldentieredtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "golden_tiered_tub"
     },
     {
         "title": "Green Glow Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Greenglowbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "green_glow_bathtub"
     },
     {
         "title": "Green Snowy Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Greensnowybath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_snowy_bath"
     },
     {
         "title": "Green Velvet Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Greenvelvetbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_velvet_bath"
     },
     {
         "title": "Heated Hound Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Heatedhoundhottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "heated_hound_hot_tub"
     },
     {
         "title": "High-Tech Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/91/Hightechbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "high-tech_bathtub"
     },
     {
         "title": "Holiday Flair Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Holidayflairbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "holiday_flair_bathtub"
     },
     {
         "title": "Holiday Silver Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Holidaysilverbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_silver_bath"
     },
     {
         "title": "Hot Citrus Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a4/Hotcitrusbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hot_citrus_bathtub"
     },
     {
         "title": "Ice Therapy Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Icetherapytub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ice_therapy_tub"
     },
     {
         "title": "Icy Ocean Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Icyoceanbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "icy_ocean_bathtub"
     },
     {
         "title": "Jumbleberry Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Jumbleberryspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jumbleberry_spa"
     },
     {
         "title": "Lavender Flair Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Lavenderflairbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_flair_bathtub"
     },
     {
         "title": "Lookout Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Lookouttub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lookout_tub"
     },
     {
         "title": "Lots of Dots Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/61/Lotsofdotsbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lots_of_dots_bathtub"
     },
     {
         "title": "Lovely Iridescent Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Lovelyiridescenttub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_iridescent_tub"
     },
     {
         "title": "Luxury Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Luxuryhottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "luxury_hot_tub"
     },
     {
         "title": "Magical Heart Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Magicalheartbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magical_heart_bathtub"
     },
     {
         "title": "Mermazing Bath Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Mermazingbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mermazing_bath_tub"
     },
     {
         "title": "Merry Mistletoe Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Merrymistletoebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "merry_mistletoe_bath"
     },
     {
         "title": "Mighty Jungle Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Mightyjungletub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mighty_jungle_tub"
     },
     {
         "title": "Moonbeam Sparkle Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f6/Moonbeamsparklebathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "moonbeam_sparkle_bathtub"
     },
     {
         "title": "Moonberry Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Moonberrybath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "moonberry_bath"
     },
     {
         "title": "Mud Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Mudbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mud_bathtub"
     },
     {
         "title": "Natural Springs Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Naturalspringsspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "natural_springs_spa"
     },
     {
         "title": "Neo Gothic Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Neogothicbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "neo_gothic_bathtub"
     },
     {
         "title": "Ohh La La Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Ohhlalabathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "ohh_la_la_bathtub"
     },
     {
         "title": "Orchid Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/ca/Orchidbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "orchid_bathtub"
     },
     {
         "title": "Painted Glass Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Paintedglassbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_glass_bathtub"
     },
     {
         "title": "Pioneer Bucket Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Pioneerbuckettub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pioneer_bucket_tub"
     },
     {
         "title": "Pirate's Rub-a-Dub Washtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5c/Piratesrubadubwashtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pirate's_rub-a-dub_washtub"
     },
     {
         "title": "Polarberry Bubble Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e0/Polarberrybubblebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polarberry_bubble_bath"
     },
     {
         "title": "Polka Dot Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/88/Polkadotbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "polka_dot_bathtub"
     },
     {
         "title": "Porcelain Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Porcelainbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "porcelain_bathtub"
     },
     {
         "title": "Porthole Barrel Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Portholebarrelhottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "porthole_barrel_hot_tub"
     },
     {
         "title": "Pure Elegance Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Pureelegancespa.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pure_elegance_spa"
     },
     {
         "title": "Red Rose Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2b/Redrosebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_rose_bath"
     },
     {
         "title": "Red Velvet Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/02/Redvelvettub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "red_velvet_tub"
     },
     {
         "title": "Regal Suite Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Regalsuitebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "regal_suite_bath"
     },
     {
         "title": "Relaxing Long Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Relaxinglongtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "relaxing_long_tub"
     },
     {
         "title": "Rubber Ducky Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Rubberduckybathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rubber_ducky_bathtub"
     },
     {
         "title": "Russet Ranch Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Russetranchbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "russet_ranch_bathtub"
     },
     {
         "title": "Sapphire Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Sapphirebathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sapphire_bathtub"
     },
     {
         "title": "Scented Bubble Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Scentedbubblebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scented_bubble_bath"
     },
     {
         "title": "Sea Blue Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Seabluebathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sea_blue_bathtub"
     },
     {
         "title": "Secluded Garden Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Secludedgardenbath.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_bath"
     },
     {
         "title": "Shoe Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Shoebathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "shoe_bathtub"
     },
     {
         "title": "Silver Tiered Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/42/Silvertieredtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "silver_tiered_tub"
     },
     {
         "title": "Sleek Sequin Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Sleeksequintub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sleek_sequin_tub"
     },
     {
         "title": "Slimy Monster Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Slimymonsterbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "slimy_monster_bathtub"
     },
     {
         "title": "Soft Gray Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f7/Softgraytub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_gray_tub"
     },
     {
         "title": "Soothing Scented Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Soothingscentedspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soothing_scented_spa"
     },
     {
         "title": "Sport Soaker Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Sportsoakertub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sport_soaker_tub"
     },
     {
         "title": "Spring Spa Soaking Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Springspasoakingbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_spa_soaking_bathtub"
     },
     {
         "title": "Strawberry Bubble Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Strawberrybubblebath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "strawberry_bubble_bath"
     },
     {
         "title": "Strawberry Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Strawberryspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "strawberry_spa"
     },
     {
         "title": "Stress Soaker Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/33/Stresssoakerhottub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stress_soaker_hot_tub"
     },
     {
         "title": "Summer Patio Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Summerpatiohottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_patio_hot_tub"
     },
     {
         "title": "Sunflower Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4a/Sunflowerspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunflower_spa"
     },
     {
         "title": "Superfan Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d1/Superfanhottub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "superfan_hot_tub"
     },
     {
         "title": "Surf Shack Hot Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fe/Surfshackhottub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "surf_shack_hot_tub"
     },
     {
         "title": "Tea Cup Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/71/Teacuptub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tea_cup_tub"
     },
     {
         "title": "Teddy Bear Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e7/Teddybearbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "teddy_bear_bathtub"
     },
     {
         "title": "Tender Tidings Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Tendertidingsbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tender_tidings_bathtub"
     },
     {
         "title": "Tin Bucket Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Tinbuckettub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tin_bucket_tub"
     },
     {
         "title": "Tranquil Teal Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e9/Tranquiltealbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tranquil_teal_bathtub"
     },
     {
         "title": "Tropical Oasis Bath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Tropicaloasisbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tropical_oasis_bath"
     },
     {
         "title": "True Blue Birdbath",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Truebluebirdbath.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "true_blue_birdbath"
     },
     {
         "title": "Tulip Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2d/Tuliptub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tulip_tub"
     },
     {
         "title": "Upbeat Chic Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Upbeatchicbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "upbeat_chic_bathtub"
     },
     {
         "title": "Wallowing Tub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Wallowingtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wallowing_tub"
     },
     {
         "title": "Webkinz Day 8 Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Webkinzday8bathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "webkinz_day_8_bathtub"
     },
     {
         "title": "Wetlands Pond Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4f/Wetlandspondbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wetlands_pond_bathtub"
     },
     {
         "title": "Wildflower Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/93/Wildflowerspa.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wildflower_spa"
     },
     {
         "title": "Witch's Brew Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Witchsbrewbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "witch's_brew_bathtub"
     },
     {
         "title": "Wooden Trough Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Woodentroughbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wooden_trough_bathtub"
     },
     {
         "title": "Violet Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Violetbathtub.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_bathtub"
     },
     {
         "title": "Violet Bliss Spa",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6a/Violetblissspa.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "violet_bliss_spa"
     },
     {
         "title": "You and Me Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Youandmebathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "you_and_me_bathtub"
     }
 ]

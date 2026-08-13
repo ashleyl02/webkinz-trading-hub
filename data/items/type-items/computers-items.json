@@ -2,56 +2,67 @@
     {
         "title": "Academy Editing Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ac/Academyeditingstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_editing_station"
     },
     {
         "title": "Academy Laptop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Academylaptop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "academy_laptop"
     },
     {
         "title": "Classroom Workstation",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Classroomworkstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "classroom_workstation"
     },
     {
         "title": "Computer Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Computerdesk.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "computer_desk"
     },
     {
         "title": "Computer Lab Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/46/Computerlabstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "computer_lab_station"
     },
     {
         "title": "Laptop Computer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/2016laptopcomputer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "laptop_computer"
     },
     {
         "title": "Lap Top Television",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/62/Laptoptelevision.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lap_top_television"
     },
     {
         "title": "L-Shaped Desk",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8b/Lshapeddesk.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "l-shaped_desk"
     },
     {
         "title": "Studio Loft Editing Suite",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Studiolofteditingsuite.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "studio_loft_editing_suite"
     },
     {
         "title": "Trendy Newz Blogger Laptop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Trendynewzbloggerlaptop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trendy_newz_blogger_laptop"
     },
     {
         "title": "Wacky Laptop",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Wackylaptop.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_laptop"
     }
 ]

@@ -2,26 +2,31 @@
     {
         "title": "Bell Pepper And Chive Patio Plant",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Bellpepperandchivepatioplant.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bell_pepper_and_chive_patio_plant"
     },
     {
         "title": "Bell Pepper Bathtub",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Bellpepperbathtub.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bell_pepper_bathtub"
     },
     {
         "title": "Growing Gardens Red Bell Pepper Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/50/Growinggardensredbellpepperseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "growing_gardens_red_bell_pepper_seeds"
     },
     {
         "title": "Growing Gardens Yellow Bell Pepper Seeds",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f9/Growinggardensyellowbellpepperseeds.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "growing_gardens_yellow_bell_pepper_seeds"
     },
     {
         "title": "Yellow Bell Pepper Window",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a7/Yellowbellpepperwindow.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "yellow_bell_pepper_window"
     }
 ]

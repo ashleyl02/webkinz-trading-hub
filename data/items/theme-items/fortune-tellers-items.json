@@ -2,61 +2,73 @@
     {
         "title": "Antique Fashion Mirror",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Antiquefashionmirror.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_fashion_mirror"
     },
     {
         "title": "Cranky Fortune Teller",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e1/Crankyfortuneteller.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cranky_fortune_teller"
     },
     {
         "title": "Cryptic Crystal Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Crypticcrystalball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cryptic_crystal_ball"
     },
     {
         "title": "Crystal Advisor Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/57/Crystaladvisorball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crystal_advisor_ball"
     },
     {
         "title": "Fortune Telling Pig Statue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Fortunetellingpigstatue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fortune_telling_pig_statue"
     },
     {
         "title": "Garden Gnome Fortune Teller",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Gardengnomefortuneteller.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "garden_gnome_fortune_teller"
     },
     {
         "title": "Googles Scrying Pond",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Googlesscryingpond.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "googles_scrying_pond"
     },
     {
         "title": "Lucky Zingoz Leprechaun",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/de/Luckyzingozleprechaun.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lucky_zingoz_leprechaun"
     },
     {
         "title": "Magic 9 Ball",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Magic9ball.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_9_ball"
     },
     {
         "title": "Three Wishes Genie Lamp",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Threewishesgenielamp.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "three_wishes_genie_lamp"
     },
     {
         "title": "Webkinz Wishing Well",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Webkinzwishingwell.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_wishing_well"
     },
     {
         "title": "Wise Wizard Hat",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Wisewizardhat.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wise_wizard_hat"
     }
 ]

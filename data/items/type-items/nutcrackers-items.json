@@ -2,76 +2,91 @@
     {
         "title": "Arte Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Artenutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arte_nutcracker"
     },
     {
         "title": "Blue SantaKinz Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a2/Bluesantakinznutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_santakinz_nutcracker"
     },
     {
         "title": "Drummer Boy Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/eb/Drummerboynutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "drummer_boy_nutcracker"
     },
     {
         "title": "Giant Clydesdale Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Giantclydesdalenutcracker.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "giant_clydesdale_nutcracker"
     },
     {
         "title": "Gold SantaKinz Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Goldsantakinznutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gold_santakinz_nutcracker"
     },
     {
         "title": "Green SantaKinz Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/47/Greensantakinznutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_santakinz_nutcracker"
     },
     {
         "title": "Jolly Jumbleberry Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Jollyjumbleberrynutcracker.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jumbleberry_nutcracker"
     },
     {
         "title": "Nice Nutcracker Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Nicenutcrackercolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nice_nutcracker_column"
     },
     {
         "title": "Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Nutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nutcracker"
     },
     {
         "title": "Nutcracker Column",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Nutcrackercolumn.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nutcracker_column"
     },
     {
         "title": "Santakinz Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Santakinznutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "santakinz_nutcracker"
     },
     {
         "title": "Special Holiday Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4c/Specialholidaynutcracker.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "special_holiday_nutcracker"
     },
     {
         "title": "Spicy Nutcracker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Spicynutcrackerdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spicy_nutcracker_dispenser"
     },
     {
         "title": "Sweet Nutcracker Dispenser",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Sweetnutcrackerdispenser.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweet_nutcracker_dispenser"
     },
     {
         "title": "White SantaKinz Nutcracker",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Whitesantakinznutcracker.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "white_santakinz_nutcracker"
     }
 ]

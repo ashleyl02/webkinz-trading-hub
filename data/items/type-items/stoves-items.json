@@ -2,606 +2,727 @@
     {
         "title": "Acorn Barbecue",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Acornbarbecue.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "acorn_barbecue"
     },
     {
         "title": "Alchemist's Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Alchemistsstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "alchemist's_stove"
     },
     {
         "title": "All Hallows' Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Allhallowsstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "all_hallows'_stove"
     },
     {
         "title": "Amplifier Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e8/Amplifierstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "amplifier_stove"
     },
     {
         "title": "Antique Iron Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/ba/Antiqueironstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_iron_stove"
     },
     {
         "title": "Avante Condo Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fa/Avantecondostove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "avante_condo_stove"
     },
     {
         "title": "Backyard Pizza Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Backyardpizzaoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "backyard_pizza_oven"
     },
     {
         "title": "Bakers Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Bakersoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bakers_oven"
     },
     {
         "title": "Bakin' Snake Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Bakinsnakestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bakin'_snake_stove"
     },
     {
         "title": "Barbeque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8d/Barbeque.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "barbeque"
     },
     {
         "title": "Beach Hibachi",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Beachhibachi.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_hibachi"
     },
     {
         "title": "Black and Chrome Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cc/Blackandchromepawstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "black_and_chrome_stove"
     },
     {
         "title": "Bloomin' Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/31/Bloominstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bloomin'_stove"
     },
     {
         "title": "Blushing Baker's Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Blushingbakersstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blushing_baker's_stove"
     },
     {
         "title": "BroilKinz BBQ",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Broilkinzbbq.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "broilkinz_bbq"
     },
     {
         "title": "Calming Campfire Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a8/Calmingcampfirestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "calming_campfire_stove"
     },
     {
         "title": "Car Hood Stove Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Carhoodstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "car_hood_stove_stove"
     },
     {
         "title": "Card Collector Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Cardcollectorstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "card_collector_stove"
     },
     {
         "title": "Carnival Peanut Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b8/Carnivalpeanutstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carnival_peanut_stove"
     },
     {
         "title": "Ceulean Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Ceruleanstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ceulean_stove"
     },
     {
         "title": "Charm Forest Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/79/Charmforeststove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "charm_forest_stove"
     },
     {
         "title": "Cheeky Cat Range",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Cheekycatrange.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheeky_cat_range"
     },
     {
         "title": "Cheeky Dog Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f4/Cheekydoggrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cheeky_dog_grill"
     },
     {
         "title": "Chef Gazpacho Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Chefgazpachostove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "chef_gazpacho_stove"
     },
     {
         "title": "Chef Gazpacho Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/2011chefgazpachostove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "chef_gazpacho_stove"
     },
     {
         "title": "City Skyline Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0f/Cityskylinestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "city_skyline_stove"
     },
     {
         "title": "Clockwork Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ea/Clockworkstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clockwork_stove"
     },
     {
         "title": "Countryside Fireplace Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Countrysidecottagefireplaceoven.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "countryside_fireplace_oven"
     },
     {
         "title": "Cozy Camping BBQ",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8c/Cozycampingbbq.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cozy_camping_bbq"
     },
     {
         "title": "Deep Sea Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Deepseastove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "deep_sea_stove"
     },
     {
         "title": "Egg Plant Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Eggplantoven.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "egg_plant_oven"
     },
     {
         "title": "Fast Food Fryer",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Fastfoodfryer.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fast_food_fryer"
     },
     {
         "title": "Fiesta Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Fiestastove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "fiesta_stove"
     },
     {
         "title": "Five Star Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Fivestarstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "five_star_stove"
     },
     {
         "title": "Football Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3d/Footballgrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "football_grill"
     },
     {
         "title": "Forest Titled Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Foresttiledstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "forest_titled_stove"
     },
     {
         "title": "Friendly Anemone Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e2/Friendlyanemonestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_anemone_stove"
     },
     {
         "title": "Friendly Froggy Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5b/Friendlyfroggystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "friendly_froggy_stove"
     },
     {
         "title": "Funky Girl Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Funkygirlstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "funky_girl_stove"
     },
     {
         "title": "Game Board Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d3/Gameboardstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "game_board_stove"
     },
     {
         "title": "Garden Patio BBQ",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ad/Gardenpatiobbq.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "garden_patio_bbq"
     },
     {
         "title": "Gingerbread Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/22/Gingerbreadoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_oven"
     },
     {
         "title": "Gingerbread Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Gingerbreadstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "gingerbread_stove"
     },
     {
         "title": "Glass Top Pink Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Glasstoppinkstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glass_top_pink_stove"
     },
     {
         "title": "Glass Top Purple Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Glasstoppurplestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "glass_top_purple_stove"
     },
     {
         "title": "Golden Sun Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d2/Goldensunstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "golden_sun_stove"
     },
     {
         "title": "Good as Golden Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Goodasgoldenstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "good_as_golden_stove"
     },
     {
         "title": "Goo-Goo Berry Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a0/Googooberrygrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "goo-goo_berry_grill"
     },
     {
         "title": "Greasy Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/06/Greasygrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "greasy_grill"
     },
     {
         "title": "Grilltop Table",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Grilltoptable.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grilltop_table"
     },
     {
         "title": "Healthful Hearth Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7c/Healthfulhearthstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "healthful_hearth_stove"
     },
     {
         "title": "High End Stainless Steel Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Highendstainlesssteelstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "high_end_stainless_steel_stove"
     },
     {
         "title": "Holiday Fire Pit Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/75/Holidayfirepitoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_fire_pit_oven"
     },
     {
         "title": "Holiday Silver Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Holidaysilverstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_silver_stove"
     },
     {
         "title": "Homespun Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c2/Homespunstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "homespun_stove"
     },
     {
         "title": "Hot Springs Mega Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Hotspringsmegastove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hot_springs_mega_stove"
     },
     {
         "title": "Hot Stuff Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Hotstuffstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "hot_stuff_stove"
     },
     {
         "title": "Hot Table Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/10/Hottableoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hot_table_oven"
     },
     {
         "title": "Iron Wood Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/65/Ironwoodstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "iron_wood_stove"
     },
     {
         "title": "Jam Maker's Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Jammakersstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "jam_maker's_stove"
     },
     {
         "title": "Just Cookin' Pop Star Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/7a/Justcookinpopstarstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "just_cookin'_pop_star_stove"
     },
     {
         "title": "Kid's Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Kidsstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kid's_stove"
     },
     {
         "title": "Kinzville Park Barbeque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Kinzvilleparkbarbeque.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_park_barbeque"
     },
     {
         "title": "Lovely Kitchen Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Lovelykitchenstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lovely_kitchen_stove"
     },
     {
         "title": "Magic Cauldron Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Magiccauldronstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "magic_cauldron_stove"
     },
     {
         "title": "Mango Tango Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Mangotangostove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mango_tango_stove"
     },
     {
         "title": "Master Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ec/Mastergrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "master_grill"
     },
     {
         "title": "Medieval Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/ae/Medievaloven.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "medieval_oven"
     },
     {
         "title": "Mega Barbeque",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Megabarbeque.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "mega_barbeque"
     },
     {
         "title": "Mega Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/68/Megastove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mega_stove"
     },
     {
         "title": "Molten Meals Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f1/Moltenmealsoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "molten_meals_oven"
     },
     {
         "title": "Neo Aztec Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/05/Neoaztecstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "neo_aztec_stove"
     },
     {
         "title": "Neon Lights Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2a/Neonlightsstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "neon_lights_stove"
     },
     {
         "title": "Olympus Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Olympusoven.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_oven"
     },
     {
         "title": "Painted Glass Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/20/Paintedglassstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "painted_glass_stove"
     },
     {
         "title": "Patchwork Holiday Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/26/Patchworkholidaystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "patchwork_holiday_stove"
     },
     {
         "title": "Paw Prints Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Pawprintsstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "paw_prints_stove"
     },
     {
         "title": "Peppermint Candymaker Cart",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/08/Peppermintcandymakercart.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_candymaker_cart"
     },
     {
         "title": "Pie in the Sky Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Pieintheskystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pie_in_the_sky_stove"
     },
     {
         "title": "Pioneer Wood Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c4/Pioneerwoodstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "pioneer_wood_stove"
     },
     {
         "title": "Pizza Palace Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Pizzapalaceoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pizza_palace_oven"
     },
     {
         "title": "Polarberry Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cf/Polarberrygrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polarberry_grill"
     },
     {
         "title": "Potter Kiln Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/29/Potterkilnoven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "potter_kiln_oven"
     },
     {
         "title": "Precipice Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2f/Precipicegrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "precipice_grill"
     },
     {
         "title": "Prehistoric Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Prehistoricstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "prehistoric_stove"
     },
     {
         "title": "Propane Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c6/Propanestove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "propane_stove"
     },
     {
         "title": "Puppy Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Puppystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "puppy_stove"
     },
     {
         "title": "Quilted Christmas Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bf/Quiltedchristmasstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "quilted_christmas_stove"
     },
     {
         "title": "Retro Gas Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/30/Retrogasstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "retro_gas_stove"
     },
     {
         "title": "Roamin' the Plains Grill",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6d/Roamintheplainsgrill.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "roamin'_the_plains_grill"
     },
     {
         "title": "Searing Stone Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Searingstonestove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "searing_stone_stove"
     },
     {
         "title": "Seashell Cottage Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Seashellcottagestove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "seashell_cottage_stove"
     },
     {
         "title": "Serving Stripes Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4d/Servingstripesstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "serving_stripes_stove"
     },
     {
         "title": "Sizzling Star Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Sizzlingstarstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sizzling_star_stove"
     },
     {
         "title": "Snack Cart Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/97/Snackcartstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snack_cart_stove"
     },
     {
         "title": "Soccer Ball Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/27/Soccerballstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soccer_ball_stove"
     },
     {
         "title": "Soft Baked Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Softbakedstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soft_baked_stove"
     },
     {
         "title": "Soft Spice Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/af/Softspicestove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "soft_spice_stove"
     },
     {
         "title": "Soup Station Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Soupstationstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "soup_station_stove"
     },
     {
         "title": "Spring Celebration Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/59/Springcelebrationstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_stove"
     },
     {
         "title": "Stainless Steel BBQ",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Stainlesssteelbbq.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stainless_steel_bbq"
     },
     {
         "title": "Starry Hamster Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/58/Starryhamsterstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starry_hamster_stove"
     },
     {
         "title": "Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Stove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stove"
     },
     {
         "title": "Strawberry Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/98/Strawberrystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "strawberry_stove"
     },
     {
         "title": "Stylish Elements Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Stylishelementsstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stylish_elements_stove"
     },
     {
         "title": "Stylish Kitchen Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Stylishkitchenstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stylish_kitchen_stove"
     },
     {
         "title": "Sugar and Spice Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Sugarandspicestove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sugar_and_spice_stove"
     },
     {
         "title": "Summer Patio Cook Station",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Summerpatiocookstation.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "summer_patio_cook_station"
     },
     {
         "title": "Super Scary Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Superscarystove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "super_scary_stove"
     },
     {
         "title": "Superfan Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c1/Superfanstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "superfan_stove"
     },
     {
         "title": "Sweets N Treats Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/78/Sweetsntreatsstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sweets_n_treats_stove"
     },
     {
         "title": "Talavera Kitchen",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Talaverakitchen.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "talavera_kitchen"
     },
     {
         "title": "Tender Treats Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/74/Tendertreatsstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tender_treats_stove"
     },
     {
         "title": "Tinkerpunk Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1d/Tinkerpunkstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tinkerpunk_stove"
     },
     {
         "title": "Trading Card 2.0 Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/aa/Tradingcard20stove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trading_card_2.0_stove"
     },
     {
         "title": "Trading Card Condo Oven",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Tradingcardcondooven.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trading_card_condo_oven"
     },
     {
         "title": "Watermelon Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a5/Watermelonstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "watermelon_stove"
     },
     {
         "title": "Winter Wonderland Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Winterwonderlandstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wonderland_stove"
     },
     {
         "title": "Witch's Brew Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Witchsbrewstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "witch's_brew_stove"
     },
     {
         "title": "Wood Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9f/Woodstove.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "wood_stove"
     },
     {
         "title": "Yellow Splendor Stove",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/40/Yellowsplendorstove.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_splendor_stove"
     }
 ]

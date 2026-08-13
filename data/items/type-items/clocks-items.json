@@ -2,521 +2,625 @@
     {
         "title": "Antique Store Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/39/Antiquestoreclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "antique_store_clock"
     },
     {
         "title": "Apple Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5d/Appleclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "apple_clock"
     },
     {
         "title": "Arte's Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9e/Artesclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "arte's_clock"
     },
     {
         "title": "Bake Shop Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Bakeshopwallclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "bake_shop_wall_clock"
     },
     {
         "title": "Beach House Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Beachhouseclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "beach_house_clock"
     },
     {
         "title": "Big Bark Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Bigbarkclocktower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "big_bark_clock_tower"
     },
     {
         "title": "Bloomin' Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Bloomingrandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "bloomin'_grandfather_clock"
     },
     {
         "title": "Blufadoodle Crazy Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b4/Blufadoodlecrazyclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "blufadoodle_crazy_clock"
     },
     {
         "title": "CandyKinz Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/25/Candykinzclocktower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "candykinz_clock_tower"
     },
     {
         "title": "Carnivalesque Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Carnivalesqueclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "carnivalesque_clock"
     },
     {
         "title": "Classic Diner Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bb/Classicdinerclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "classic_diner_clock"
     },
     {
         "title": "Classic Wooden Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Classicwoodenclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "classic_wooden_clock"
     },
     {
         "title": "Classroom Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a3/Classroomclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "classroom_clock"
     },
     {
         "title": "Clock of the Future",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9d/Clockofthefuture.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "clock_of_the_future"
     },
     {
         "title": "Compass Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Compassclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "compass_clock"
     },
     {
         "title": "Creepy Clocktower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Creepyclocktower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_clocktower"
     },
     {
         "title": "Creepy Clock Tower Swing",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Creepyclocktowerswing.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "creepy_clock_tower_swing"
     },
     {
         "title": "Creepy Ghostfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0d/Creepyghostfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "creepy_ghostfather_clock"
     },
     {
         "title": "Crime Fighter's Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b2/Crimefightersclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crime_fighter's_clock"
     },
     {
         "title": "Crustacean Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Crustaceanclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "crustacean_clock"
     },
     {
         "title": "Cucumber Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/82/Cucumberclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "cucumber_clock"
     },
     {
         "title": "Cukoo Cat Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/49/Cukoocatclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cukoo_cat_clock"
     },
     {
         "title": "Cukoo Kitty Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/90/Cukookittyclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "cukoo_kitty_clock"
     },
     {
         "title": "Dark Wizard Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Darkwizardclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dark_wizard_clock"
     },
     {
         "title": "Deluxe Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/fb/Deluxeclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "deluxe_clock"
     },
     {
         "title": "Digital Alarm Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/ee/Digitalalarmclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "digital_alarm_clock"
     },
     {
         "title": "Digital Stopwatch Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Digitalstopwatchclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "digital_stopwatch_clock"
     },
     {
         "title": "Dog Bone Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Dogbonegrandfatherclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dog_bone_grandfather_clock"
     },
     {
         "title": "Fairy Den Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/03/Fairydenclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "fairy_den_clock"
     },
     {
         "title": "Farm Time Kitchen Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Farmtimekitchenclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "farm_time_kitchen_clock"
     },
     {
         "title": "Floral French Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9a/Floralfrenchclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "floral_french_clock"
     },
     {
         "title": "Game Board Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/4e/Gameboardwallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "game_board_wall_clock"
     },
     {
         "title": "Gingerbread Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3b/Gingerbreadclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerbread_clock"
     },
     {
         "title": "Gingerbread Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/86/Gingerbreadclocktower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gingerbread_clock_tower"
     },
     {
         "title": "Gothic Halloween Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Gothichalloweenclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "gothic_halloween_clock"
     },
     {
         "title": "Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Grandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grandfather_clock"
     },
     {
         "title": "Grape Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/04/Grapewallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "grape_wall_clock"
     },
     {
         "title": "Green Apple Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Greenappleclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_apple_clock"
     },
     {
         "title": "Grey Owl Clock Radio",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/66/Greyowlclockradio.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "grey_owl_clock_radio"
     },
     {
         "title": "Handmade Zingoz Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1b/Handmadezingozclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "handmade_zingoz_clock"
     },
     {
         "title": "Hickory Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/87/Hickoryclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "hickory_clock"
     },
     {
         "title": "Holiday Home Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/44/Holidayhomegrandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_home_grandfather_clock"
     },
     {
         "title": "Holiday Nutcracker Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Holidaynutcrackerclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "holiday_nutcracker_clock"
     },
     {
         "title": "Jolly Jubilee Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c9/Jollyjubileeclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "jolly_jubilee_clock"
     },
     {
         "title": "Kinzville Academy Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Kinzvilleacademyclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_academy_clock"
     },
     {
         "title": "Kinzville Cuckoo Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Kinzvillecuckooclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "kinzville_cuckoo_clock"
     },
     {
         "title": "Kinzville Gingerbread Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/24/Kinzvillegingerbreadclocktower.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_gingerbread_clock_tower"
     },
     {
         "title": "Kinzville Town Square Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/64/Kinzvilletownsquareclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "kinzville_town_square_clock"
     },
     {
         "title": "Lavender Flair Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/35/Lavenderflairclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lavender_flair_clock"
     },
     {
         "title": "Lemon-Lime Time Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/17/Lemonlimetimeclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "lemon-lime_time_clock"
     },
     {
         "title": "Lots of Dots Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0c/Lotsofdotsclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "lots_of_dots_clock"
     },
     {
         "title": "Luxurious Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5f/Luxuriousclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "luxurious_clock"
     },
     {
         "title": "Magical Phoenix Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/9c/Magicalphoenixclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magical_phoenix_clock"
     },
     {
         "title": "Magical Toy Emporium Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c8/Magicaltoyemporiumclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "magical_toy_emporium_clock"
     },
     {
         "title": "Modern Floor Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/23/Modernfloorclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "modern_floor_clock"
     },
     {
         "title": "Neo Gothic Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Neogothicgrandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "neo_gothic_grandfather_clock"
     },
     {
         "title": "Nocturnal Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Nocturnalclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nocturnal_clock"
     },
     {
         "title": "Nursery Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b0/Nurserywallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "nursery_wall_clock"
     },
     {
         "title": "Olympus Statue Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d8/Olympusstatueclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "olympus_statue_clock"
     },
     {
         "title": "On the Farm Alarm Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Onthefarmalarmclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "on_the_farm_alarm_clock"
     },
     {
         "title": "Peppermint Clock Slide",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/cd/Peppermintclockslide.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "peppermint_clock_slide"
     },
     {
         "title": "Pink Hearts Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/da/Pinkheartsclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "pink_hearts_clock"
     },
     {
         "title": "Polka Dot Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/55/Polkadotclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "polka_dot_clock"
     },
     {
         "title": "Polka Dot Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/09/Polkadotwallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "polka_dot_wall_clock"
     },
     {
         "title": "Prize Klaw Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5a/Prizeklawclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "prize_klaw_clock"
     },
     {
         "title": "Puppy Collar Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bd/Puppycollarclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "puppy_collar_clock"
     },
     {
         "title": "Purple Petal Digital Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/73/Purplepetaldigitalwallclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "purple_petal_digital_wall_clock"
     },
     {
         "title": "Red Heart Alarm Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/2c/Redheartalarmclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_heart_alarm_clock"
     },
     {
         "title": "Relaxing Red Clock Storage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/48/Relaxingredclockstorage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "relaxing_red_clock_storage"
     },
     {
         "title": "Rock Around the Croc Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/01/Rockaroundthecrocclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rock_around_the_croc_clock"
     },
     {
         "title": "Rockin' Robot Digital Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Rockinrobotdigitalclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "rockin'_robot_digital_clock"
     },
     {
         "title": "Scoreboard Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Scoreboardclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "scoreboard_clock"
     },
     {
         "title": "Secluded Garden Sundial",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/13/Secludedgardensundial.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "secluded_garden_sundial"
     },
     {
         "title": "Sequin Heart Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e3/Sequinheartclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "sequin_heart_clock"
     },
     {
         "title": "Snowflake Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/15/Snowflakewallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowflake_wall_clock"
     },
     {
         "title": "Snowman Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/3e/Snowmanclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "snowman_clock"
     },
     {
         "title": "Spooky Gothic Clock Storage",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/56/Spookygothicclockstorage.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "spooky_gothic_clock_storage"
     },
     {
         "title": "Spring Celebration Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c5/Springcelebrationclocktower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "spring_celebration_clock_tower"
     },
     {
         "title": "Springtime Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b3/Springtimeclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "springtime_clock"
     },
     {
         "title": "Stainless Steel Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f8/Stainlesssteelclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stainless_steel_clock"
     },
     {
         "title": "Starry Night Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6b/Starrynightgrandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "starry_night_grandfather_clock"
     },
     {
         "title": "Stone Sundial",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/60/Stonesundial.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "stone_sundial"
     },
     {
         "title": "Stopwatch Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/99/Stopwatchclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "stopwatch_clock"
     },
     {
         "title": "Sugarberry Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/77/Sugarberrywallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sugarberry_wall_clock"
     },
     {
         "title": "Sugar Cookie Clock Tower",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Sugarcookieclocktower.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sugar_cookie_clock_tower"
     },
     {
         "title": "Sunburst Wall Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b6/Sunburstwallclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunburst_wall_clock"
     },
     {
         "title": "Sunlit Sundial",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Sunlitsundial.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sunlit_sundial"
     },
     {
         "title": "Tabby's Job Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/16/Tabbysjobclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tabby's_job_clock"
     },
     {
         "title": "Tiki Pineapple Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b7/Tikipineappleclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tiki_pineapple_clock"
     },
     {
         "title": "Time Warp Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0a/Timewarpclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "time_warp_clock"
     },
     {
         "title": "Tinkerpunk Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/5e/Tinkerpunkgrandfatherclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "tinkerpunk_grandfather_clock"
     },
     {
         "title": "Tin Man Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/9/95/Tinmanclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "tin_man_clock"
     },
     {
         "title": "Totally Tik Tok Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/8e/Totallytiktokclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "totally_tik_tok_clock"
     },
     {
         "title": "Town Square Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/18/Townsquareclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "town_square_clock"
     },
     {
         "title": "Trading Card Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/83/Tradingcardclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "trading_card_clock"
     },
     {
         "title": "Train Station Floor Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e4/Trainstationfloorclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "train_station_floor_clock"
     },
     {
         "title": "Twinkling Rainbow Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b1/Twinklingrainbowclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "twinkling_rainbow_clock"
     },
     {
         "title": "Upbeat Chic Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1c/Upbeatchicclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "upbeat_chic_clock"
     },
     {
         "title": "Warped Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/11/Warpedgrandfatherclock.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "warped_grandfather_clock"
     },
     {
         "title": "Webkinz Cares Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/80/Webkinzcaresclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "webkinz_cares_clock"
     },
     {
         "title": "Winter Wonderland Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Winterwonderlandclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "winter_wonderland_clock"
     },
     {
         "title": "Wooden Grandfather Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/67/Woodengrandfatherclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wooden_grandfather_clock"
     },
     {
         "title": "Woodland Fairy Clock",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1a/Woodlandfairyclock.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "woodland_fairy_clock"
     },
     {
         "title": "Zodiac Sundial",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/54/Zodiacsundial.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zodiac_sundial"
     }
 ]

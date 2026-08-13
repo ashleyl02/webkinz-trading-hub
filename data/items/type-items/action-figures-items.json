@@ -2,121 +2,145 @@
     {
         "title": "Blue Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d6/Blueleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "blue_leprechaun_action_figure"
     },
     {
         "title": "Dex Dangerous Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/be/Dexdangerousactionfigure.png",
-        "is_tradeable": false
+        "is_tradeable": false,
+        "id": "dex_dangerous_action_figure"
     },
     {
         "title": "Ella McWoof Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d9/Ellamcwoofactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "ella_mcwoof_action_figure"
     },
     {
         "title": "Green Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/bc/Greenleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "green_leprechaun_action_figure"
     },
     {
         "title": "Inukshuk Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e5/Inukshukactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "inukshuk_action_figure"
     },
     {
         "title": "Mandy Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/32/Mandywebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mandy_webkinz_action_figure"
     },
     {
         "title": "Mayor Arte Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/a/a6/Mayorarteactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mayor_arte_action_figure"
     },
     {
         "title": "Mayor Dr. Quack Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c0/Mayordrquackactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "mayor_dr._quack_action_figure"
     },
     {
         "title": "Michael Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/f/f5/Michaelwebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "michael_webkinz_action_figure"
     },
     {
         "title": "Orange Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/2/21/Orangeleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "orange_leprechaun_action_figure"
     },
     {
         "title": "Red Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/b/b5/Redleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "red_leprechaun_action_figure"
     },
     {
         "title": "Sally Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/7/76/Sallywebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "sally_webkinz_action_figure"
     },
     {
         "title": "Signed Ella McWoof Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/d/d5/Signedellamcwoofactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_ella_mcwoof_action_figure"
     },
     {
         "title": "Signed Mandy Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/e/e6/Signedmandywebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_mandy_webkinz_action_figure"
     },
     {
         "title": "Signed Mayor Dr Quack Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/84/Signedmayordrquackactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_mayor_dr_quack_action_figure"
     },
     {
         "title": "Signed Michael Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/3/38/Signedmichaelwebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_michael_webkinz_action_figure"
     },
     {
         "title": "Signed Sally Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/1/1e/Signedsallywebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_sally_webkinz_action_figure"
     },
     {
         "title": "Signed Steve Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/5/51/Signedstevewebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "signed_steve_webkinz_action_figure"
     },
     {
         "title": "Steve Webkinz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Stevewebkinzactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "steve_webkinz_action_figure"
     },
     {
         "title": "Violet Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/6/6c/Violetleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "violet_leprechaun_action_figure"
     },
     {
         "title": "Wacky Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/8/81/Wackyactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "wacky_action_figure"
     },
     {
         "title": "Yellow Leprechaun Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/c/c7/Yellowleprechaunactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yellow_leprechaun_action_figure"
     },
     {
         "title": "Yeti Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/0/0e/Yetiactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "yeti_action_figure"
     },
     {
         "title": "Zangoz Action Figure",
         "image_url": "https://static.wikitide.net/webkinzguidewiki/4/45/Zangozactionfigure.png",
-        "is_tradeable": true
+        "is_tradeable": true,
+        "id": "zangoz_action_figure"
     }
 ]
