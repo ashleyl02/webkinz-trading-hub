@@ -75,6 +75,12 @@ fetch(jsonFile)
                 container.appendChild(card);
             }
         });
+
+        if (container.children.length === 0) {
+            const noItemsMessage = document.createElement("p");
+            noItemsMessage.textContent = "No tradeable items found in this category.";
+            container.appendChild(noItemsMessage);
+        }
     })
     .catch(error => {
         console.error(`Error loading items: ${jsonFile}`, error);
