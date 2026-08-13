@@ -118,6 +118,11 @@ main {
     max-width: 120px;
 }
 
+.item-card p {
+    height: 50px;
+    font-size: 0.9em;
+}
+
 .items {
     display: flex;
     flex-wrap: wrap;
