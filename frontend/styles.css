@@ -127,7 +127,11 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 3%
+    gap: 5%;
+}
+
+.items img {
+    padding-top: 40px;
 }
 
 .tabs {
