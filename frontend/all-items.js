@@ -5,6 +5,10 @@ const collections = [
     { name: "type", file: "../data/collections/type-collections.json" }
 ];
 
+const ITEMS_PER_PAGE = 50;
+let currentPage = 1;
+let itemCount = 0;
+
 async function loadAllItems() {
     try {
         const allItems = [];
@@ -27,6 +31,7 @@ async function loadAllItems() {
         const uniqueItems = [...new Map(allItems.map(item => [item.id, item])).values()];
 
         uniqueItems.sort((a, b) => a.title.localeCompare(b.title));
+        itemCount = uniqueItems.length;
 
         displayItems(uniqueItems);
     } catch (error) {
@@ -36,8 +41,13 @@ async function loadAllItems() {
 
 function displayItems(items) {
     const container = document.getElementById("items");
+    container.innerHTML = "";
 
-    items.forEach(item => {
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    const endIndex = startIndex + ITEMS_PER_PAGE;
+    const paginatedItems = items.slice(startIndex, endIndex);
+
+    paginatedItems.forEach(item => {
         if (item.is_tradeable) {
             const card = document.createElement("div");
             card.className = "item-card";
@@ -80,6 +90,34 @@ function displayItems(items) {
             container.appendChild(card);
         }
     });
+
+    setupPagination(items);
+}
+
+function setupPagination(items) {
+    const pageNumbers = document.getElementById("page-numbers");
+    const prev = document.getElementById("prev");
+    const next = document.getElementById("next");
+
+    const totalPages = Math.ceil(itemCount / ITEMS_PER_PAGE);
+
+    pageNumbers.innerHTML = `Page ${currentPage} of ${totalPages}`;
+
+    prev.onclick = (event) => {
+        event.preventDefault();
+        if (currentPage > 1) {
+            currentPage--;
+            displayItems(items);
+        }
+    };
+
+    next.onclick = (event) => {
+        event.preventDefault();
+        if (currentPage < totalPages) {
+            currentPage++;
+            displayItems(items);
+        }
+    };
 }
 
 loadAllItems();
