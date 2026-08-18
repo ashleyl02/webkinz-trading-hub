@@ -30,10 +30,12 @@ async function loadAllItems() {
 
         const uniqueItems = [...new Map(allItems.map(item => [item.id, item])).values()];
 
-        uniqueItems.sort((a, b) => a.title.localeCompare(b.title));
-        itemCount = uniqueItems.length;
+        const tradeableItems = uniqueItems.filter(item => item.is_tradeable);
 
-        displayItems(uniqueItems);
+        tradeableItems.sort((a, b) => a.title.localeCompare(b.title));
+        itemCount = tradeableItems.length;
+
+        displayItems(tradeableItems);
     } catch (error) {
         console.error("Error loading all items:", error);
     }
@@ -48,47 +50,45 @@ function displayItems(items) {
     const paginatedItems = items.slice(startIndex, endIndex);
 
     paginatedItems.forEach(item => {
-        if (item.is_tradeable) {
-            const card = document.createElement("div");
-            card.className = "item-card";
-            const img = document.createElement("img");
-            img.src = item.image_url;
-            img.alt = item.title;
-            const caption = document.createElement("p");
-            caption.textContent = item.title;
+        const card = document.createElement("div");
+        card.className = "item-card";
+        const img = document.createElement("img");
+        img.src = item.image_url;
+        img.alt = item.title;
+        const caption = document.createElement("p");
+        caption.textContent = item.title;
 
-            const buttonContainer = document.createElement("div");
-            buttonContainer.className = "button-container";
+        const buttonContainer = document.createElement("div");
+        buttonContainer.className = "button-container";
 
-            const wishlistButtonContainer = document.createElement("div");
-            wishlistButtonContainer.className = "wishlist-button";
-            const wishlistButton = document.createElement("input");
-            wishlistButton.type = "checkbox";
-            wishlistButton.id = `wishlist-${item.id}`;
-            const wishlistLabel = document.createElement("label");
-            wishlistLabel.setAttribute("for", wishlistButton.id);
-            wishlistButtonContainer.appendChild(wishlistButton);
-            wishlistButtonContainer.appendChild(wishlistLabel);
+        const wishlistButtonContainer = document.createElement("div");
+        wishlistButtonContainer.className = "wishlist-button";
+        const wishlistButton = document.createElement("input");
+        wishlistButton.type = "checkbox";
+        wishlistButton.id = `wishlist-${item.id}`;
+        const wishlistLabel = document.createElement("label");
+        wishlistLabel.setAttribute("for", wishlistButton.id);
+        wishlistButtonContainer.appendChild(wishlistButton);
+        wishlistButtonContainer.appendChild(wishlistLabel);
 
-            const inventoryButtonContainer = document.createElement("div");
-            inventoryButtonContainer.className = "inventory-button";
-            const inventoryButton = document.createElement("input");
-            inventoryButton.type = "checkbox";
-            inventoryButton.id = `inventory-${item.id}`;
-            const inventoryLabel = document.createElement("label");
-            inventoryLabel.setAttribute("for", inventoryButton.id);
-            inventoryButtonContainer.appendChild(inventoryButton);
-            inventoryButtonContainer.appendChild(inventoryLabel);
+        const inventoryButtonContainer = document.createElement("div");
+        inventoryButtonContainer.className = "inventory-button";
+        const inventoryButton = document.createElement("input");
+        inventoryButton.type = "checkbox";
+        inventoryButton.id = `inventory-${item.id}`;
+        const inventoryLabel = document.createElement("label");
+        inventoryLabel.setAttribute("for", inventoryButton.id);
+        inventoryButtonContainer.appendChild(inventoryButton);
+        inventoryButtonContainer.appendChild(inventoryLabel);
 
-            buttonContainer.appendChild(wishlistButtonContainer);
-            buttonContainer.appendChild(inventoryButtonContainer);
+        buttonContainer.appendChild(wishlistButtonContainer);
+        buttonContainer.appendChild(inventoryButtonContainer);
 
-            card.appendChild(img);
-            card.appendChild(caption);
-            card.appendChild(buttonContainer);
+        card.appendChild(img);
+        card.appendChild(caption);
+        card.appendChild(buttonContainer);
 
-            container.appendChild(card);
-        }
+        container.appendChild(card);
     });
 
     setupPagination(items);
