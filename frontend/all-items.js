@@ -103,6 +103,10 @@ function setupPagination(items) {
 
     pageNumbers.innerHTML = `Page ${currentPage} of ${totalPages}`;
 
+    window.scrollTo({
+        top: 0,
+    });
+
     prev.onclick = (event) => {
         event.preventDefault();
         if (currentPage > 1) {
